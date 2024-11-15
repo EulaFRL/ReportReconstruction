@@ -3,7 +3,7 @@ import csv
 from collections import defaultdict
 
 in_path = "data/medcat_cleaned.jsonl"
-out_path = "data/med_name_freq.csv"
+out_path = "data/med_name_freq_raw.csv"
 
 def count_pretty_name(data):
     """
