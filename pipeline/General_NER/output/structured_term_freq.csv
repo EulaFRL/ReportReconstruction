@@ -1,0 +1,90 @@
+Label,Frequency
+AJCC 7th edition stage,150
+"Stage Only (if separate T, N, & M not available)",88
+Abnormality code number,88
+"Stage (""Best"": Path if avail., else Clin)",78
+Lung cancer Stage,77
+Abnormality description,76
+Study year associated with first confirmed lung cancer,72
+Clinical Stage,70
+Pathologic Stage,70
+Abnormality number (unique identifier),64
+Clinical N for staging,62
+AJCC 7th edition staging clinical N component,61
+AJCC 7th edition staging clinical T component,59
+AJCC 7th edition staging path T component,59
+Clinical T for staging,51
+Study Year of Diagnosis,51
+Interval suspicious change in attenuation,50
+Days from randomization to date when participant was last known to be free from lung cancer,50
+Pathologic T for staging,48
+AJCC 7th edition staging clinical M component,39
+Race,36
+Technical parameters: Display FOV in cm,35
+Technical parameters: Effective mAs,33
+"Source of ""best"" stage (de_stag)",33
+Lung Cancer Grade,33
+Technical parameters: kVp,31
+Location of epicenter,30
+Technical parameters: mA,29
+Result of screen associated with the first confirmed lung cancer diagnosis,29
+Summary staging,28
+Lung cancer type from ICD-O-3 morphology,27
+Was the abnormality not identified until the comparison with historical images?,27
+VALCSG Stage (Small cell only),25
+Interval change warrants further investigation (for oth. sig. abn. only),25
+Lung cancer grade,24
+Pathologic M for staging,24
+Is the diagnosis of lung cancer associated with a positive screen?,24
+Longest perpendicular diameter (same CT slice in mm),24
+CT slice number containing abnormality's greatest diameter,24
+Clinical M for staging,24
+ICD-O-3 Morphology (from histology),23
+Predominant attenuation,22
+ICD-O-3 Grade,21
+Smoking status at T0,21
+Is this cancer the first lung cancer diagnosed?,21
+Cancer in Left main stem bronchus,20
+Cancer in Right main stem bronchus,20
+Days from randomization date to earliest date visible,19
+Cancer in Left lower lobe,18
+Margins,18
+Cancer in Left upper lobe,18
+Order of this lung cancer among all lung cancers for this participant,18
+Cancer in Right lower lobe,18
+Cancer in Right middle lobe,18
+Cancer in Right upper lobe,18
+Interval growth of abnormality (for code 51 only),17
+Longest diameter (in mm),17
+Source of samples for ICD-O-3 code,17
+Cancer in Right Hilum,16
+Cancer in Unknown location,16
+Cancer in Left Hilum,16
+Cancer in Other Location,15
+Overall diagnostic quality of CT examination,14
+Cancer in Mediastinum,14
+Pathologic N for staging,14
+Cancer in Carina,14
+Cancer in Lingula,14
+AJCC 7th edition staging path N component,13
+Days from randomization to first diagnosis of lung cancer,11
+Reason for limited / non-diagnostic CT: Severe beam hardening artifact,11
+Reason for limited / non-diagnostic CT: Excessive quantum mottle or graininess,11
+Reason for limited / non-diagnostic CT: Lungs not completely imaged,10
+Reason for limited / non-diagnostic CT: Incorrect technical parameter(s),10
+ICD-O-3 Behavior,10
+Reason for limited / non-diagnostic CT: Submaximal inspiratory breath-hold,10
+Reason for limited / non-diagnostic CT: Respiratory misregistration,9
+Pathology lesion size of tumor in millimeters,9
+AJCC 7th edition staging path M component,9
+Reason for limited / non-diagnostic CT: Motion artifact,9
+Reason for limited / non-diagnostic CT: Other (specify),8
+Study year of screen,8
+ICD-O-3 Morphology,7
+Was abnormality pre-existing?,7
+ICD-O-3 Topography,7
+Days from randomization to diagnosis of lung cancer,6
+Tumor size (mm) - Pathology,6
+Study Year of Screen,6
+Age at randomization (in years; whole number),6
+Gender,3

@@ -1,0 +1,539 @@
+Variable,Label,Description,Values,Concatenated
+candx_days,Days from randomization to diagnosis of lung cancer,,Numeric|,Days from randomization to diagnosis of lung cancer |  | Numeric|
+clinical_m,Clinical M for staging,Clinical M code for staging (AJCC 6).,".M=""Missing""
+0=""M0""
+100=""M1""
+999=""MX""|","Clinical M for staging | Clinical M code for staging (AJCC 6). M=Missing.
+0=No distant metastasis (cancer has not spread to other organs).
+100=Distant metastasis is present (cancer has spread to distant organs).
+999=Distant metastasis cannot be assessed (insufficient information."
+clinical_m_7thed,AJCC 7th edition staging clinical M component,,".M=""Missing""
+0=""M0""
+100=""M1""
+110=""M1a""
+120=""M1b""
+999=""MX""|","AJCC 7th edition staging clinical M component| |M=Missing.
+0=No distant metastasis (cancer has not spread to other organs).
+100=Distant metastasis is present (cancer has spread to distant organs).
+110=Separate metastatic tumor(s) in the opposite lung or pleural nodules.
+120=Single distant metastasis in one organ or site outside the chest.
+999=Distant metastasis cannot be assessed (insufficient information)."
+clinical_n,Clinical N for staging,Clinical N code for staging (AJCC 6).,".M=""Missing""
+0=""N0""
+100=""N1""
+200=""N2""
+300=""N3""
+999=""NX""|","Clinical N for staging | Clinical N code for staging (AJCC 6). | .M=Missing.
+0=No regional lymph node metastasis (cancer has not spread to nearby lymph nodes).
+100=Metastasis in nearby lymph nodes, typically on the same side as the primary tumor (ipsilateral).
+200=Metastasis in regional lymph nodes farther away but still on the same side as the primary tumor (e.g., mediastinal or subcarinal nodes).
+300=Metastasis in lymph nodes on the opposite side of the body (contralateral) or in supraclavicular lymph nodes (above the collarbone).
+999=Regional lymph nodes cannot be assessed (e.g., due to insufficient information or incomplete testing)."
+clinical_n_7thed,AJCC 7th edition staging clinical N component,,".M=""Missing""
+0=""N0""
+100=""N1""
+200=""N2""
+300=""N3""
+999=""NX""|","AJCC 7th edition staging clinical N component |  | .M=Missing.
+0=No regional lymph node metastasis (cancer has not spread to nearby lymph nodes).
+100=Metastasis in nearby lymph nodes, typically on the same side as the primary tumor (ipsilateral).
+200=Metastasis in regional lymph nodes farther away but still on the same side as the primary tumor (e.g., mediastinal or subcarinal nodes).
+300=Metastasis in lymph nodes on the opposite side of the body (contralateral) or in supraclavicular lymph nodes (above the collarbone).
+999=Regional lymph nodes cannot be assessed (e.g., due to insufficient information or incomplete testing)."
+clinical_stag,Clinical Stage,Clinical stage of lung cancer (AJCC 6).,".M=""Missing""
+110=""Stage IA""
+120=""Stage IB""
+210=""Stage IIA""
+220=""Stage IIB""
+310=""Stage IIIA""
+320=""Stage IIIB""
+400=""Stage IV""
+888=""TNM not available""
+900=""Occult Carcinoma""
+994=""Carcinoid, cannot be assessed""
+999=""Unknown, cannot be assessed""|","Clinical Stage | Clinical stage of lung cancer (AJCC 6). | .M=Missing.
+110=Tumor ≤3 cm, no lymph node involvement, no metastasis.
+120=Tumor >3 cm but ≤5 cm, no lymph node involvement, no metastasis.
+210=Tumor ≤3 cm, lymph node involvement on the same side, no metastasis.
+220=Tumor with larger size or local invasion, possible same-side lymph node involvement, no metastasis.
+310=Tumor involving lymph nodes in the mediastinum (same side), no metastasis.
+320=Tumor invading nearby organs or opposite-side lymph node involvement, no metastasis.
+400=Tumor of any size with any lymph node involvement and distant metastasis.
+888=""TNM not available""
+900=""Occult Carcinoma""
+994=""Carcinoid, cannot be assessed""
+999=""Unknown, cannot be assessed"""
+clinical_t,Clinical T for staging,Clinical T code for staging (AJCC 6).,".M=""Missing""
+100=""T1""
+200=""T2""
+300=""T3""
+400=""T4""
+999=""TX""|","Clinical T for staging | Clinical T code for staging (AJCC 6). | .M=""Missing""
+100=Tumor is 3 cm or less in greatest dimension and confined to the organ of origin.
+200=Tumor is more than 3 cm but less than or equal to 5 cm, or involves nearby structures but not the entire organ.
+300=Tumor is more than 5 cm or directly invades nearby structures (e.g., pleura, chest wall) but is still localized.
+400=Tumor of any size that has invaded critical nearby structures or organs (e.g., mediastinum, diaphragm) or has multiple tumors. 
+999=The tumor cannot be evaluated."
+clinical_t_7thed,AJCC 7th edition staging clinical T component,,".M=""Missing""
+110=""T1a""
+120=""T1b""
+200=""T2""
+210=""T2a""
+220=""T2b""
+300=""T3""
+400=""T4""
+999=""TX""|","AJCC 7th edition staging clinical T component |  | .M=""Missing""
+110=Tumor is 2 cm or less in greatest dimension.
+120=Tumor is more than 2 cm but not more than 3 cm in greatest dimension.
+200=Tumor is more than 3 cm but less than or equal to 5 cm, or involves nearby structures but not the entire organ.
+210=Tumor is more than 3 cm but not more than 4 cm.
+220=Tumor is more than 4 cm but not more than 5 cm.
+300=Tumor is more than 5 cm or directly invades nearby structures (e.g., pleura, chest wall) but is still localized.
+400=Tumor of any size that has invaded critical nearby structures or organs (e.g., mediastinum, diaphragm) or has multiple tumors.
+999=The tumor cannot be evaluated.|"
+de_grade,Lung Cancer Grade,"Lung cancer grade.  For ACRIN, this is the ICD-O-3 grade.  For LSS, this comes from a separate question on the DE form.","1=""Grade Cannot be Assessed""
+2=""Well Differentiated (G1)""
+3=""Moderately Differentiated (G2)""
+4=""Poorly Differentiated (G3)""
+5=""Undifferentiated (G4)""
+6=""Unspecified in Pathology Report""
+8=""Unknown""
+9=""Missing""|","Lung Cancer Grade | Lung cancer grade.  For ACRIN, this is the ICD-O-3 grade.  For LSS, this comes from a separate question on the DE form. | 1=""Grade Cannot be Assessed""
+2=""Well Differentiated (G1)""
+3=""Moderately Differentiated (G2)""
+4=""Poorly Differentiated (G3)""
+5=""Undifferentiated (G4)""
+6=""Unspecified in Pathology Report""
+8=""Unknown""
+9=""Missing""|"
+de_stag,"Stage (""Best"": Path if avail., else Clin)","Lung cancer stage (AJCC 6), combining clinical and pathologic staging information.",".M=""Missing""
+110=""Stage IA""
+120=""Stage IB""
+210=""Stage IIA""
+220=""Stage IIB""
+310=""Stage IIIA""
+320=""Stage IIIB""
+400=""Stage IV""
+888=""TNM not available""
+900=""Occult Carcinoma""
+994=""Carcinoid, cannot be assessed""
+999=""Unknown, cannot be assessed""|","Stage (""Best"": Path if avail., else Clin) | Lung cancer stage (AJCC 6), combining clinical and pathologic staging information. | .M=""Missing""
+110=Tumor ≤3 cm, no lymph node involvement, no metastasis.
+120=Tumor >3 cm but ≤5 cm, no lymph node involvement, no metastasis.
+210=Tumor ≤3 cm, lymph node involvement on the same side, no metastasis.
+220=Tumor with larger size or local invasion, possible same-side lymph node involvement, no metastasis.
+310=Tumor involving lymph nodes in the mediastinum (same side), no metastasis.
+320=Tumor invading nearby organs or opposite-side lymph node involvement, no metastasis.
+400=Tumor of any size with any lymph node involvement and distant metastasis.
+888=""TNM not available""
+900=""Occult Carcinoma""
+994=""Carcinoid, cannot be assessed""
+999=""Unknown, cannot be assessed""|"
+de_stag_7thed,AJCC 7th edition stage,"Stage of first primary lung cancer, based on AJCC 7th edition stage",".M=""Missing""
+110=""Stage IA""
+120=""Stage IB""
+210=""Stage IIA""
+220=""Stage IIB""
+310=""Stage IIIA""
+320=""Stage IIIB""
+400=""Stage IV""
+888=""TNM not available""
+900=""Occult Carcinoma""
+999=""Unknown, cannot be assessed""|","AJCC 7th edition stage | Stage of first primary lung cancer, based on AJCC 7th edition stage | .M=""Missing""
+110=Tumor ≤3 cm, no lymph node involvement, no metastasis.
+120=Tumor >3 cm but ≤5 cm, no lymph node involvement, no metastasis.
+210=Tumor ≤3 cm, lymph node involvement on the same side, no metastasis.
+220=Tumor with larger size or local invasion, possible same-side lymph node involvement, no metastasis.
+310=Tumor involving lymph nodes in the mediastinum (same side), no metastasis.
+320=Tumor invading nearby organs or opposite-side lymph node involvement, no metastasis.
+400=Tumor of any size with any lymph node involvement and distant metastasis.
+888=""TNM not available""
+900=""Occult Carcinoma""
+999=""Unknown, cannot be assessed""|"
+de_type,ICD-O-3 Morphology (from histology),"Lung cancer type from ICD-O-3 morphology.  For LSS participants, this is recorded separately from the complete ICD code, and represents the best information available on the type of the cancer.","Numeric
+.M=""Missing""|","ICD-O-3 Morphology (from histology) | Lung cancer type from ICD-O-3 morphology.  For LSS participants, this is recorded separately from the complete ICD code, and represents the best information available on the type of the cancer. | Numeric
+.M=""Missing""|"
+first_lc,Is this cancer the first lung cancer diagnosed?,Is this cancer the first lung cancer diagnosed?  Participants with multiple primary lung cancers will have a separate record included in this dataset for each cancer.,"0=""No""
+1=""Yes""|","Is this cancer the first lung cancer diagnosed? | Is this cancer the first lung cancer diagnosed?  Participants with multiple primary lung cancers will have a separate record included in this dataset for each cancer. | 0=""No""
+1=""Yes""|"
+lc_behav,ICD-O-3 Behavior,ICD-O-3 behavior of lung cancer.,"1=""Borderline Malignancy""
+3=""Invasive""
+6=""Metastatic""|","ICD-O-3 Behavior | ICD-O-3 behavior of lung cancer. | 1=""Borderline Malignancy""
+3=""Invasive""
+6=""Metastatic""|"
+lc_grade,ICD-O-3 Grade,ICD-O-3 grade of lung cancer.,"1=""Well Differentiated: Grade I""
+2=""Moderately Differentiated: Grade II""
+3=""Poorly Differentiated; Grade III""
+4=""Undifferentiated; Grade IV""
+9=""Unknown""|","ICD-O-3 Grade | ICD-O-3 grade of lung cancer. | 1=""Well Differentiated: Grade I""
+2=""Moderately Differentiated: Grade II""
+3=""Poorly Differentiated; Grade III""
+4=""Undifferentiated; Grade IV""
+9=""Unknown""|"
+lc_morph,ICD-O-3 Morphology,ICD-O-3 morphology of lung cancer.,Numeric|,ICD-O-3 Morphology | ICD-O-3 morphology of lung cancer. | Numeric|
+lc_order,Order of this lung cancer among all lung cancers for this participant,The order of this lung cancer among all lung cancers for this participant.  Order is from earliest to latest.,Numeric|,Order of this lung cancer among all lung cancers for this participant | The order of this lung cancer among all lung cancers for this participant.  Order is from earliest to latest. | Numeric|
+lc_topog,ICD-O-3 Topography,ICD-O-3 topography of lung cancer.,"Char, 5|","ICD-O-3 Topography | ICD-O-3 topography of lung cancer. | Char, 5|"
+lesionsize,Tumor size (mm) - Pathology,,"Numeric
+.M=""Missing""|","Tumor size (mm) - Pathology |  | Numeric
+.M=""Missing""|"
+path_m,Pathologic M for staging,Pathologic M code for staging (AJCC 6).,".M=""Missing""
+0=""M0""
+100=""M1""
+999=""MX""|","Pathologic M for staging | Pathologic M code for staging (AJCC 6). | .M=""Missing""
+0=No distant metastasis (cancer has not spread to other organs).
+100=Distant metastasis is present (cancer has spread to distant organs).
+999=Distant metastasis cannot be assessed (insufficient information)."
+path_m_7thed,AJCC 7th edition staging path M component,,".M=""Missing""
+0=""M0""
+100=""M1""
+110=""M1a""
+120=""M1b""
+999=""MX""|","AJCC 7th edition staging path M component |  | .M=""Missing""
+0=""M0""
+100=""M1""
+110=""M1a""
+120=""M1b""
+999=""MX""|"
+path_n,Pathologic N for staging,Pathologic N code for staging (AJCC 6).,".M=""Missing""
+0=""N0""
+100=""N1""
+200=""N2""
+300=""N3""
+999=""NX""|","Pathologic N for staging | Pathologic N code for staging (AJCC 6). | .M=""Missing""
+0=""N0""
+100=""N1""
+200=""N2""
+300=""N3""
+999=""NX""|"
+path_n_7thed,AJCC 7th edition staging path N component,,".M=""Missing""
+0=""N0""
+100=""N1""
+200=""N2""
+300=""N3""
+999=""NX""|","AJCC 7th edition staging path N component |  | .M=""Missing""
+0=""N0""
+100=""N1""
+200=""N2""
+300=""N3""
+999=""NX""|"
+path_stag,Pathologic Stage,Pathologic stage of lung cancer (AJCC 6).,".M=""Missing""
+110=""Stage IA""
+120=""Stage IB""
+210=""Stage IIA""
+220=""Stage IIB""
+310=""Stage IIIA""
+320=""Stage IIIB""
+400=""Stage IV""
+888=""TNM not available""
+900=""Occult Carcinoma""
+994=""Carcinoid, cannot be assessed""
+999=""Unknown, cannot be assessed""|","Pathologic Stage | Pathologic stage of lung cancer (AJCC 6). | .M=""Missing""
+110=Tumor ≤3 cm, no lymph node involvement, no metastasis.
+120=Tumor >3 cm but ≤5 cm, no lymph node involvement, no metastasis.
+210=Tumor ≤3 cm, lymph node involvement on the same side, no metastasis.
+220=Tumor with larger size or local invasion, possible same-side lymph node involvement, no metastasis.
+310=Tumor involving lymph nodes in the mediastinum (same side), no metastasis.
+320=Tumor invading nearby organs or opposite-side lymph node involvement, no metastasis.
+400=Tumor of any size with any lymph node involvement and distant metastasis.
+888=""TNM not available""
+900=""Occult Carcinoma""
+994=""Carcinoid, cannot be assessed""
+999=""Unknown, cannot be assessed""|"
+path_t,Pathologic T for staging,Pathologic T code for staging (AJCC 6).,".M=""Missing""
+100=""T1""
+200=""T2""
+300=""T3""
+400=""T4""
+999=""TX""|","Pathologic T for staging | Pathologic T code for staging (AJCC 6). | .M=""Missing""
+100=Tumor is 2 cm or less in greatest dimension.
+200=Tumor is more than 2 cm but less than or equal to 5 cm, or involves nearby structures but not the entire organ.
+300=Tumor is more than 5 cm or directly invades nearby structures (e.g., pleura, chest wall) but is still localized.
+400=Tumor of any size that has invaded critical nearby structures or organs (e.g., mediastinum, diaphragm) or has multiple tumors.
+999=The tumor cannot be evaluated"
+path_t_7thed,AJCC 7th edition staging path T component,,".M=""Missing""
+110=""T1a""
+120=""T1b""
+200=""T2""
+210=""T2a""
+220=""T2b""
+300=""T3""
+400=""T4""
+999=""TX""|","AJCC 7th edition staging path T component |  | .M=""Missing""
+110=Tumor is 2 cm or less in greatest dimension.
+120=Tumor is more than 2 cm but not more than 3 cm in greatest dimension.
+200=Tumor is more than 3 cm but less than or equal to 5 cm, or involves nearby structures but not the entire organ.
+210=Tumor is more than 3 cm but not more than 4 cm.
+220=Tumor is more than 4 cm but not more than 5 cm.
+300=Tumor is more than 5 cm or directly invades nearby structures (e.g., pleura, chest wall) but is still localized.
+400=Tumor of any size that has invaded critical nearby structures or organs (e.g., mediastinum, diaphragm) or has multiple tumors.
+999=The tumor cannot be evaluated|"
+source_best_stage,"Source of ""best"" stage (de_stag)","Describes whether the TNM components used to make the ""best"" stage variable (de_stag) were pathologic, clinical, a combination, or unavailable for some reason.","1=""Pathological""
+2=""Clinical""
+3=""Mixture""
+5=""Reporting stage only""
+6=""Stage cannot be assessed""
+94=""Carcinoid, stage cannot be assessed""
+98=""TNM not available""
+99=""Missing TNM""|","Source of ""best"" stage (de_stag) | Describes whether the TNM components used to make the ""best"" stage variable (de_stag) were pathologic, clinical, a combination, or unavailable for some reason. | 1=""Pathological""
+2=""Clinical""
+3=""Mixture""
+5=""Reporting stage only""
+6=""Stage cannot be assessed""
+94=""Carcinoid, stage cannot be assessed""
+98=""TNM not available""
+99=""Missing TNM""|"
+stage_only,"Stage Only (if separate T, N, & M not available)","Provides stage when separate TNM information is not available.  
+For all ACRIN lung cancers, this question was completed, i.e. not missing.  
+For LSS lung cancers, this question was not expected to be completed unless T/N/M components of pathologic stage were unavailable.",".M=""Missing""
+110=""Stage IA""
+120=""Stage IB""
+210=""Stage IIA""
+220=""Stage IIB""
+310=""Stage IIIA""
+320=""Stage IIIB""
+400=""Stage IV""
+888=""TNM not available""
+910=""No evidence of tumor""|","Stage Only (if separate T, N, & M not available) | Provides stage when separate TNM information is not available.  
+For all ACRIN lung cancers, this question was completed, i.e. not missing.  
+For LSS lung cancers, this question was not expected to be completed unless T/N/M components of pathologic stage were unavailable. | .M=""Missing""
+110=Tumor ≤3 cm, no lymph node involvement, no metastasis.
+120=Tumor >3 cm but ≤5 cm, no lymph node involvement, no metastasis.
+210=Tumor ≤3 cm, lymph node involvement on the same side, no metastasis.
+220=Tumor with larger size or local invasion, possible same-side lymph node involvement, no metastasis.
+310=Tumor involving lymph nodes in the mediastinum (same side), no metastasis.
+320=Tumor invading nearby organs or opposite-side lymph node involvement, no metastasis.
+400=Tumor of any size with any lymph node involvement and distant metastasis.
+888=""TNM not available""
+910=""No evidence of tumor""|"
+stage_sum,Summary staging,"Summary staging.
+For all ACRIN lung cancers, this question was completed, i.e. not missing.
+For LSS lung cancers, this question was not expected to be completed unless T/N/M components of pathologic stage were unavailable.",".M=""Missing""
+1=""Localized""
+2=""Regional""
+3=""Distant""
+4=""Not available""|","Summary staging | Summary staging.
+For all ACRIN lung cancers, this question was completed, i.e. not missing.
+For LSS lung cancers, this question was not expected to be completed unless T/N/M components of pathologic stage were unavailable. | .M=""Missing""
+1=""Localized""
+2=""Regional""
+3=""Distant""
+4=""Not available""|"
+study_yr,Study Year of Diagnosis,,"0=""T0""
+1=""T1""
+2=""T2""
+3=""T3""
+4=""T4""
+5=""T5""
+6=""T6""
+7=""T7""|","Study Year of Diagnosis |  | 0=""T0""
+1=The year in which the patient was diagnosed with the condition (Year 1 of the study).
+2=The second year of the study or one year after the baseline diagnosis. 
+3=The third year of the study or two years after the baseline diagnosis.
+4=The fourth year of the study or three years after the baseline diagnosis.
+5=The fifth year of the study or four years after the baseline diagnosis.
+6=The sixth year of the study or five years after the baseline diagnosis.
+7=The seventh year of the study or six years after the baseline diagnosis."
+topog_source,Source of samples for ICD-O-3 code,Indicates the source of information used to determine the ICD-O-3 code.,".M=""Missing""
+1=""Cytology""
+2=""Histology""
+3=""Combined""
+4=""Clinical (LSS only)""|","Source of samples for ICD-O-3 code | Indicates the source of information used to determine the ICD-O-3 code. | .M=""Missing""
+1=""Cytology""
+2=""Histology""
+3=""Combined""
+4=""Clinical (LSS only)""|"
+valcsg,VALCSG Stage (Small cell only),"VALCSG staging for small cell lung cancers.
+For all ACRIN lung cancers, this question was completed, i.e. not missing, (even if they were not small cell cancers).",".M=""Missing""
+1=""Limited""
+2=""Extensive""
+3=""Not available""|","VALCSG Stage (Small cell only) | VALCSG staging for small cell lung cancers.
+For all ACRIN lung cancers, this question was completed, i.e. not missing, (even if they were not small cell cancers). | .M=""Missing""
+1=""Limited""
+2=""Extensive""
+3=""Not available""|"
+sct_ab_desc,Abnormality description,The type of the abnormality.  Note that the LSS screening forms use a different numbering system than what is used in this variable.,"51=""Non-calcified nodule or mass (opacity >= 4 mm diameter)"" 52=""Non-calcified micronodule(s) (opacity < 4 mm diameter)"" 53=""Benign lung nodule(s) (benign calcification)"" 54=""Atelectasis, segmental or greater"" 55=""Pleural thickening or effusion"" 56=""Non-calcified hilar/mediastinal adenopathy or mass (>= 10 mm on short axis)"" 57=""Chest wall abnormality (bone destruction, metastasis, etc.)"" 58=""Consolidation"" 59=""Emphysema"" 60=""Significant cardiovascular abnormality"" 61=""Reticular/reticulonodular opacities, honeycombing, fibrosis, scar"" 62=""6 or more nodules, not suspicious for cancer (opacity >= 4 mm)"" 63=""Other potentially significant abnormality above the diaphragm"" 64=""Other potentially significant abnormality below the diaphragm"" 65=""Other minor abnormality noted""|","Abnormality description | The type of the abnormality.  Note that the LSS screening forms use a different numbering system than what is used in this variable. | 51=""Non-calcified nodule or mass (opacity >= 4 mm diameter)"" 52=""Non-calcified micronodule(s) (opacity < 4 mm diameter)"" 53=""Benign lung nodule(s) (benign calcification)"" 54=""Atelectasis, segmental or greater"" 55=""Pleural thickening or effusion"" 56=""Non-calcified hilar/mediastinal adenopathy or mass (>= 10 mm on short axis)"" 57=""Chest wall abnormality (bone destruction, metastasis, etc.)"" 58=""Consolidation"" 59=""Emphysema"" 60=""Significant cardiovascular abnormality"" 61=""Reticular/reticulonodular opacities, honeycombing, fibrosis, scar"" 62=""6 or more nodules, not suspicious for cancer (opacity >= 4 mm)"" 63=""Other potentially significant abnormality above the diaphragm"" 64=""Other potentially significant abnormality below the diaphragm"" 65=""Other minor abnormality noted""|"
+sct_ab_num,Abnormality number (unique identifier),"A number assigned to each abnormality.  This starts at 1 for each participant for each study year, and counts up for each additional abnormality that participant has in that study year.  Along with pid and study_yr, this can be used to match abnormality records in this dataset to records in the Spiral CT Comparison Read Abnormalities dataset .",Numeric|,"Abnormality number (unique identifier) | A number assigned to each abnormality.  This starts at 1 for each participant for each study year, and counts up for each additional abnormality that participant has in that study year.  Along with pid and study_yr, this can be used to match abnormality records in this dataset to records in the Spiral CT Comparison Read Abnormalities dataset . | Numeric|"
+sct_epi_loc,Location of epicenter,Location of epicenter for non-calcified nodules or masses with >= 4 mm diameter.,".N=""Not Applicable (sct_ab_desc is not 51)"" 1=""Right Upper Lobe"" 2=""Right Middle Lobe"" 3=""Right Lower Lobe"" 4=""Left Upper Lobe"" 5=""Lingula"" 6=""Left Lower Lobe"" 8=""Other (Specify in comments)""|","Location of epicenter | Location of epicenter for non-calcified nodules or masses with >= 4 mm diameter. | .N=""Not Applicable (sct_ab_desc is not 51)"" 1=""Right Upper Lobe"" 2=""Right Middle Lobe"" 3=""Right Lower Lobe"" 4=""Left Upper Lobe"" 5=""Lingula"" 6=""Left Lower Lobe"" 8=""Other (Specify in comments)""|"
+sct_found_after_comp,Was the abnormality not identified until the comparison with historical images?,Was the abnormality not identified until the comparison with historical images?  Abnormalities are in this dataset regardless of whether they were found on the initial read of the screen or during the comparison with prior images.,".M=""Missing"" 0=""Identified on first look"" 1=""Found after comparison""|","Was the abnormality not identified until the comparison with historical images? | Was the abnormality not identified until the comparison with historical images?  Abnormalities are in this dataset regardless of whether they were found on the initial read of the screen or during the comparison with prior images. | .M=""Missing"" 0=""Identified on first look"" 1=""Found after comparison""|"
+sct_long_dia,Longest diameter (in mm),Longest diameter in millimeters for non-calcified nodules or masses with >= 4 mm diameter.,"Numeric .N=""Not applicable (sct_ab_desc is not 51)"" .S=""Unable to determine""|","Longest diameter (in mm) | Longest diameter in millimeters for non-calcified nodules or masses with >= 4 mm diameter. | Numeric .N=""Not applicable (sct_ab_desc is not 51)"" .S=""Unable to determine""|"
+sct_margins,Margins,Description of margins for non-calcified nodules or masses with >= 4 mm diameter.,".N=""Not applicable (sct_ab_desc is not 51)"" 1=""Spiculated (Stellate)"" 2=""Smooth"" 3=""Poorly defined"" 9=""Unable to determine""|","Margins | Description of margins for non-calcified nodules or masses with >= 4 mm diameter. | .N=""Not applicable (sct_ab_desc is not 51)"" 1=""Spiculated (Stellate)"" 2=""Smooth"" 3=""Poorly defined"" 9=""Unable to determine""|"
+sct_perp_dia,Longest perpendicular diameter (same CT slice in mm),"Longest diameter perpendicular to the longest overall diameter, in millimeters, for non-calcified nodules or masses with >= 4 mm diameter.","Numeric .N=""Not applicable (sct_ab_desc is not 51)"" .S=""Unable to determine""|","Longest perpendicular diameter (same CT slice in mm) | Longest diameter perpendicular to the longest overall diameter, in millimeters, for non-calcified nodules or masses with >= 4 mm diameter. | Numeric .N=""Not applicable (sct_ab_desc is not 51)"" .S=""Unable to determine""|"
+sct_pre_att,Predominant attenuation,Predominant attenuation for non-calcified nodules or masses with >= 4 mm diameter.,".M=""Missing"" .N=""Not applicable (sct_ab_desc is not 51)"" 1=""Soft Tissue"" 2=""Ground glass"" 3=""Mixed"" 4=""Fluid/water"" 6=""Fat"" 7=""Other"" 9=""Unable to determine""|","Predominant attenuation | Predominant attenuation for non-calcified nodules or masses with >= 4 mm diameter. | .M=""Missing"" .N=""Not applicable (sct_ab_desc is not 51)"" 1=""Soft Tissue"" 2=""Ground glass"" 3=""Mixed"" 4=""Fluid/water"" 6=""Fat"" 7=""Other"" 9=""Unable to determine""|"
+sct_slice_num,CT slice number containing abnormality's greatest diameter,"The CT slice number containing the abnormality's greatest diameter, for non-calcified nodules or masses with >= 4 mm diameter.","Numeric .N=""Not Applicable (sct_ab_desc is not 51)"" 999=""Missing""|","CT slice number containing abnormality's greatest diameter | The CT slice number containing the abnormality's greatest diameter, for non-calcified nodules or masses with >= 4 mm diameter. | Numeric .N=""Not Applicable (sct_ab_desc is not 51)"" 999=""Missing""|"
+study_yr,Study year of screen,,"0=""T0"" 1=""T1"" 2=""T2""|","Study year of screen |  | 0=""T0"" 1=Baseline or Initial Screening 2=Follow-Up Screening"
+sct_ab_attn,Interval suspicious change in attenuation,"Did the abnormality have an interval suspicious change in attenuation, for non-calcified nodules or masses with >= 4 mm diameter?",".M=""Missing""
+.N=""Not applicable""
+1=""No""
+2=""Yes""
+9=""Unable to determine""|","Interval suspicious change in attenuation | Did the abnormality have an interval suspicious change in attenuation, for non-calcified nodules or masses with >= 4 mm diameter? | .M=""Missing""
+.N=""Not applicable""
+The abnormality had an interval suspicious change in attenuation, for non-calcified nodules or masses with >= 4 mm diameter
+The abnormality did not have an interval suspicious change in attenuation, for non-calcified nodules or masses with >= 4 mm diameter
+Unable to determine whether the abnormality had an interval suspicious change in attenuation, for non-calcified nodules or masses with >= 4 mm diameter"
+sct_ab_code,Abnormality code number,The type of the abnormality.  This should be equal to sct_ab_desc for the corresponding abnormality in the Spiral CT Abnormality dataset (linked by sct_ab_num).  Note that the LSS screening forms use a different numbering system than what is used in this variable.,".M=""Missing""
+51=""Non-calcified nodule or mass (opacity >= 4 mm diameter)""
+52=""Non-calcified micronodule(s) (opacity < 4 mm diameter)""
+53=""Benign lung nodule(s) (benign calcification)""
+54=""Atelectasis, segmental or greater""
+55=""Pleural thickening or effusion""
+56=""Non-calcified hilar/mediastinal adenopathy or mass (>= 10 mm on short axis)""
+57=""Chest wall abnormality (bone destruction, metastasis, etc.)""
+58=""Consolidation""
+59=""Emphysema""
+60=""Significant cardiovascular abnormality""
+61=""Reticular/reticulonodular opacities, honeycombing, fibrosis, scar""
+62=""6 or more nodules, not suspicious for cancer (opacity >= 4 mm)""
+63=""Other potentially significant abnormality above the diaphragm""
+64=""Other potentially significant abnormality below the diaphragm""
+65=""Other minor abnormality noted""|","Abnormality code number | The type of the abnormality.  This should be equal to sct_ab_desc for the corresponding abnormality in the Spiral CT Abnormality dataset (linked by sct_ab_num).  Note that the LSS screening forms use a different numbering system than what is used in this variable. | .M=""Missing""
+51=""Non-calcified nodule or mass (opacity >= 4 mm diameter)""
+52=""Non-calcified micronodule(s) (opacity < 4 mm diameter)""
+53=""Benign lung nodule(s) (benign calcification)""
+54=""Atelectasis, segmental or greater""
+55=""Pleural thickening or effusion""
+56=""Non-calcified hilar/mediastinal adenopathy or mass (>= 10 mm on short axis)""
+57=""Chest wall abnormality (bone destruction, metastasis, etc.)""
+58=""Consolidation""
+59=""Emphysema""
+60=""Significant cardiovascular abnormality""
+61=""Reticular/reticulonodular opacities, honeycombing, fibrosis, scar""
+62=""6 or more nodules, not suspicious for cancer (opacity >= 4 mm)""
+63=""Other potentially significant abnormality above the diaphragm""
+64=""Other potentially significant abnormality below the diaphragm""
+65=""Other minor abnormality noted""|"
+sct_ab_gwth,Interval growth of abnormality (for code 51 only),"Did the abnormality have interval growth, for non-calcified nodules or masses with >= 4 mm diameter?",".N=""Not applicable""
+1=""No""
+2=""Yes""
+9=""Unable to determine""|","Interval growth of abnormality (for code 51 only) | Did the abnormality have interval growth, for non-calcified nodules or masses with >= 4 mm diameter? | .N=""Not applicable""
+1=""No""
+2=""Yes""
+9=""Unable to determine""|"
+sct_ab_invg,Interval change warrants further investigation (for oth. sig. abn. only),"Does interval change in the abnormality warrant further investigation, for significant abnomalities other than non-calcified nodules or masses with >= 4 mm diameter?",".M=""Missing""
+.N=""Not applicable""
+1=""No""
+2=""Yes""
+9=""Unable to determine""|","Interval change warrants further investigation (for oth. sig. abn. only) | Does interval change in the abnormality warrant further investigation, for significant abnomalities other than non-calcified nodules or masses with >= 4 mm diameter? | .M=""Missing""
+.N=""Not applicable""
+1=""No""
+2=""Yes""
+9=""Unable to determine""|"
+sct_ab_num,Abnormality number (unique identifier),"A number assigned to each abnormality.  This starts at 1 for each participant for each study year, and counts up for each additional abnormality that participant has in that study year.  Along with pid and study_yr, this can be used to match records in this dataset to records in the main Spiral CT Abnormality dataset.",Numeric|,"Abnormality number (unique identifier) | A number assigned to each abnormality.  This starts at 1 for each participant for each study year, and counts up for each additional abnormality that participant has in that study year.  Along with pid and study_yr, this can be used to match records in this dataset to records in the main Spiral CT Abnormality dataset. | Numeric|"
+sct_ab_preexist,Was abnormality pre-existing?,Was the abnormality pre-existing?,"1=""No""
+2=""Yes""
+9=""Unable to determine""|","Was abnormality pre-existing? | Was the abnormality pre-existing? | 1=""No""
+2=""Yes""
+9=""Unable to determine""|"
+study_yr,Study Year of Screen,,"0=""T0""
+1=""T1""
+2=""T2""|","Study Year of Screen |  | 0=""T0""
+1=""T1""
+2=""T2""|"
+visible_days,Days from randomization date to earliest date visible,The days from randomization until the earliest date this abnormality was visible.  This is completed only for pre-existing abnormalities.,"Numeric
+.M=""Missing""
+.N=""Not applicable""|","Days from randomization date to earliest date visible | The days from randomization until the earliest date this abnormality was visible.  This is completed only for pre-existing abnormalities. | Numeric
+.M=""Missing""
+.N=""Not applicable""|"
+age,Age at randomization (in years; whole number),,Numeric|,Age at randomization (in years; whole number) |  | Numeric|
+gender,Gender,,"1=""Male"" 2=""Female""|","Gender |  | 1=""Male"" 2=""Female""|"
+race,Race,,"1=""White"" 2=""Black or African-American"" 3=""Asian"" 4=""American Indian or Alaskan Native"" 5=""Native Hawaiian or Other Pacific Islander"" 6=""More than one race"" 7=""Participant refused to answer"" 95=""Missing data form - form is not expected to ever be completed"" 96=""Missing - no response"" 98=""Missing - form was submitted and the answer was left blank"" 99=""Unknown/ decline to answer""|
+
+
+
+
+
+
+
+
+
+ Section 3: Smoking","Race |  | 1=""White"" 2=""Black or African-American"" 3=""Asian"" 4=""American Indian or Alaskan Native"" 5=""Native Hawaiian or Other Pacific Islander"" 6=""More than one race"" 7=""Participant refused to answer"" 95=""Missing data form - form is not expected to ever be completed"" 96=""Missing - no response"" 98=""Missing - form was submitted and the answer was left blank"" 99=""Unknown/ decline to answer""|
+
+
+
+
+
+
+
+
+
+"
+cigsmok,Smoking status at T0,Cigarette smoking status (current vs former) at randomization.  Former smokers must have quit within 15 years of eligibility determination to have been eligible for the trial.,"0=""Former"" 1=""Current""|
+
+
+
+
+
+
+
+
+
+ Section 4: Screening","Smoking status at T0 | Cigarette smoking status (current vs former) at randomization.  Former smokers must have quit within 15 years of eligibility determination to have been eligible for the trial. | 0=""Former"" 1=""Current""|
+
+
+
+
+
+
+
+
+
+"
+can_scr,Result of screen associated with the first confirmed lung cancer diagnosis,"Indicates whether the cancer followed a positive, negative, or missed screen, or whether it occurred after the screening years.","0=""No Cancer"" 1=""Positive Screen"" 2=""Negative Screen"" 3=""Missed Screen"" 4=""Post Screening""|","Result of screen associated with the first confirmed lung cancer diagnosis | Indicates whether the cancer followed a positive, negative, or missed screen, or whether it occurred after the screening years. | 0=""No Cancer"" 1=""Positive Screen"" 2=""Negative Screen"" 3=""Missed Screen"" 4=""Post Screening""|"
+canc_free_days,Days from randomization to date when participant was last known to be free from lung cancer,"Days until the date the participant was last known to be free of lung cancer.  This date comes from a participant study update form, except for ACRIN participants with cancer, where the cancer diagnosis date is used.  Do not use this variable to calculate follow-up time for lung cancer incidence rates, Cox regressions, etc.  Instead, use fup_days for non-cases and candx_days for cases.",Numeric|,"Days from randomization to date when participant was last known to be free from lung cancer | Days until the date the participant was last known to be free of lung cancer.  This date comes from a participant study update form, except for ACRIN participants with cancer, where the cancer diagnosis date is used.  Do not use this variable to calculate follow-up time for lung cancer incidence rates, Cox regressions, etc.  Instead, use fup_days for non-cases and candx_days for cases. | Numeric|"
+canc_rpt_link,Is the diagnosis of lung cancer associated with a positive screen?,Is the diagnosis of lung cancer associated with a positive screen?  A positive screen and a cancer diagnosis are associated based on a linking algorithm using diagnostic procedures.,"0=""No"" 1=""Yes""|","Is the diagnosis of lung cancer associated with a positive screen? | Is the diagnosis of lung cancer associated with a positive screen?  A positive screen and a cancer diagnosis are associated based on a linking algorithm using diagnostic procedures. | 0=""No"" 1=""Yes""|"
+cancyr,Study year associated with first confirmed lung cancer,Study year associated with the first confirmed lung cancer.  A cancer associated with a  positive screen is assigned the study year of that screen.,".N=""Not Applicable"" 0=""T0"" 1=""T1"" 2=""T2"" 3=""T3"" 4=""T4"" 5=""T5"" 6=""T6"" 7=""T7""|","Study year associated with first confirmed lung cancer | Study year associated with the first confirmed lung cancer.  A cancer associated with a  positive screen is assigned the study year of that screen. | .N=""Not Applicable”
+0= 1=The year in which the patient was diagnosed with the condition (Year 1 of the study).
+2=The second year of the study or one year after the baseline diagnosis. 
+3=The third year of the study or two years after the baseline diagnosis.
+4=The fourth year of the study or three years after the baseline diagnosis.
+5=The fifth year of the study or four years after the baseline diagnosis.
+6=The sixth year of the study or five years after the baseline diagnosis.
+7=The seventh year of the study or six years after the baseline diagnosis."
+candx_days,Days from randomization to first diagnosis of lung cancer,,"Numeric .N=""No diagnosis date on record""|","Days from randomization to first diagnosis of lung cancer |  | Numeric .N=""No diagnosis date on record""|"
+de_grade,Lung cancer grade,,".N=""Not Applicable"" 1=""Grade Cannot Be Assessed (GX) "" 2=""Well Differentiated (G1)"" 3=""Moderately Differentiated (G2)"" 4=""Poorly Differentiated (G3)"" 5=""Undifferentiated (G4)"" 6=""Unspecified in Pathology Report"" 8=""Unknown"" 9=""Missing""|","Lung cancer grade |  | .N=""Not Applicable"" 1=""Grade Cannot Be Assessed (GX) "" 2=""Well Differentiated (G1)"" 3=""Moderately Differentiated (G2)"" 4=""Poorly Differentiated (G3)"" 5=""Undifferentiated (G4)"" 6=""Unspecified in Pathology Report"" 8=""Unknown"" 9=""Missing""|"
+de_stag,Lung cancer Stage,"Lung cancer stage (AJCC 6), combining clinical and pathologic staging information.",".M=""Missing"" .N=""Not Applicable"" 110=""Stage IA"" 120=""Stage IB"" 210=""Stage IIA"" 220=""Stage IIB"" 310=""Stage IIIA"" 320=""Stage IIIB"" 400=""Stage IV"" 888=""TNM not available"" 900=""Occult Carcinoma"" 994=""Carcinoid, cannot be assessed"" 999=""Unknown, cannot be assessed""|","Lung cancer Stage | Lung cancer stage (AJCC 6), combining clinical and pathologic staging information. | .M=""Missing"" .N=""Not Applicable"" 110=Tumor ≤3 cm, no lymph node involvement, no metastasis.
+120=Tumor >3 cm but ≤5 cm, no lymph node involvement, no metastasis.
+210=Tumor ≤3 cm, lymph node involvement on the same side, no metastasis.
+220=Tumor with larger size or local invasion, possible same-side lymph node involvement, no metastasis.
+310=Tumor involving lymph nodes in the mediastinum (same side), no metastasis.
+320=Tumor invading nearby organs or opposite-side lymph node involvement, no metastasis.
+400=Tumor of any size with any lymph node involvement and distant metastasis.
+888=""TNM not available""
+900=""Occult Carcinoma"" 994=""Carcinoid, cannot be assessed"" 999=""Unknown, cannot be assessed""|"
+de_stag_7thed,AJCC 7th edition stage,"Stage of first primary lung cancer, based on AJCC 7th edition stage",".M=""Missing"" .N=""Not Applicable"" 110=""Stage IA"" 120=""Stage IB"" 210=""Stage IIA"" 220=""Stage IIB"" 310=""Stage IIIA"" 320=""Stage IIIB"" 400=""Stage IV"" 900=""Occult Carcinoma"" 999=""Unknown, cannot be assessed""|","AJCC 7th edition stage | Stage of first primary lung cancer, based on AJCC 7th edition stage | .M=""Missing"" .N=""Not Applicable"" 110=Tumor ≤3 cm, no lymph node involvement, no metastasis.
+120=Tumor >3 cm but ≤5 cm, no lymph node involvement, no metastasis.
+210=Tumor ≤3 cm, lymph node involvement on the same side, no metastasis.
+220=Tumor with larger size or local invasion, possible same-side lymph node involvement, no metastasis.
+310=Tumor involving lymph nodes in the mediastinum (same side), no metastasis.
+320=Tumor invading nearby organs or opposite-side lymph node involvement, no metastasis.
+400=Tumor of any size with any lymph node involvement and distant metastasis.
+900=""Occult Carcinoma"" 999=""Unknown, cannot be assessed""|"
+de_type,Lung cancer type from ICD-O-3 morphology,"Lung cancer type from ICD-O-3 morphology.  For LSS participants, this is recorded separately from the complete ICD code, and represents the best information available on the type of the cancer.","Numeric .M=""Missing"" .N=""Not Applicable""|","Lung cancer type from ICD-O-3 morphology | Lung cancer type from ICD-O-3 morphology.  For LSS participants, this is recorded separately from the complete ICD code, and represents the best information available on the type of the cancer. | Numeric .M=""Missing"" .N=""Not Applicable""|"
+lesionsize,Pathology lesion size of tumor in millimeters,,"Numeric .M=""Missing"" .N=""Not Applicable""|","Pathology lesion size of tumor in millimeters |  | Numeric .M=""Missing"" .N=""Not Applicable""|"
+loccar,Cancer in Carina,Was the primary tumor located in the carina?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Carina | Was the primary tumor located in the carina?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+loclhil,Cancer in Left Hilum,Was the primary tumor located in the left hilum?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Left Hilum | Was the primary tumor located in the left hilum?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+loclin,Cancer in Lingula,Was the primary tumor located in the lingula?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Lingula | Was the primary tumor located in the lingula?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+locllow,Cancer in Left lower lobe,Was the primary tumor located in the left lower lobe?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Left lower lobe | Was the primary tumor located in the left lower lobe?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+loclmsb,Cancer in Left main stem bronchus,Was the primary tumor located in the left main stem bronchus?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Left main stem bronchus | Was the primary tumor located in the left main stem bronchus?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+loclup,Cancer in Left upper lobe,Was the primary tumor located in the left upper lobe?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Left upper lobe | Was the primary tumor located in the left upper lobe?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+locmed,Cancer in Mediastinum,Was the primary tumor located in the mediastinum?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Mediastinum | Was the primary tumor located in the mediastinum?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+locoth,Cancer in Other Location,Was the primary tumor located in an other specified location?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Other Location | Was the primary tumor located in an other specified location?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+locrhil,Cancer in Right Hilum,Was the primary tumor located in the right hilum?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Right Hilum | Was the primary tumor located in the right hilum?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+locrlow,Cancer in Right lower lobe,Was the primary tumor located in the right lower lobe?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Right lower lobe | Was the primary tumor located in the right lower lobe?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+locrmid,Cancer in Right middle lobe,Was the primary tumor located in the right middle lobe?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Right middle lobe | Was the primary tumor located in the right middle lobe?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+locrmsb,Cancer in Right main stem bronchus,Was the primary tumor located in the right main stem bronchus?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Right main stem bronchus | Was the primary tumor located in the right main stem bronchus?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+locrup,Cancer in Right upper lobe,Was the primary tumor located in the right upper lobe?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Right upper lobe | Was the primary tumor located in the right upper lobe?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+locunk,Cancer in Unknown location,Was the primary tumor located in an unknown location?  A tumor may be located in more than one location.,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Cancer in Unknown location | Was the primary tumor located in an unknown location?  A tumor may be located in more than one location. | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+ctdxqual,Overall diagnostic quality of CT examination,,".M=""Missing"" 1=""Diagnostic CT"" 2=""Limited CT, but interpretable"" 3=""Non-diagnostic CT exam""|","Overall diagnostic quality of CT examination |  | .M=""Missing"" 1=""Diagnostic CT"" 2=""Limited CT, but interpretable"" 3=""Non-diagnostic CT exam""|"
+ctdxqual_artifact,Reason for limited / non-diagnostic CT: Severe beam hardening artifact,,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Reason for limited / non-diagnostic CT: Severe beam hardening artifact |  | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+ctdxqual_breath,Reason for limited / non-diagnostic CT: Submaximal inspiratory breath-hold,,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Reason for limited / non-diagnostic CT: Submaximal inspiratory breath-hold |  | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+ctdxqual_graininess,Reason for limited / non-diagnostic CT: Excessive quantum mottle or graininess,,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Reason for limited / non-diagnostic CT: Excessive quantum mottle or graininess |  | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+ctdxqual_inadeqimg,Reason for limited / non-diagnostic CT: Lungs not completely imaged,,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Reason for limited / non-diagnostic CT: Lungs not completely imaged |  | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+ctdxqual_motion,Reason for limited / non-diagnostic CT: Motion artifact,,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Reason for limited / non-diagnostic CT: Motion artifact |  | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+ctdxqual_other,Reason for limited / non-diagnostic CT: Other (specify),,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Reason for limited / non-diagnostic CT: Other (specify) |  | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+ctdxqual_resp,Reason for limited / non-diagnostic CT: Respiratory misregistration,,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Reason for limited / non-diagnostic CT: Respiratory misregistration |  | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+ctdxqual_techpara,Reason for limited / non-diagnostic CT: Incorrect technical parameter(s),,".N=""Not Applicable"" 0=""No"" 1=""Yes""|","Reason for limited / non-diagnostic CT: Incorrect technical parameter(s) |  | .N=""Not Applicable"" 0=""No"" 1=""Yes""|"
+study_yr,Study Year of Screen,,"0=""T0"" 1=""T1"" 2=""T2""|","Study Year of Screen |  | 0=""T0"" 1=""T1"" 2=""T2""|"
+techpara_effmas,Technical parameters: Effective mAs,"Technical parameters: Effective mAs  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN.","Numeric .M=""Missing""|","Technical parameters: Effective mAs | Technical parameters: Effective mAs  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN. | Numeric .M=""Missing""|"
+techpara_fov,Technical parameters: Display FOV in cm,"Technical parameters: Display FOV in cm  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN.","Numeric .M=""Missing""|","Technical parameters: Display FOV in cm | Technical parameters: Display FOV in cm  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN. | Numeric .M=""Missing""|"
+techpara_kvp,Technical parameters: kVp,"Technical parameters: kVp  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN.","Numeric .M=""Missing""|","Technical parameters: kVp | Technical parameters: kVp  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN. | Numeric .M=""Missing""|"
+techpara_ma,Technical parameters: mA,"Technical parameters: mA  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN.","Numeric .M=""Missing""|","Technical parameters: mA | Technical parameters: mA  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN. | Numeric .M=""Missing""|"
