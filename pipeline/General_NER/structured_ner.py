@@ -1,75 +1,44 @@
 import pandas as pd
-import re
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from sklearn.feature_extraction.text import TfidfVectorizer
-from collections import Counter
+import spacy
 from tqdm import tqdm
-nltk.download('stopwords')
-nltk.download('punkt')
+import re
 
-# load the data, TEXT portion only
-df = pd.read_csv("data/NLST_concatenated.csv")
-labels = df["Label"]  # attribute names
-texts = df["Concatenated"]  # corresponding concatenated data
+nlp = spacy.load("en_core_web_sm")
+input_file = "data/NLST_concatenated.csv"
+output_file = "output/structured_general_term.csv"
+df = pd.read_csv(input_file)
 
-'''
-    Helper function for preprocessing the note
-    - lowercase conversion, special characters replacement
-    - tokenization (using punkt)
-'''
-def preprocess_text(text):
-    text = text.lower()
-    text = re.sub(r"[^a-z\s]", "", text)
-    tokens = word_tokenize(text)
-    tokens = [word for word in tokens if word not in stopwords.words("english")]
-    return tokens
+required_columns = ["Label", "Description", "Concatenated"]
+if not all(col in df.columns for col in required_columns):
+    raise ValueError(f"Input file must contain the following columns: {required_columns}")
 
-processed_texts = texts.apply(preprocess_text)
+df["NER_Text"] = df["Description"].fillna("") + " " + df["Concatenated"].fillna("")
+
+def extract_entities(text):
+    doc = nlp(text)
+    entities = []
+    for ent in doc.ents:
+        if not re.search(r'\d', ent.text):
+            entities.append({"Pretty Name": ent.text.strip(), "Type": ent.label_})
+    return entities
+
+results = []
+
+for _, row in tqdm(df.iterrows(), total=len(df), desc="Processing NER"):
+    label = row["Label"]
+    ner_text = row["NER_Text"]
+    entities = extract_entities(ner_text)
+    for entity in entities:
+        results.append({
+            "Attribute": label,
+            "Pretty Name": entity["Pretty Name"],
+            "Entity Type": entity["Type"],
+        })
 
 
-'''
-    Helper function for classifying non medical terms.
-    TODO: the medical_terms is an examplary corpus that should be replaced with medical
-    corpus later.
-'''
+results_df = pd.DataFrame(results)
+results_df = results_df.drop_duplicates()
+results_df.to_csv(output_file, index=False)
 
-label_term_frequency = Counter()
-preprocessed_texts = []
-for label, tokens in tqdm(zip(labels, processed_texts), desc="Processing data", total=len(labels)):
-    preprocessed_texts.append(" ".join(tokens))
-    label_term_frequency.update({label: len(tokens)})
-    
-output_path = "output/structured_term_freq.csv"
-freq_df = pd.DataFrame(label_term_frequency.items(), columns=["Label", "Frequency"])
-freq_df = freq_df.sort_values(by="Frequency", ascending=False)
-freq_df.to_csv(output_path, index=False)
-
-print(freq_df.head(100))
-
-'''
-    #########################################################
-    #########################################################
-    Step 2: get TF-IDF, save to /analysis_and_viz/results
-    #########################################################
-    #########################################################
-'''
-print("Calculating TF-IDF...")
-vectorizer = TfidfVectorizer()
-tfidf_matrix = vectorizer.fit_transform(preprocessed_texts)
-
-tfidf_scores = tfidf_matrix.sum(axis=0).A1
-terms = vectorizer.get_feature_names_out()
-
-tfidf_summary_df = pd.DataFrame({
-    "Term": terms,
-    "TF-IDF Score": tfidf_scores
-}).sort_values(by="TF-IDF Score", ascending=False)
-
-tfidf_output_path = "analysis_and_viz/results/structured_tfidf.csv"
-tfidf_summary_df.to_csv(tfidf_output_path, index=False)
-
-print(f"TF-IDF results saved to {tfidf_output_path}")
-print("Top terms by TF-IDF:")
-print(tfidf_summary_df.head(10))
+print(f"NER results saved to {output_file}")
+print(results_df.head(10))

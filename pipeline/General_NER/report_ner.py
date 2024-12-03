@@ -1,79 +1,44 @@
 import pandas as pd
-import re
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from collections import Counter
-from sklearn.feature_extraction.text import TfidfVectorizer
+import spacy
 from tqdm import tqdm
+import re
+from collections import Counter
 
-nltk.download('stopwords')
-nltk.download('punkt')
+nlp = spacy.load("en_core_web_sm")
 
-'''
-    #########################################################
-    #########################################################
-    Step 1: get term_freq pairs, save to /output/???_freq.csv
-    #########################################################
-    #########################################################
-'''
-# load the data, TEXT portion only
-df = pd.read_csv("data/lung_cancer_notes.csv")
-texts = df["TEXT"]
+input_file = "lung_cancer_notes.csv"
+output_file = "report_ner_results.csv"
 
-'''
-    Helper function for preprocessing the note
-    - lowercase conversion, special characters replacement
-    - tokenization (using punkt)
-'''
-def preprocess_text(text):
-    tqdm_desc = f"Processing text"
-    tokens = []
-    for word in tqdm(re.sub(r"[^a-z\s]", "", text.lower()).split(), desc=tqdm_desc):
-        if word not in stopwords.words("english"):
-            tokens.append(word)
-    return tokens
+df = pd.read_csv(input_file)
 
-'''
-    Collect frequency in tokenized text, save in csv
-'''
-term_freq = Counter()
-preprocessed_texts = []
-for tokens in tqdm(texts.apply(preprocess_text), desc="Processing texts"):
-    preprocessed_texts.append(" ".join(tokens))
-    term_freq.update(tokens)
+if "TEXT" not in df.columns:
+    raise ValueError(f"Input file must contain the 'TEXT' column.")
 
+def extract_entities(text):
+    doc = nlp(text)
+    entities = []
+    for ent in doc.ents:
+        if not re.search(r'\d', ent.text):
+            entities.append((ent.text.strip(), ent.label_))
+    return entities
 
-term_freq_df = pd.DataFrame(term_freq.items(), columns=["Term", "Frequency"])
-term_freq_df = term_freq_df.sort_values(by="Frequency", ascending=False)
+entity_counter = Counter()
 
-output_path = "output/report_term_freq.csv"
-term_freq_df.to_csv(output_path, index=False)
+all_entities = []
+for _, row in tqdm(df.iterrows(), total=len(df), desc="Processing NER"):
+    text = row["TEXT"]
+    entities = extract_entities(text)
+    all_entities.extend(entities)  
+    entity_counter.update(entities)  
 
-print(term_freq_df.head(100))
+results = [
+    {"Pretty Name": entity[0], "Frequency": frequency, "Entity Type": entity[1]}
+    for entity, frequency in entity_counter.items()
+]
 
-'''
-    #########################################################
-    #########################################################
-    Step 2: get TF-IDF, save to /analysis_and_viz/results
-    #########################################################
-    #########################################################
-'''
-print("Calculating TF-IDF...")
-vectorizer = TfidfVectorizer()
-tfidf_matrix = vectorizer.fit_transform(preprocessed_texts)
+results_df = pd.DataFrame(results)
+results_df = results_df.drop_duplicates()
+results_df.to_csv(output_file, index=False)
 
-tfidf_scores = tfidf_matrix.sum(axis=0).A1
-terms = vectorizer.get_feature_names_out()
-
-tfidf_summary_df = pd.DataFrame({
-    "Term": terms,
-    "TF-IDF Score": tfidf_scores
-}).sort_values(by="TF-IDF Score", ascending=False)
-
-tfidf_output_path = "analysis_and_viz/results/report_tfidf.csv"
-tfidf_summary_df.to_csv(tfidf_output_path, index=False)
-
-print(f"TF-IDF results saved to {tfidf_output_path}")
-print("Top terms by TF-IDF:")
-print(tfidf_summary_df.head(10))
+print(f"NER results saved to {output_file}")
+print(results_df.head(10))
