@@ -1,2 +1,5 @@
 .DS_Store
 __pycache__
+data/report_keywords/report_general_embeddings_freq.csv
+data/report_keywords/report_med_embeddings_freq.csv
+data/structured_keywords/structured_med_embeddings_freq.csv
