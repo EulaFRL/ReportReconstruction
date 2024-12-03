@@ -1,5 +1,6 @@
 import os
 import json
+import pandas as pd
 
 raw_dir = 'data/medcat_raw'
 out_path = 'data/medcat_cleaned.jsonl'
@@ -42,7 +43,17 @@ def write_json(new_list, path):
         json.dump(new_list, f, indent=4)
     print(f"Successfully written to {path}")
 
+def filter_conf_csv(input_csv, output_csv):
+    df = pd.read_csv(input_csv)
+    # Filter out rows where 'ACC' is lower than 0.75
+    filtered_df = df[df['ACC'] >= 0.75]
+    filtered_df.to_csv(output_csv, index=False)
+
+    print(filtered_df.head())
+
 if __name__ == '__main__':
-    raw_list = read_jsons(raw_dir)
-    conf_list = filter_conf(raw_list)
-    write_json(conf_list, out_path)
+    # raw_list = read_jsons(raw_dir)
+    # conf_list = filter_conf(raw_list)
+    # write_json(conf_list, out_path)
+
+    filter_conf_csv('data/structured_med_freq_raw.csv', 'data/structured_med_freq_cleaned.csv')
