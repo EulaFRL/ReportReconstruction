@@ -1,0 +1,4637 @@
+pretty_name,cui,frequency,average_acc
+Views Ap,C0882663,8721,0.9903485297168128
+Indication Of Contextual Qualifier,C0392360,24688,0.9979899032629157
+Effectiveness Assessment,C0220825,6050,0.9880500613784606
+Pleural Effusion Fluid,C1253943,5278,0.9752853766204373
+Hospitalization Admission,C0184666,8682,0.9993861948683981
+Medical Condition,C4745084,8967,1.0
+Metastasis From Malignant Neoplasm,C2939420,937,0.9219862932539391
+Malignant Neoplasm Of Thyroid Gland,C0007115,21,0.9957142857142856
+Worsening Pattern,C0332271,811,0.9169458374806357
+Clinical History,C5204342,320,1.0
+Assessment,C1516048,2698,1.0
+Implantation Procedure,C0021107,1447,0.8846029809207618
+Congenital Pulmonary Hypoplasia,C0265783,14,1.0
+Removal Of Endotracheal Tube,C0553891,131,1.0
+Structure Of Respiratory System,C0035237,12,0.830562163437044
+Clinical Act Of Insertion,C0441587,1542,0.9700794650913561
+Carcinoma Of The Lung,C0684249,3493,0.9686936899481879
+Reintubation Procedure,C0860359,66,1.0
+Seen,C0205397,5739,1.0
+Device Tip Physical Object,C3872494,2145,0.8357620857236396
+Intramural,C0205102,236,0.923637661995007
+General Purpose Central Venous Catheters,C1145640,727,0.9996775684707582
+Nasogastric Tube Device,C0085678,1447,0.9951516118185595
+Appropriate,C1548787,270,1.0
+Comparison,C1707455,3108,1.0
+Structure Of Left Lower Lobe Of Lung,C1261077,1535,0.8343009573352372
+Pulmonary Collapse With Atelectasis,C0004144,3263,0.9863583252774345
+Air Space Opacification,C0521530,2545,0.9839606392786325
+Ending,C0444930,376,0.9929032734836732
+Gastroesophageal,C0744316,56,1.0
+Left Subclavian,C0694658,72,0.784809585582257
+Linings,C0205132,507,0.8508839965066254
+Right Chest,C3844327,757,1.0
+Endocytotic Transport Vesicle,C0887883,6,1.0
+Pleural Membrane Structure,C0032225,1247,0.9852972574943821
+Near Complete,C4489118,151,1.0
+Mass Of Body Structure,C0577559,4408,0.9049102316488866
+Surgical Margins Negative,C1709157,785,0.8126360641299745
+Radiologic Examination Of Chest,C0039985,455,0.9605578051047635
+Placement Action,C1533810,1143,0.9672201729001144
+Chest Radiograph,C3842377,1924,1.0
+Aeration,C2215609,604,1.0
+Implanted Port Access Device,C1706409,299,0.8600221361333477
+Erecting,C0522014,101,1.0
+Thoracic Structure,C0817096,7043,0.9337530572569706
+Head Flexed Physical Finding,C2029675,1,1.0
+Nodular Opacity,C4086623,163,1.0
+Is A Attribute,C1292718,3440,1.0
+Patchy Distribution,C0205413,451,0.7988613638660055
+Increased Mass To Volume Ratio,C0029053,3920,0.9891535398790104
+Representation Action,C1882932,1797,1.0
+Obstructive,C0549186,380,1.0
+Wt With Tumor,C4745117,23,1.0
+Bilateral Pleural Effusion,C0747635,800,1.0
+Specimen Appearance Assessment,C5553941,3845,0.9728669329250403
+Lung Opacification,C0746216,29,1.0
+A Small Amount Of Effort,C5204404,378,1.0
+Abnormal Changes In Position,C0333051,1435,0.9838806433879095
+Free Fluid,C0013687,2828,0.9537391969197466
+Distal Qualifier Value,C0205108,669,0.8745229585490083
+Peculiar,C2700116,70,1.0
+Associated With,C0332281,891,1.0
+Pulmonary Oedema,C0034063,852,0.8816918392057354
+Patient Positioning Procedure,C1561964,267,0.9817748002423919
+Doubting,C0870444,28,1.0
+One Day,C3844320,216,1.0
+12 Lead Electrocardiogram : Interval Change,C2041208,3617,1.0
+Borg Category Ratio 10 Perceived Exertion Score 1,C4055369,11,1.0
+Leftward,C5570776,226,1.0
+Intensity And Distress 1,C5202796,806,0.985852100659116
+Improvement,C2986411,635,1.0
+Radiographic Contrast Material,C0009924,7972,0.9882967933928462
+Obtained,C1301820,2287,0.9996867151783086
+Intravenous Contrast,C4072741,3270,1.0
+Cardiac Ventricular Structure,C0018827,251,0.9742327559586037
+Enhance Action,C2349975,1084,0.9922273786611833
+Tissue Of Frontal Lobe Of Brain,C0016733,71,0.8785035334227231
+Right Frontal Lobe Structure,C0228193,202,0.8458081204683309
+Margins Of Excision,C0229985,138,0.9805117001794512
+Interstitial Oedema,C0013604,1649,0.975676076912883
+Bone Structure Of Cranium,C0037303,83,0.9177820578474805
+Visualization,C0234621,1311,0.9988761180440514
+Mastoid Process Of Temporal Bone,C0446908,332,0.9818914035937943
+Multisection For Metastasis,C4263751,167,1.0
+Medical Imaging Magnetic Resonance Nuclear Magnetic Resonance,C0024485,1990,0.9842581105918281
+Multisection : Finding : Point In Time : Abdomen : Narrative : Computerized Tomography,C1644645,622,0.9550409778329254
+Computerized Tomography Of Pelvis,C0412628,646,0.9902631578947434
+Unclassified Tumour Malignant,C1306459,356,0.9438914640116496
+Symphysis Pubis Structure,C0034015,85,0.9887222223898978
+History Of Allergies,C0489531,8,0.9166363808703571
+Computerized Axial Tomography Of Thorax,C0202823,1378,0.9782027253235898
+Structure Of Trunk,C0460005,30,0.787479537235368
+Demonstrates,C3687625,1302,1.0
+Lymphangitic Spread,C3697833,143,1.0
+Samples Tissue Tumor,C0475358,688,0.8730725339144679
+In The Last Week,C2987125,13,1.0
+Visible Lesion,C0221198,2137,0.9176340887153475
+Venous Tree Organ Part,C0042449,269,0.9586996988908415
+Phased,C0205390,100,0.9308342695757803
+Supernumerary Spleen,C0266631,14,1.0
+Oesophageal Hiatus Hernia,C3489393,98,1.0
+Kidney . Bilateral,C0227665,507,0.9557092892016986
+Gastrointestinal Tract Pancreas,C0030274,140,0.8225793518439782
+Gallbladder And Stomach,C0545806,3,1.0
+Pattern Of Bowel Movements Question,C4083257,266,0.9559161579083936
+Enlargement Of Mesenteric Lymph Node,C0746552,25,0.8160845531712414
+Postero Inferior,C1179852,1,1.0
+Portion,C0449719,970,0.9999896907216494
+Median Eminence Of Posterior Lobe Of Pituitary Gland,C0025056,1,1.0
+Pelvic Lymphadenopathy,C1264124,30,1.0
+Sclerotic Lesion,C0748541,190,1.0
+Bone Structure Of Femur,C0015811,98,0.9581556838187719
+Fracture Of Rib,C0035522,148,1.0
+Abnormal Appearance,C0544702,7,1.0
+Relate Vinyl Resin,C0163712,121,1.0
+Subject Continuance,C2826258,1303,1.0
+One Week,C1442452,19,1.0
+Lytic Lesion Of Bone,C0221204,176,0.9815723456558435
+Speciman Unsatisfactory For Diagnosis,C0702119,5,1.0
+Indicated,C1444656,130,1.0
+Structure Of Head Of Caudate Nucleus,C0152336,655,0.8437381941675741
+Hospital Environment,C0019994,2046,0.828352562884548
+Serum Lipids High Finding,C0428465,3,0.9687120045918006
+History Of Hypertension,C0455527,6,1.0
+Tamponades Pericardial,C0007177,57,0.9842687196376194
+Central Location,C0205099,719,0.9774410030344811
+Neurological Signs Symptoms,C0422837,3,0.9313826170072527
+Diagnostic Scanning,C0441633,137,0.9508246114622635
+Providing Action,C1999230,233,0.9979924144985532
+Previously,C0205156,2797,0.9862596552878669
+Computerized Transaxial Tomography Without Iv Contrast,C0040405,57,0.846106237954019
+2 Mm,C3842089,92,1.0
+Left Frontal Lobe Structure,C0228194,150,0.8407943698035639
+Anatomical Structures,C0700276,3,0.8400080510977953
+Ventricular Systems Cerebral,C0007799,293,0.9900000000000041
+Deep Resection Margin,C4318566,78,0.8942829344562508
+No Hydrocephalus,C4012110,86,1.0
+Nonclinical Study Title,C2986914,1312,1.0
+5 Mm,C3840882,349,1.0
+Collimator Devices,C0454169,55,1.0
+Trace Amount,C0442822,183,0.9805053507245719
+Portion Of Pleural Fluid,C0225778,352,0.980482813766903
+Enlarging,C0442800,784,0.9874809361331982
+Reticuloendothelial System Lymph Node,C0024204,561,0.8036021638343669
+Cavity Of Compartment Of Abdomen,C0230168,1247,0.9498100512342577
+Surrounding Qualifier Value,C1282914,150,0.9662516004351905
+Computerized Axial Tomography Of Abdomen,C0412620,18,1.0
+Window Physical Object,C0557702,447,0.988275506232043
+Radioisotope Scan Of Bone,C0203668,49,0.8348086006808695
+Concerns,C2699424,271,1.0
+Malignant Melanoma,C0025202,1,1.0
+Techniques Values,C0449851,563,0.8805789400822968
+Thickening Of Pleura,C0264545,238,1.0
+Most Recent,C1513491,268,1.0
+Metastatic Malignancy,C4698656,9,1.0
+Malignant Melanoma Metastatic,C0860594,1,1.0
+Positive,C1446409,95,0.9171636691499128
+Catheter Device,C0085590,1078,0.948668978592145
+Reflecting,C0558058,376,0.9898822862061533
+Described,C1552738,527,1.0
+Cardiac Shadow Viewed Radiologically,C0507134,449,1.0
+Decrease In Size Since Previous Mammogram Finding,C1268653,107,1.0
+Decreased Oxygen Supply,C0242184,512,0.9404931804701189
+Rapid Respiration,C0231835,12,1.0
+Thank You,C2986674,48,1.0
+Single View,C0449911,1078,0.9029287586293945
+Notable,C4288581,3678,1.0
+Compromises,C2945640,27,1.0
+Totally,C4699603,21,1.0
+Lung Volume Function,C0231953,329,1.0
+Massively,C0522501,757,0.98466340207023
+Up To,C0547043,326,1.0
+Not Changed,C4489377,90,1.0
+Date Property,C0011008,1116,0.9958057072101844
+Body Position Recumbent Lateral Decubitus,C0444379,35,0.9817389630751888
+Drainage Catheters,C0879005,35,1.0
+Concordance,C0680240,31,1.0
+Plain Radiography,C1306645,1481,0.9902420811679217
+Increased Size Finding,C0332509,130,0.9317428989054566
+Left Sided Pleural Effusion,C2063367,184,1.0
+Abnormal Pulmonary Interstitial Pattern,C3671966,84,1.0
+Apparent,C0750489,294,1.0
+Increase In Size Since Previous Mammogram,C1268652,141,1.0
+Disease Involvement Site,C5420113,3,1.0
+History Of Present Illness Finding,C0262512,251,0.7771875476651294
+Remotely,C0205157,12,0.9435443463907239
+Pathologic Fracture Of Left Humerus,C2104011,1,1.0
+Epithelial Cell Of Renal Tubule,C0553257,20,1.0
+Patient Reporting,C0747307,4,1.0
+Intensity And Distress 5,C5203119,56,0.8365592448502653
+Pain Distress Question,C4085211,3,0.8118745525650496
+Intermediate Segment Of Free Lower Limb,C1140621,19,0.9415580297361297
+Set Of Bones Of Body,C0816871,50,0.9693929010680946
+With Intensity,C0522510,14,0.9361380112452192
+Bone Structure Of Proximal Humerus,C0588209,10,1.0
+Comminuted Fracture Type,C0476171,11,1.0
+Structure Of Shoulder Region,C0037004,19,0.8393773658569265
+Degenerative Abnormalities,C0011164,497,0.9992756539235417
+Dedicated Blood Product Donation,C4524529,99,1.0
+Suggestion,C1705535,659,0.9978345804113566
+Metastatic Lesion,C1513183,299,1.0
+Kidney And Urinary Bladder,C5187148,40,1.0
+Elimination Function Of The Body,C0221102,98,0.9931632653061213
+Consistent With,C0332290,384,0.9892741958042994
+Secondary Malignancies,C0027627,732,0.8780174301372898
+Correlation,C1707520,45,0.9942535851069322
+Taken,C1883727,74,1.0
+Radiology Procedures,C0807679,181,0.8382323619739152
+Services Source Consult Services Treatment,C2224451,83,1.0
+Hearing Functions Unspecified,C0018767,86,1.0
+Processing Auditory,C0004309,84,1.0
+Bone Structure Of Humerus,C0020164,17,0.950005438744344
+Lung Mass,C0149726,1221,1.0
+Fissural,C1517198,28,1.0
+Lesion Mass,C0746408,237,1.0
+Leads Device,C0181586,5,0.8209015832809661
+Right Cardiac Ventricular Structure,C0225883,10,0.7687474468004373
+Calcium Buildup In Soft Tissues Of Body,C0006663,696,0.983808457371107
+Change Reason,C2985736,18,1.0
+Central Nervous System White Matter,C0682708,144,0.824015596389852
+Matter Periventricular White,C0228157,77,0.8135684103962605
+Cisterna Basalis,C3498928,71,1.0
+Placement Of Tube,C0883304,972,1.0
+Clearing,C1550003,75,1.0
+One Activity Hour,C4288557,40,1.0
+Has Patient Attribute,C0332310,283,1.0
+Month Day Year,C5442030,2,1.0
+Contour Form,C0876954,804,0.8671923664981145
+Small Mass Of The Lung,C0034079,281,0.9739823214315276
+Cardiac Pacemaker Lead,C1283151,45,1.0
+Calcified Qualifier,C0175895,544,0.9707818596008364
+Computerized Axial Tomography Of Brain With Radiopaque Contrast,C1275583,163,1.0
+Limited Extensiveness,C0439801,172,0.8636567462441335
+Lacking,C0332268,143,1.0
+No Hemorrhage,C1861265,55,1.0
+Space Occupying Lesion,C0332562,7,1.0
+Radioisotope Scan Of Lung,C0203683,8,1.0
+Fracture Dislocations,C0332761,1,1.0
+Structure Of Head Of Humerus,C0223683,10,1.0
+Head Of Left Humerus,C0507143,12,1.0
+Study Report,C1317750,187,1.0
+Tomography Multidetector Row Computed,C3179130,487,1.0
+Within Normal Limits,C0442816,448,1.0
+Most Likely,C0750501,445,1.0
+History Of Asbestos Exposure,C0375812,2,1.0
+Large Mass,C1881358,125,1.0
+Structure Of Lower Lobe Of Lung,C0225758,530,1.0
+Circular Shape,C0332490,344,0.9983130963448815
+7 Mm,C3842085,156,1.0
+Similarity,C2348205,628,1.0
+Structure Of Upper Lobe Of Left Lung,C1261076,1131,0.8222738660616311
+Enlarged Lymph Nodes Unspecified,C4282165,885,0.9921246830188215
+Cavities Lungs,C0878624,5,1.0
+Structure Of Right Lobe Of Liver,C0227481,81,0.9874532294969096
+Infiltration Into Tissue,C0332448,107,0.9110141807658395
+Supernumerary,C1883702,227,0.995604178199544
+Pathological Dilatations,C0012359,327,0.9180622012498475
+Structure Of Tail Of Pancreas,C0227590,9,0.8637129945861262
+Inferior Right,C1180152,42,1.0
+Inferior Left,C1180153,25,1.0
+Kidney And Ureter,C1881331,3,1.0
+Trunk Of Systemic Arterial Tree,C0003483,736,0.9708723871430062
+Retroperitoneal Lymphadenopathy,C0748390,60,1.0
+Distal Ureter,C5205401,44,1.0
+Deep Circumflex Iliac Artery,C0020887,38,0.8205304313100645
+Pathological Constriction,C1261287,349,0.9402108151388273
+Structure Of Femoral Artery,C0015801,277,0.9755450297788185
+Bony Destruction,C3810196,18,1.0
+Destruction Action,C1948029,81,0.8858640587299114
+Compression Of Umbilical Cord,C0266798,219,1.0
+Customary,C3538928,42,0.9889190003224255
+Characterization,C1880022,243,1.0
+Bilateral Atrial Enlargement,C4324595,1,1.0
+Hypertrophies,C0020564,296,0.9515076626209046
+Enlarged Heart,C0018800,20,0.8717050041933764
+Fibrous Tissue Formation,C0016059,72,0.8841711250956191
+Large Pleural Effusion,C0747637,86,1.0
+Luq Left Upper Quadrant,C0439735,33,0.8351671664740251
+Structure Of Small Blood Vessel Organ,C0225988,161,1.0
+Ischemic Change,C2826576,70,1.0
+Multisection : Find : Pt : Spine . Cervical : Doc : Ct,C0882552,44,0.9902858039774975
+Malignant Neoplastic Disease,C0006826,25,0.9907999999999996
+Structure Of Cervical Vertebral Column,C0728985,205,0.9921951219512206
+Set Of Coronal Planes,C4551585,525,0.9013389908469683
+Set Of Sagittal Planes,C0935598,728,0.9450903070089165
+Proximal Humeral Fractures,C0037006,2,1.0
+Including Qualifier,C0332257,408,0.9844518516942183
+Pacemakers Artificial Cardiac,C0030163,78,0.9690632661284693
+Odontoid,C4284820,5,1.0
+Alignment,C1706765,104,1.0
+Outlines Document,C0600661,14,1.0
+Structure Of Articular Surface Of Bone,C0222679,46,1.0
+Uncovertebral Joint,C4763287,2,1.0
+Neural,C3714606,105,1.0
+Coarctation,C0333164,662,0.9906972821973727
+Narrowing Of Intervertebral Disc Space,C0263870,10,0.847551993188038
+Anatomic Node,C0746922,378,0.942566705496669
+Atherosclerotic,C0333482,316,1.0
+Blood Vessel Structure,C0005847,381,0.862586242508715
+Carotid Artery Structure,C0007272,156,0.8972118629521472
+Structure Of Carotid Sinus,C0007281,7,1.0
+Multisection : Find : Pt : Spine . Thoracic : Doc : Ct,C0882139,51,0.9994117647058823
+Well Marginated Nodule,C4761387,286,0.9474493240764574
+Protrusions,C0333056,57,0.928586737363362
+Not Well,C3841798,190,1.0
+Atypia Morphology,C0741302,51,0.8774258355766248
+Distribution,C1704711,135,0.9484877704119012
+Lesion On The Bone,C0238792,47,0.8970971328878059
+Multisection : Find : Pt : Abdomen Spine . Lumbar : Doc : Ct,C0882126,20,1.0
+Structure Of Lumbar Vertebral Column,C3887615,265,0.991480782746052
+Referring,C0205543,71,1.0
+Hyperostosis External,C0015302,59,0.8887376229886196
+Ligamentous,C0521342,7,1.0
+Resulting,C0678226,88,1.0
+Intubated,C4698386,925,1.0
+Crowding,C0010383,31,0.9907114505587076
+Considering,C0750591,291,1.0
+Multisection : Find : Pt : Abdomen Pelvis : Doc : Ct,C1715387,130,1.0
+Bony Appendage,C1184743,174,0.8047588568715887
+Contrast Agent Administered Identifier,C2347863,4,1.0
+Tdgf1P4 Gene,C3469969,1,1.0
+Mediastinal Lymphadenopathy,C0520743,258,1.0
+Liking,C0870814,178,1.0
+Suggestive Of,C0332299,19,0.9239617440459031
+Tracheobronchial Malacia,C1855228,2,1.0
+Leiomyoma Of Body Of Uterus,C0042133,31,0.9895007399840465
+Presentations,C0449450,384,0.972693595208605
+Computerized Axial Tomography Without Contrast,C1275400,6,1.0
+Micro Spiculations,C4761377,179,0.9639759370990229
+Three Weeks,C4082109,2,1.0
+Right Hilum,C0929177,196,1.0
+Apparently,C0750541,81,1.0
+Plate Like Atelectasis,C0264494,44,0.8312386768978801
+Precarinal,C3897868,105,1.0
+Station,C1883167,66,1.0
+Assessment Of Jugular Central Venous Line,C2109206,61,1.0
+Filled,C1708059,147,1.0
+Sludge Gallbladder,C0860209,31,0.9783767844511256
+No Hydronephrosis,C0237058,66,1.0
+Calculus Of Kidney,C0392525,32,0.8941251233886245
+Pool Action,C2349200,12,0.9956159828521258
+Gastrointestinal Tract Small Intestine,C0021852,321,0.9902112306145081
+Posterior Common Hepatic Lymph Node,C2952211,3,1.0
+Urinary Bladder Structure,C0005682,131,0.82515907549353
+Distending,C0700124,118,0.915939518268003
+Indwelling Foley Catheter,C0179804,3,1.0
+Lateral To The Left,C0450414,87,0.8436766063932782
+Elevated,C0205250,265,0.9353576258583632
+Metastatic Malignant Neoplasm To Liver,C0494165,40,1.0
+Vena Jugularis Interna Dextra,C0501117,332,0.9640930379894691
+20 Minutes,C5452764,15,1.0
+Heart Beating Process,C2256369,4,1.0
+Cardio Pulmonary,C0553534,109,0.9112481249618383
+Moderately Enlarged,C5426030,30,1.0
+Structure Of Upper Lobe Of Right Lung,C1261074,521,0.7795708146785961
+Detailed,C1522508,103,0.9613484271169552
+Apertura Sinus Maxillaris,C0024957,94,0.8135521648928983
+Remaining,C1527428,337,1.0
+Central Line Placement,C0919865,70,1.0
+Vena Jugularis Interna Sinistra,C0501123,119,0.9517102562392943
+Structure Of Subclavian Vein,C0038532,56,0.9901785714285719
+Vascularity,C4068833,123,1.0
+Chronic Infiltrative Lung Disease,C0746105,12,1.0
+Harbour,C0475311,103,0.8400109376480753
+Structure Of Brachiocephalic Vein,C0006095,197,0.9937593034083196
+Moderate To Severe,C1299393,78,1.0
+Cellular Structures,C0007634,215,0.8377137642319556
+Drains Thoracic,C0008034,3108,0.9998642674149794
+Surface Region Of Upper Chest,C0446469,49,1.0
+Interstitial Pneumonitis,C0206061,8,1.0
+Pneumonia Worsening,C0747702,6,1.0
+Improving Qualifier Value,C1272745,186,1.0
+Hoarseness Throat Symptom,C0019825,2,1.0
+Swallowing Function,C0011167,33,0.8820732983398374
+Have Difficulty Swallowing,C4084787,1,0.976827477499062
+Slt Speech And Language Therapist,C0402015,2,1.0
+Liquid Substance,C0302908,49,0.9124618960343265
+Official,C2347387,6,1.0
+Oral Psychosexual Phase,C0029170,20,1.0
+Residue On Valleculae Following Swallowing,C4288293,15,1.0
+Vocal Cord Structure,C0042930,7,0.9700351369406955
+Paralysis Of Vocal Cords,C0042928,12,1.0
+Slight Change,C3845594,3,1.0
+Surface Region Of Lower Chest,C0446470,48,1.0
+Background,C1706907,95,1.0
+Asymmetry Qualifier Value,C0332514,241,0.9875899159399952
+Solute Carrier Family 33 Member 1,C1412113,84,1.0
+Tumor Necrosis Factor Ligand Superfamily Member 13B Gene,C2986676,103,1.0
+6 Mm,C3842086,122,1.0
+Nodular Density,C0746923,66,1.0
+Active Follow Up,C1522577,534,0.975696336186745
+Before Time,C1279919,413,0.868558212864648
+Surgical Service,C0587668,1014,0.9999901380670612
+Intravenous Catheters,C0745442,60,0.8899831100242346
+Region Of Neck Body Structure,C0920882,17,0.9935294117647059
+Relevance,C2347946,101,1.0
+Ensure Product,C0218063,32,1.0
+History Of Smoking,C4721824,11,0.9918181818181818
+Septal Thickening,C2676460,81,1.0
+Multiple Pulmonary Nodules,C0748164,48,1.0
+Mildly Enlarged,C5425894,79,1.0
+Display Arrangement,C0870432,150,0.9845842787550642
+Series Set Of Composite Instances,C2348044,379,0.9784913984593068
+Predominant,C1542147,595,0.9676902076407242
+Bronchial Structure,C0006255,1189,0.9547961069816352
+Hilar Adenopathy,C0149711,74,1.0
+Tailoring,C0402883,89,1.0
+No Abnormalities,C3809765,37,1.0
+Malignant Disease,C0442867,7,1.0
+Anatomic Location Of Primary Malignant Neoplasm,C0475447,3,1.0
+Positron Emission Tomography With Computed Tomography,C1699633,138,0.9905419716864098
+Units Hospital,C0019988,100,1.0
+Age Related Atrophy,C3273211,9,1.0
+Parieto Occipital,C5418622,45,1.0
+Structures,C0678594,114,0.9459594245810742
+Spiking Temperature,C0424781,2,1.0
+Nuclear Medicine Imaging Procedure,C0034606,77,0.9533154009009953
+Human Very Old Age 85,C0178694,100,1.0
+Structure Of Nervous System Ganglion,C0017067,84,0.9794529909436991
+Left External Capsule,C2338227,6,1.0
+Right Internal Capsule,C2334778,5,1.0
+Magnetic Resonance Imaging Using Gadolinium Contrast Procedure,C5394853,10,1.0
+Basal Crepitations,C0240859,77,0.9902900108349363
+Copd Chronic Obstructive Pulmonary Disease,C0024117,12,1.0
+Diagnosing,C0011900,596,0.8764713604945235
+Structure Of Hemidiaphragm,C1269845,311,0.8050965736855303
+Pulmonary Infiltration,C0235896,54,0.9898372128248697
+Fiduciary,C1708056,64,1.0
+Basilar Atelectasis,C4049574,203,1.0
+Procedures On Lung Pleura,C0869715,4,1.0
+Phosphatidyl N Monomethylethanolamine Methyltransferase Activity,C1325022,15,1.0
+Under Sedation,C0235195,133,0.8278179031235756
+Lung Left Lung Mass,C0746117,76,1.0
+Revealing,C0443289,77,0.8773658976191213
+Benefitting,C0814225,39,1.0
+Paraspinal Region,C5239513,8,1.0
+Destination,C1521840,22,0.9832067966711379
+Integumental System,C1123023,17,0.8342235073518027
+Spinous Processes,C3897005,17,1.0
+Subcutaneous Connective Tissue,C0278403,47,0.9650965152251848
+Intrinsic Muscles Of The Back,C0448353,2,1.0
+Transverse Anatomical Location,C0205106,78,0.8566620342311907
+Does Turn Finding,C0541749,12,0.9823045185009103
+Medical Device Deployment,C3640039,33,1.0
+Laser Suite Retina Patient Tolerated Procedure Well Treatment,C2139128,103,1.0
+Induction Of Conscious Sedation,C0079159,59,1.0
+Unilocular Adipose Tissue,C0001527,174,0.9364863145691276
+Left Pulmonary Viewed Anatomically Apex,C0225731,77,1.0
+Set Of Skeletal Muscles,C1995013,42,0.9838576178441395
+Medical Complication,C0009566,197,0.9386916792088609
+Abilities,C0085732,41,1.0
+Pass Indicator,C2828386,47,1.0
+As Much As Desired,C1879743,37,1.0
+Extremely Limited,C4489374,9,1.0
+Metallic,C2986473,64,1.0
+Stomach And Duodenum,C0391900,14,0.9957142857142857
+Passageway,C0439799,18,0.98333454447286
+Endoscopic Fiberoptic Examinations,C0014245,2,0.7864107512881835
+Anatomical Lobe,C0796494,336,0.9524132712490628
+Pathology Field,C0030664,164,0.9265721385924448
+Structure Of Upper Lobe Of Lung,C0225756,325,1.0
+Widened Structure,C0332464,58,0.9064474871330416
+Structure Of Left Hand,C0230371,2,1.0
+Leptomeningeal Enhancement,C4732837,18,1.0
+Restricted Diffusion,C2826108,78,1.0
+Thrombosis Of Venous Sinuses,C0740384,1,1.0
+Prominent Perivascular Spaces,C2750933,3,1.0
+New Onset,C0746890,98,1.0
+Flair Product,C0309093,218,1.0
+Thrombotic Disorder,C0040053,99,0.9462893279761329
+Legal Patent,C0030650,740,1.0
+Obstruction Occlusion,C0028778,170,0.9890542147377583
+Clots Blood,C0087086,27,0.8198187845367573
+Structure Of Base Of Left Lung,C0225732,256,1.0
+Structure Of Lower Lobe Of Right Lung,C1261075,722,0.7857335157418076
+Projections And Predictions,C0016538,64,0.9905244287365449
+Emphysematous Change,C0743482,142,1.0
+Structure Of Base Of Right Lung,C0225708,390,1.0
+Conclusions,C1707478,134,1.0
+Pe Pulmonary Embolism,C0034065,474,1.0
+Optical Image Reconstruction,C0020912,237,0.949152589698811
+Cavitation Process,C2700618,58,0.897626769345525
+Liver And Spleen,C0545797,96,1.0
+Left Anterior Chest,C0694647,8,1.0
+Left Anterior,C0441998,48,0.8598919307129136
+Lung . Bilateral,C0225754,83,0.8084355387575363
+Distinct Procedural Service,C0520259,326,1.0
+Spatial Displacement,C0012727,174,0.9897037946149937
+Left Hilum,C0929178,126,1.0
+Lobar Pneumonia Left Lower Lobe,C0585104,45,1.0
+Beginnings,C0439659,14,1.0
+Locates,C3687616,8,1.0
+Tubes And Lines,C0547841,58,1.0
+Right Sided Pleural Effusion,C2063366,270,1.0
+Glaucoma Drainage Tube In Good Position,C1827796,18,1.0
+Parenchymal Consolidation,C5139174,39,1.0
+Collection Action,C1516698,714,0.9645827513550183
+Peripherally Inserted Central Catheter Line Insertion,C2049629,608,0.8623684062541062
+Current Procedural Terminology Code,C1136322,186,1.0
+Accessing,C0444454,220,0.9805726365206378
+Peripherally Inserted Central Catheter Picc Double Luman,C2026139,44,1.0
+Proximal Segment Of Free Upper Limb,C0446516,33,0.959558962066041
+Superior Vena Cava Structure,C0042459,357,0.9522567231872271
+Replaced By,C1299987,54,0.9660773304429533
+Pafc Pulmonary Artery Flotation Catheter,C0179790,39,1.0
+Application,C4048755,75,1.0
+Reimplantation Procedure,C0035139,43,0.8501523098070926
+Peripherally Inserted Central Catheter Picc Single Luman,C2026141,22,1.0
+Status Pacemaker Cardiac,C1409068,1,1.0
+Surgical Removal Procedure,C0015252,337,0.8698269961457877
+Pulmonary Viewed Anatomically Apex,C0225703,141,0.9985988256739483
+Muscle Of Pectoral Part Of Chest,C0030747,3,0.9229484201925403
+Wires Orthopedic,C0005978,133,0.9233244227554711
+Major Fissure,C0929208,58,1.0
+4 Mm,C3842087,159,1.0
+Chest Wall Structure,C0205076,443,0.9700220999386706
+Bowel Loop,C1394717,48,1.0
+Wall Of Colon,C0734007,6,0.8269570966228369
+Left Pneumothorax,C0546334,237,1.0
+Right Major Fissure,C0929209,15,1.0
+Distension Of Gall Bladder,C1397941,13,1.0
+Resident Physician,C1320928,29,0.9297181392329816
+Patient Need For Contextual Qualifier,C0686904,32,0.9698231925968503
+Not At All Able,C4048706,112,0.9996353540484862
+Drapes Device,C0180504,144,1.0
+2 Dimensional Grayscale Ultrasound Imaging,C0041618,420,0.9857342699726772
+Amenable,C3900053,54,1.0
+Determination,C0521095,35,1.0
+4 Fr,C4068972,5,1.0
+Locked,C3244297,16,1.0
+Liver Function Analysis,C0023901,35,0.9981327518658029
+Space Occupying Lesion Of Brain,C0742078,435,1.0
+Obscured,C4727091,215,1.0
+Vasogenic Edema,C2825502,437,1.0
+Fourth Ventricle Of The Brain,C0149556,108,0.8163374822718972
+Tonsillar Structure,C0040421,31,0.9919354838709672
+Posterior Fossa,C1116439,104,1.0
+Laci Lacunar Infarction,C0333559,4,1.0
+Sphenoid Sinus Structure,C0037885,51,0.8281482187816104
+Cerebellar Hemisphere Structure,C0228465,186,0.8186373819386206
+Sphenoidal Sinusitides,C0037886,1,1.0
+Ordering Physician,C1709334,18,1.0
+Tumour Resection,C4761063,59,1.0
+Postoperative Periods,C0032790,95,0.9974836662776367
+Improves,C0184511,20,0.9941273392366305
+Post Operative Finding,C0241311,35,1.0
+Date Range,C0805843,9,1.0
+Cavitation,C1510420,298,0.9436338643541106
+Cerebellar Mass,C0742036,206,1.0
+Slice,C1519355,87,1.0
+New Finding Since Previous Mammogram,C1268649,22,1.0
+Paraesophageal Hiatal Hernias,C0267725,1,1.0
+Structure Of Left Lobe Of Liver,C0227486,55,1.0
+Characterizes,C3875152,198,1.0
+Structure Of Large Intestine,C0021851,39,0.7819332543401116
+No Ascites,C5395761,27,1.0
+Uterus Ovaries,C2700133,1,1.0
+Free Pelvic Fluid,C0237041,47,1.0
+Mild Sclerosis,C1840417,2,1.0
+Pericardial Lymph Node,C3897951,6,1.0
+Abundance,C2346714,4,1.0
+3 Mm,C3842088,103,1.0
+Acute Infarcts,C0333548,9,0.7866473694226879
+Structure Of Tentorium Cerebelli,C0228121,14,0.9786000988410819
+Lacunes,C0241970,18,1.0
+Left Caudate Nucleus,C2330782,6,1.0
+Subcortical,C0815275,97,1.0
+Pigtail Catheters,C0879203,181,1.0
+Patient Is Female,C0150905,16,1.0
+Lobar Pneumonia Right Lower Lobe,C0585105,39,1.0
+Examination Of Chest,C0850563,73,1.0
+Congested,C1533708,8,1.0
+Not Covered,C3242232,1,1.0
+Chest Findings,C0150872,33,1.0
+Tube And Drain Connections Orogastric Tube,C5559367,60,1.0
+Pulmonary Opacity,C4531104,70,1.0
+Tube Feeding Of Patient,C0041281,27,0.9572762671020638
+Gastrointestinal Tract Feces,C0015733,16,0.8871283521983485
+Io Intestinal Obstruction,C0021843,149,1.0
+Paralysis Of Intestine,C0030446,3,1.0
+Acute Onset Cough,C0742857,1,1.0
+Pre Existing,C2347662,107,1.0
+Newly,C0750546,166,1.0
+Occur Action,C1709305,61,1.0
+Receiving,C1514756,41,1.0
+Avid,C2986972,101,1.0
+Ground Glass Opacification,C5539411,275,1.0
+After Treatment,C1882428,15,1.0
+Enlarged Supraclavicular Lymph Node,C0749155,6,0.8090097464458847
+Structure Of Lymph Node Of Right Axilla,C4545644,2,1.0
+Morphological,C0543482,28,0.9429492319040885
+Set Of Inferior Tributary Of Tracheobronchial Lymph Nodes,C0229753,43,1.0
+Structure Of Subclavian Artery,C0038530,73,0.9627188341570174
+Aortic Arch Structure,C0003489,178,0.9876195283534911
+Descending,C0205386,62,0.8780831688276717
+Structure Of Annulus Fibrosus Of Aorta,C0225957,5,1.0
+Prior Radiation Therapy,C0279134,26,1.0
+Structure Of Parenchyma Of Lung,C0819757,90,0.9804791645953324
+Anatomical Layer,C0934502,327,0.9988875364061482
+Loculated Pleural Effusion,C0747639,65,1.0
+With Cough Fever,C1277295,35,1.0
+Fundic,C0740422,38,0.9103503816254329
+Reviews Concurrent,C0009642,1,1.0
+Elongated,C0205166,107,0.9445512947399345
+Pneumothorax Right,C0546333,408,1.0
+Interstitial Pulmonary Edema,C0748120,34,1.0
+Part Of,C1292711,100,1.0
+Interesting,C0543488,3,1.0
+Few Hours,C4036223,10,1.0
+Right Pulmonary Viewed Anatomically Apex,C0225707,141,1.0
+Video Assisted Thoracoscopic Surgeries,C0752151,439,0.9300177925116917
+Resolved Completely,C5419890,18,1.0
+Is Smaller Than,C1553887,9,1.0
+Much Better,C3841449,10,1.0
+Biopsy Of Mediastinal Lymph Node,C0398435,4,1.0
+Main Pulmonary Artery,C3890179,225,0.9997777777777779
+Structure Of Trunk Of Pulmonary Artery,C0034052,481,0.9686981430046476
+Hypertensive Disorder Systemic Arterial,C0020538,53,0.9240854736717774
+Right Superior,C1180150,38,1.0
+Descending Aorta Structure,C0011666,41,0.9899999999999999
+Shortest,C1806781,202,0.9462744344081476
+Subsequent,C0332282,202,0.9434191295500103
+Of Extension,C0439792,240,0.9477086422731253
+Bronchial Secretion,C1511332,10,1.0
+Three Months,C4082119,4,1.0
+Does Communicate,C0566001,145,0.9985927787786697
+Slightly Worse,C3841647,40,1.0
+Subcutaneous Air,C3842127,140,1.0
+Right Posterior,C0456855,118,0.8590250130980635
+Head Of Right Humerus,C0507142,10,1.0
+Synovial,C1550315,1,1.0
+Thoroughly,C4708903,8,1.0
+Cancers Diagnosis,C0920688,5,1.0
+Respiratory Compromise,C5208132,1,1.0
+Hippocampus Proprius,C3887642,11,1.0
+Atheromatous Degeneration,C0264956,9,0.9083623288924524
+10 Days,C1547061,12,1.0
+Lymphangitic Metastatic Disease,C0238258,56,1.0
+Lateral Margin,C4489134,12,1.0
+Structure Of Lingula Of Left Lung,C0225740,190,0.9096346354204469
+Anatomical Site Of Surgery,C0332850,49,1.0
+Chest Abdomen And Pelvis,C1562547,84,0.9914327091884384
+Physical Hard Work,C0015264,14,1.0
+Bronchopulmonary Lymphadenopathy,C0456973,220,1.0
+Arterial Tree Organ Part,C0003842,667,0.9763829462663013
+Mitral,C0746591,14,1.0
+Neck Of The Pancreas,C0447556,256,0.9393891179603783
+Structure Of Hepatic Vein,C0019155,29,0.9903448275862063
+Fatty Replacement,C3276197,8,1.0
+Right Kidney Structure,C0227613,104,0.9019015340932318
+Mass Of Soft Tissue,C0457193,129,0.8154004595176492
+Granulomatous Infection,C1610637,7,1.0
+Scientific Studies,C0947630,44,0.846646594921316
+Left Parietal Lobe Structure,C0228208,46,0.842111547215093
+Complex Nodule Shape,C4761670,34,0.8249948324611645
+Effacement,C0552443,124,1.0
+Isointense,C1517605,5,1.0
+Diffusion Function,C0012222,44,0.8029697032003976
+Left Lateral Ventricle Structure,C0228161,94,0.8023485343804675
+Superior Sagittal Sinus Structure,C0226859,3,0.8423788529332664
+Occlusive,C1947917,157,0.9764719503367864
+Periventricular,C5237503,88,1.0
+Do Not,C3840725,106,1.0
+Artifact Medical Device Problem,C1879740,4,1.0
+Greatest,C0205393,44,1.0
+Tissue Of Parietal Lobe Of Brain,C0030560,54,0.9108573695172699
+Homogeneous,C1881065,56,1.0
+Diaphragm Flattening,C0743169,6,1.0
+Calcifications Of The Aorta,C1096249,4,0.7721532821413576
+Dish Diffuse Idiopathic Skeletal Hyperostosis,C0020498,5,0.992
+Recommendations,C0034866,163,1.0
+Soft Tissue Swelling,C0037580,37,1.0
+Generation Action,C3146294,77,1.0
+Large Amount,C3869890,103,1.0
+Surgical Sequelae,C2038383,2,1.0
+Note : Find : Pt : Setting : Doc : Physician Attending,C3869941,3,1.0
+Magnetization Prepared Rapid Gradient Echo Mri,C3898475,137,1.0
+Surgically Created Resection Cavity,C1515091,61,1.0
+Structure Of Right Axillary Region,C0230337,34,0.9705944018089082
+Resection Of Rib,C0185827,34,1.0
+Tortuous,C4068863,124,1.0
+Mandibular Right First Molar Abutment Mesial Hemisection,C1553669,17,1.0
+Structure Of Right Middle Lobe Of Lung,C4281590,781,0.8891245781401832
+St Segment Elevation Myocardial Infarction,C1536220,79,0.9185751846025477
+Pulmonary Pathology,C0748168,8,1.0
+Contain Action,C2700400,275,0.9368164161362459
+Contrast Bronchogram,C0006282,115,0.9841820497696676
+Criterion,C0243161,113,1.0
+Ct Scan Of Abdomen Without And With Iv Contrast Procedure,C4029517,2,1.0
+Liver And Pancreas,C1442317,10,1.0
+Reticuloendothelial System Spleen,C0037993,34,0.8000163702966179
+Gallbladder Thickening Wall,C0744257,16,1.0
+Acute Diverticulitis,C0518989,18,1.0
+Inguinal Lymphadenopathy,C0578736,43,1.0
+Epithelioid Granulomas,C0018188,27,0.983764869643886
+Bronchioloalveolar Adenocarcinoma Of The Lung,C0007120,26,0.9898880269132242
+Acute Cholecystitis,C0149520,40,1.0
+2 Months,C1442456,3,1.0
+Cdisc Sdtm Procedure Terminology,C3539779,21,0.8099590180848598
+One Year,C4082117,5,1.0
+Adherent,C0334154,4,1.0
+Free Wall Of Right Atrium,C0503984,1,1.0
+Heterogenous,C1512426,30,1.0
+Sclerotic Bones,C4315325,20,1.0
+Status In Progress,C1272688,113,1.0
+Recurrence Of Tumour,C0521158,183,0.9502657858007614
+Carcinoma Of The Thyroid Gland,C0549473,4,0.99
+Direct Qualifier,C1947931,46,0.9120845685668335
+Referring Physician,C1709880,29,1.0
+History Of Pneumonia,C0455542,9,1.0
+Siphona,C1204751,11,1.0
+White Blood Cell Count Increased Lab Result,C0750426,86,0.9081644530409856
+Indeterminate Nodule Type,C4761389,84,0.9313446594398145
+Attributions,C0596130,9,1.0
+Grayscale Color Map,C2827990,93,1.0
+Color Doppler,C4697739,53,1.0
+Structure Of Posterior Tibial Artery,C0086835,41,0.9947377805757954
+Structure Of Lobular Bronchiole,C0006270,10,1.0
+Intralobular Septal Thickening,C5539736,10,1.0
+Post Pneumonia,C2062928,3,1.0
+Inflamed Gallbladder,C0008325,67,0.9226618467306614
+New Lesion Identification,C2986548,58,1.0
+Moderately Severe Hallucination,C4744688,28,1.0
+Cage Device,C0337189,21,0.9552829029863387
+Sternotomies Median,C1282959,121,1.0
+Treatment,C1522326,54,0.9741813990732539
+Imaging Finding,C1287399,1,1.0
+Oxygen Saturation Below Reference Range,C0746961,21,1.0
+Increased Shortness Of Breath,C0574066,19,1.0
+Management Procedures,C1273870,10,0.9347634115175362
+Pyrexial,C0015967,97,0.9289376804525291
+Appendicitis With Rupture,C0854119,3,1.0
+Pulmonary Atelectases Compression,C0264499,14,1.0
+Mucinous Neoplasm,C1334811,3,1.0
+Radioactive Seed Implant Dosing Unit,C1882540,13,0.8741225040799291
+Foley Catheterization,C3489669,4,1.0
+Adenopathy Inguinal,C1386344,4,1.0
+Screws,C0301559,38,0.917035029384415
+Colon And Rectum,C0391908,23,0.9904347826086952
+Vascular Catheters,C0441134,38,1.0
+Suboptimal,C2984009,58,1.0
+Renal Insufficiency Syndrome,C0035078,56,0.9704433578251475
+Structure Of Right Subclavian Vein,C0489887,43,0.8380086932881892
+Compressing Action,C0332260,79,0.991955744237857
+Hyperechoic,C4697722,10,1.0
+Renal Ultrasound Imaging,C0203408,30,1.0
+Matrix Metalloproteinases,C0623362,9,0.9608202385056528
+Appendicitis With Perforation,C0267628,4,1.0
+Shooting Sensation Quality,C1444774,1,1.0
+Peripherally Inserted Central Catheter Physical Object,C0179740,179,0.8274841573982942
+Subclavian Central Venous Line,C2036626,51,1.0
+Revision Procedure,C1527075,106,0.9984993871233085
+Contrast Enhanced Computed Tomography,C0742919,14,1.0
+Left Cerebral Hemisphere Structure,C0228176,9,0.8180979552384527
+Internal Carotid,C0741978,30,1.0
+Extramural,C0205101,18,0.8647089529486799
+Metallic Lead,C0023175,73,0.8582869117645786
+Streak,C2348542,46,1.0
+Ethmoid Sinus Structure,C0015028,34,0.8744663919447057
+Family History Of Coronary Artery Bypass Graft Surgery,C5238572,197,1.0
+Procedure Sternum Wiring,C0407260,39,1.0
+Creatinine Normal,C0860945,1,1.0
+Atrophying,C0333641,55,0.9824088011750929
+Retroperitoneal Lymph Node Enlargement,C0240900,2,1.0
+Vasculature Of Pelvis,C1184263,2,1.0
+Anterior Osteophytes,C1842152,14,1.0
+Right Anterior,C0441997,49,0.8799285346907141
+Si Joint,C5453012,11,1.0
+Unclear State Of Matter,C4725585,117,1.0
+Not Visualized,C4697694,111,1.0
+West Direction,C1705493,22,1.0
+Medical Record Device,C0025102,36,0.9402914565721306
+Cerebral Oedema,C0006114,22,1.0
+Cortex Of Right Cerebral Hemisphere,C2953008,1,1.0
+Right Cerebral Hemisphere Structure,C0228175,12,0.8079867352437732
+Tissue Of Occipital Lobe Of Brain,C0028785,28,0.8110268294873297
+Structure Of Right Internal Carotid Artery,C0226156,22,0.8455935904261974
+Rightward,C5570774,209,1.0
+Electrical Activity Of Brain,C0234388,2,1.0
+Septal Defects Aorticopulmonary,C0003516,53,0.9748282567332338
+Ruq Right Upper Quadrant,C0439734,48,0.7913814925864903
+Metallic Foreign Material,C1720389,7,1.0
+Cerebellar Metastases,C0919985,12,1.0
+White Matter Changes,C1833300,3,1.0
+Intraoperative Haemorrhage,C0079027,11,1.0
+Before Surgery,C0445204,26,1.0
+Bilobular,C4086023,20,1.0
+A Moderate Amount,C3843498,38,1.0
+Neoplasm Of The Leptomeninges,C0751297,19,1.0
+Right Superior Frontal Gyrus,C2338731,2,1.0
+Operative,C1882154,73,1.0
+Medial Part Of Gyri Orbitales,C0152300,9,0.9891117113380541
+Diffusion Weighted Magnetic Resonance Imaging,C0598801,36,0.9850415385377711
+Multiple Falls,C0743800,15,1.0
+Central Lobe Of The Cerebellum,C0228482,4,0.7710337048911133
+Signal Intensity,C0871362,80,1.0
+Distorted,C0700135,3,1.0
+Left Main Coronary Artery Segment,C1261082,182,1.0
+Narrowing Of The Joint Spaces,C1859695,4,0.8093020821578056
+Spur Body Structure,C0222032,9,0.9944444444444444
+Ramus Intermedius Artery Segment,C3538818,14,1.0
+Stents Bronchial,C0183513,138,1.0
+Mild Scoliosis,C1839253,7,1.0
+Antineoplastic Chemotherapy Regimen,C0392920,195,0.9852355386623118
+Large Posterior Fossa,C4693029,5,1.0
+Obstructive Hydrocephalus,C0549423,19,1.0
+Found Down,C0744212,22,1.0
+Neoplastic,C1709160,79,1.0
+Third Ventricle Structure,C0149555,20,0.8321371834596782
+Mandibular Left Second Premolar Mesial Prosthesis,C1553596,2,1.0
+Transcription Factor 21 Protein Human,C1454475,18,1.0
+Clinical Apex Of Right Lung,C0929167,143,0.8105963906284395
+Post Procedure,C3272301,73,1.0
+Lateral To The Right,C0450415,104,0.8564048727284058
+Pulling Action,C0580846,176,0.9975036073124554
+Post Thoracic Surgery,C2062975,9,1.0
+Contusion,C0009938,48,1.0
+Row Table,C1552840,2,0.995
+Mechanical Difficult,C1403645,2,1.0
+Etiology Aspects,C0015127,13,0.8443833773166068
+Respiratory Distress Syndrome Acute,C0748355,1,0.8308041384702471
+Pulmonary Congestion,C0242073,29,1.0
+Rapidly Progressive,C1838681,8,1.0
+Rapid Onset,C1838994,7,1.0
+Fulminant Graft Versus Host Disease,C0856825,19,0.7796198787117465
+Bone Structure Of Clavicle,C0008913,38,1.0
+Structure Of Lymph Node Of Left Axilla,C4545645,6,1.0
+Enlarged Right Axillary Lymph Node,C2200828,3,1.0
+A Little T Super Little A,C3176832,20,1.0
+Example,C1707959,77,1.0
+Metastasis From Malignant Neoplasm Of Pleura,C2119038,9,1.0
+Attenuation,C0599946,33,0.9674704034504896
+Parapelvic Cyst,C5554139,8,1.0
+Structure Of Splenic Vein,C0038001,13,0.9923076923076924
+Structure Of Retroperitoneal Lymph Node,C0229802,43,0.9923255813953488
+General Bone Observation,C0427191,13,1.0
+Short Terms,C0443303,29,1.0
+Enlarged Left Axillary Lymph Node,C2140138,8,1.0
+Flexion Function,C0231452,10,0.999
+Retraction Finding,C0332523,37,0.8879919264347956
+Semi Erect,C0522019,58,1.0
+Mediastinum Widening,C0746459,100,1.0
+Pneumonectomy Operations,C0032284,1037,0.9167079900075771
+Positional,C0240795,31,1.0
+Helpful,C3898897,127,1.0
+Rib Defects,C1849705,7,1.0
+It Was About What I Expected,C4055439,24,1.0
+Left Shifted White Blood Cells,C0240173,48,0.9968749999999998
+Accumulation Of Fluids,C0333229,37,1.0
+To Be Stopped,C1272691,5,1.0
+Simulate Composite Resin,C0284447,3,1.0
+Intraparenchymal Route Of Administration,C3898701,93,1.0
+Patient Is Male,C0150904,36,1.0
+Interpreting,C1285553,19,1.0
+Drainage Tubes,C0184114,20,0.9816016362516979
+Nodule S,C1546722,16,1.0
+Day 2,C3842676,10,1.0
+Computed Tomography Angiography Of Thorax,C2703057,43,1.0
+Kernel,C1881303,3,1.0
+Thin Sectionings,C0026040,9,1.0
+Workstations,C1736830,25,1.0
+Vitreous Findings,C2228511,3,1.0
+Observation Of Swelling,C0038999,81,1.0
+Vein Right,C0947210,14,1.0
+Reticuloendothelial System Leukocytes,C0023516,16,0.8352832934941077
+Expanding,C0205229,82,1.0
+Diagnostic Angiography,C0002978,98,0.9571584790254792
+Bronchial Wall Thickening,C4084859,50,0.9930000000000001
+Hepatic Lobes,C0447541,4,1.0
+Conjunction,C2699427,78,1.0
+Multisection For Torsion,C4263639,5,1.0
+Catheters Pleural,C1322293,76,1.0
+Recent Surgery,C2169607,41,1.0
+Convex,C0521163,29,1.0
+Bronchopulmonary Lavage Therapy,C1535502,1,1.0
+Intrapulmonary Haemorrhage,C0151701,60,0.9123672591689203
+Postoperative Haematoma Formation,C0472340,6,1.0
+Supportive Assistance,C1521721,6,0.9966666666666667
+Feeding Tube Device,C2945625,168,0.878679032007915
+Cleared By,C0521097,51,1.0
+Diameter . Transverse,C0552414,8,1.0
+Right Middle Lobe Syndrome,C2062968,1,1.0
+Posterior Anterior,C1999039,5,1.0
+Sitting Upright,C1280451,13,1.0
+Bronchoscopic,C0442419,38,1.0
+Pulmonary Resection,C0396565,41,1.0
+Acute Renal Failure Syndrome,C0022660,76,1.0
+Ureteric Structure,C0041951,43,0.8939772459395151
+Anterograde Direction,C0589502,21,0.9674363838129022
+Nephrostomy Tube Placement,C0948143,1,1.0
+Generic Anaesthesia Procedure,C0002903,32,0.8530507132924929
+Administration Procedures,C1533734,36,0.99326195380146
+Dividing,C0332849,50,1.0
+Dose Per Administration,C0178602,60,0.960253489335581
+Micrograms,C0439211,4,0.761187711781808
+40 Minutes,C5452765,7,1.0
+Treatment Risk Benefit Analysis,C0687742,78,1.0
+Brought On By,C0332302,67,1.0
+Moderate Hydronephrosis,C0237060,8,1.0
+Micropunctures,C0026014,110,1.0
+Stiffener Device,C1710197,2,1.0
+Departure Action,C1706081,3,1.0
+Respiratory System Lung,C0024109,1,1.0
+Stage Iii Non Small Cell Carcinoma Of The Lung,C0278506,9,1.0
+Acute Pneumonia,C0740766,15,1.0
+Recumbent Body Position,C0444334,11,0.86563010608598
+Venous Access,C0750164,87,1.0
+99M Technetium Diethylenetriaminepentaacetic Acid,C4708608,3,1.0
+Xxx Vein . Left,C0947209,9,1.0
+Femoral Vein Structure,C0015809,69,0.8250070226376321
+Great Saphenous Vein Structure,C0392907,16,0.9768800460886589
+Structure Of Subsartorial Vein,C1301369,52,1.0
+Structure Of Popliteal Vein,C0032652,128,0.8386585005049901
+Git Gastrointestinal Tract Haemorrhage,C0017181,123,1.0
+Lower Git Gastrointestinal Haemorrhage,C0024050,3,1.0
+Pre Sacral,C2698876,10,1.0
+Cytochrome P450 Cyp19A1 Enzyme,C0059735,17,1.0
+Unable To Assess,C3845137,2,1.0
+Not Administered,C1548562,19,1.0
+Response Declined,C1709925,4,1.0
+Number Of Pulmonary Nodules,C4527369,1,1.0
+Severely Limited,C4489696,10,1.0
+Lung Effusion,C1403173,15,1.0
+Marginated,C0442812,22,1.0
+Flank Pains Left,C0423641,2,1.0
+Catheter Tip Device,C0444299,68,0.9877068936462472
+Follow Up Studies,C0016441,8,1.0
+Structure Of Left Upper Quadrant Of Abdomen,C0230179,17,0.8275994065891944
+Ribs On Right Side,C0947182,17,1.0
+Positive Lymph Node,C0746319,7,0.8567096157903068
+Microphasma,C2294664,1,1.0
+Lung Lesion Cavitary,C0746131,6,1.0
+Transabdominal Ultrasound,C2348813,14,1.0
+Multisection : Finding : Point In Time : Spine . Lumbar : Narrative : Mri,C0882130,30,1.0
+Multisection : Finding : Point In Time : Spine . Thoracic : Narrative : Mri,C0882557,39,1.0
+Pain In Back,C0004604,15,0.949123335978911
+Stir,C1883171,55,1.0
+Magnetic Resonance Imaging Of Thoracic Spine,C0412719,3,1.0
+Magnetic Resonance Imaging Of Lumbar Spine,C0412720,7,1.0
+Anisotropic Disc,C0230715,6,1.0
+First Sacral Spinal Nerve,C0501800,1,1.0
+Left Upper Arm Structure,C0230347,43,0.9360080139957265
+Structure Of Venous System Of Upper Extremity,C0226792,2,0.99
+Make Instruction Imperative,C1881534,21,1.0
+Very Unlikely,C3841878,1,1.0
+Dvt Deep Vein Thrombosis,C0149871,66,1.0
+Oncological Abnormality,C0027651,18,0.7938850325945181
+Reactions Allergic,C1527304,22,0.9911097889023627
+Pericardial Thickening,C4285909,9,1.0
+Thick Walled,C4697736,14,1.0
+Containments,C0009847,1,1.0
+Computed Tomography Of Lungs,C0412611,34,1.0
+Ct Computerised Tomography Guidance,C0475322,21,1.0
+Send Transmission,C1519246,51,0.9866216102825851
+Tissue Speciman,C1292533,81,0.8354126459432305
+Anaerobic,C3641081,3,1.0
+The Patient Was Prepped And Draped In The Usual Sterile Fashion,C2051590,3,1.0
+Radiology . Nurse,C4300144,3,1.0
+20 Gauge,C0450403,11,1.0
+Microbiological,C0025953,9,0.988055947760993
+Fifteen Minutes,C1442447,20,1.0
+Cuffing Morphologic Abnormality,C3668885,25,0.8994092391950087
+2 Days,C1442455,14,1.0
+View Comparison,C0882980,9,0.7789275541803059
+18 Hours,C1442448,3,1.0
+Changes In Size,C0541591,26,1.0
+Leukocytic Maturation Alteration Right Shift,C0427514,61,0.9836188299994214
+Clinical Services,C1704289,28,1.0
+History Of Pneumonectomy,C0455617,9,1.0
+Interstitium,C2328510,10,1.0
+Blistering Eruption,C0005758,81,0.9831625706497812
+Clarification,C2986669,17,1.0
+Profiling Action,C2003903,2,1.0
+Bone Structure Of Sternum,C0038293,125,0.9905345408132766
+Structure Of Left Axillary Region,C0230338,17,0.9500277767218509
+Cardiac Effusion,C1399211,2,1.0
+Structure Of Base Of Lung,C0225704,56,1.0
+Environment Postoperative Anesthesia Care Unit,C0034871,39,1.0
+Hypoattenuation,C4086504,65,1.0
+Malignant Pericardial Effusion,C0220655,21,1.0
+Formation Of Pericardial Window,C0031041,119,1.0
+Cardiac Insufficiency,C0018801,55,0.9938181818181822
+Material Degradation,C1881707,36,0.9997222222222223
+Gastrograffin,C0733796,4,1.0
+Extraluminal Route Of Drug Administration,C1517059,20,1.0
+Renal Collecting System,C2953455,9,1.0
+House Staff,C0020044,11,1.0
+Structure Of Great Blood Vessel Organ,C0225991,55,0.8211077217256415
+Retroesophageal,C4086828,3,1.0
+Inflammation Of Common Bile Duct,C0005400,18,0.9916666666666666
+Corneal Epithelial Microcysts,C1720485,1,1.0
+Biliary Tract Structure,C0005423,6,0.9604744402293539
+Dilated Loops,C4697734,64,1.0
+Upper Gastrointestinal Tract Structure,C3203348,3,1.0
+Responsible To Attribute,C1273518,23,1.0
+Dilated Bowel,C3280831,14,1.0
+Fusion Of Cervical Vertebrae,C3887527,15,0.9993333333333333
+Bone And Soft Tissue,C5570778,14,1.0
+Diagnostic Ultrasound Of Heart,C0013516,2,0.9034735237119362
+Obliterating,C0700134,63,1.0
+Retained Barium,C0748362,3,1.0
+Sample Fixation,C1522662,10,0.8814427449352176
+Liver Mass,C0240225,42,1.0
+Decreased Mental Alertness,C3276433,12,1.0
+Frontal Approach,C2316681,38,1.0
+Hepatico,C0205054,54,0.8268607727398174
+Pre Procedure,C3272300,18,1.0
+Procedure Time Out,C1562876,4,1.0
+Verification,C1711411,17,0.8786563968895796
+Sense Of Identity Observable Entity,C0424215,8,1.0
+Entry Data,C1705654,20,1.0
+Effects Anesthetic,C3179301,1,1.0
+18 Gauge,C0456637,29,1.0
+Cath Hemodynamics Hemodynamic Monitoring,C4082936,4,1.0
+Newly Diagnosed,C1518321,97,1.0
+Assessment Not Done,C3846720,12,1.0
+Lesion Of The Lung,C0577916,110,1.0
+Hepatomegaly,C0019209,5,1.0
+Debilitation,C0742985,6,1.0
+Structure Of Anterior Mediastinal Lymph Node,C0229758,36,1.0
+Procedures On Heart Pericardium,C0869770,17,1.0
+Liver Observation,C0426686,2,1.0
+Portal Venous Tree Organ Part,C0032718,89,0.9891069620717794
+Rectum And Sigmoid Colon,C0521377,51,0.9280133053566243
+Bone Structure Of Ilium,C0020889,32,0.9087121816332006
+Neoplastic Processes,C0027671,21,1.0
+Metastatic Malignant Neoplasm To Bone,C0153690,80,1.0
+Of Presence,C0150312,169,0.9994674556213018
+Contrast Enhancing Lesion,C3830314,321,1.0
+Structure Of Vertebral Column,C0037949,32,0.8328840968019421
+Flair Image,C4285947,15,1.0
+Right Lentiform Nucleus,C2949882,3,1.0
+Structure Of Midbrain,C0025462,14,0.922847518361954
+Right Parietal Lobe Structure,C0228207,66,0.8161191133098623
+Tissue Of Temporal Lobe Of Brain,C0039485,31,0.8480317489242739
+Breaking Down,C0443161,1,1.0
+Multiple Metastases,C5556309,8,1.0
+Cerebellar Lesions,C0742035,75,1.0
+Acute Mental Status Changes,C1735907,8,1.0
+Head . Lateral Cerebral Ventricles,C0152279,180,1.0
+Cisterns,C1185718,31,0.7750218966190944
+Corpora Quadrigemina Structure,C0010087,4,1.0
+Unresponsiveness,C0241526,8,1.0
+Lethargic,C0023380,9,0.9852481496473069
+Limited Abdominal Ultrasound,C3161529,4,1.0
+Multisection : Finding : Point In Time : Spine . Cervical : Narrative : Mri,C0882115,27,1.0
+Back Pain Severe,C0238740,11,1.0
+Structure Of Thoracic Vertebral Column,C0581269,69,0.9493316062573506
+Foraminal Stenosis,C5453009,18,1.0
+Nasoduodenal Feeding Tube,C3204189,127,1.0
+Small Cell Neuroendocrine Carcinoma,C0262584,45,0.9518606904989309
+Nuclear Magnetic Resonance Imaging Brain,C4028269,61,0.9498229086364132
+Necrotic Lesion,C1334929,4,1.0
+Environment Intensive Care Unit,C0021708,6,0.877254830553356
+Curled,C5447266,7,1.0
+Curling S Ulcers,C0010474,6,1.0
+Metastatic Non Small Cell Lung Cancer,C0278987,43,1.0
+Magnetic Resonance Imaging Of Cervical Spine,C0412718,5,1.0
+Cervical,C0205064,15,0.769001569982958
+Thoracic Cords,C3853028,11,1.0
+Indentations,C0332467,36,0.9379360899390193
+Pathologic Compression Fracture,C4707952,19,1.0
+Ventricular Drain Placement,C5442408,4,1.0
+Resorption,C2985494,5,1.0
+May Be A Attribute,C1278418,69,1.0
+Surgical Construction Of Shunt,C0813207,55,0.9573969874687146
+2 Days Ago,C5570858,9,1.0
+Skin Staples,C1139841,44,1.0
+In Blood,C0005768,20,0.9306383254110123
+75 Years Old,C4035139,301,1.0
+X Ray Electromagnetic Radiation,C0043309,77,0.9856194205384543
+Saturations,C0522534,35,1.0
+Seed Implantation,C1519225,12,1.0
+Migrating,C0232902,16,1.0
+Placement Check,C4699990,5,1.0
+Spiculated Mass,C2986562,51,1.0
+Subclavian Right,C0694675,152,0.7907644099749983
+Yes Limited A Little,C3829283,24,1.0
+Blood Tinged,C4068777,7,1.0
+Strikes Employee,C0038452,8,1.0
+Tachys,C3463983,11,1.0
+Trach,C0749607,191,1.0
+Exteriorisation Of Trachea,C0472567,11,0.894239327410693
+Tracheostomy Device,C1875833,77,0.8663123417917792
+Analytical,C0936012,63,0.9920161636707189
+Later,C0205087,30,1.0
+Mediastinal Emphysema,C0025062,18,0.8088464458464698
+Lung Observations,C0577914,8,1.0
+Iv Access,C5214472,31,1.0
+Right Upper Extremity Structure,C0230329,23,0.7966144044163997
+Right Brachial Region,C4048756,43,0.889352449743019
+Perforation Procedure,C0034117,35,1.0
+0 . 018 Inch,C0450304,10,1.0
+Catheter Guide Wire Device,C0181089,150,0.8968868256669013
+Resolving,C3714811,75,0.997301244455009
+Diuresin,C0905073,3,1.0
+Immediate Radiation Injury,C1265635,2,1.0
+Acute Pulmonary Oedema,C0155919,5,1.0
+Billion Per Gram,C4055382,3,0.7847281838387742
+Gram Stain Of Sputum,C0748963,1,1.0
+Tracheal Structure,C0040578,323,0.9312437154182436
+Flexible Bronchoscopy,C5548084,9,1.0
+Superior,C1282910,3,1.0
+Electromagnetics,C0013838,1,1.0
+Metallic Object,C2826620,2,1.0
+Old Fracture,C5453030,7,1.0
+Systolic Congestive Heart Failure,C2039715,1,1.0
+Increased Sputum Production,C5539771,4,1.0
+Free Air In Peritoneal Cavity,C0032320,59,0.9607252273532364
+Lih Left Inguinal Hernia,C0262537,7,1.0
+Degenerative Joint Disease,C0029408,3,1.0
+Anterolisthesis,C1504511,28,1.0
+Vessels Coronary,C0010075,9,1.0
+Structure Of The Penis,C0030851,11,0.9807382831327853
+Meta,C1042496,2,1.0
+Reporting Ultrasounds,C0749761,3,1.0
+Superficial Lesion,C1336528,1,1.0
+Echogenic,C4697723,36,1.0
+Multiple Tattoos,C0749257,1,1.0
+New Onset Of Cough,C2220033,7,1.0
+Cough Question,C5420054,2,1.0
+Heart . Atrium . Right,C0225844,45,0.7770428811913888
+Periventricular Cerebral White Matter Hypodensities,C4022720,11,1.0
+Cannot Get About Finding,C0427004,13,1.0
+No Deep Venous Thrombosis,C3651001,7,1.0
+Febrile Neutropenia,C0746883,28,0.9927427527567694
+Fever Symptoms Finding,C0424755,20,0.8609081826607682
+Magnetic Resonance Imaging Of Head,C0412674,43,0.9951502643762661
+Patient Motion Artifact,C2828134,51,1.0
+Right Temporal Lobe Structure,C0228232,56,0.8252394069331209
+Partial Volume Averaging,C2828111,3,1.0
+Blunt Trauma,C0043253,17,1.0
+Recurrence,C0034897,9,1.0
+Angulating,C0333179,16,1.0
+Open Reduction Internal Fixation Orif,C0747060,2,1.0
+Skin Avulsion Injuries,C0433122,9,1.0
+Oedema Of Bilateral Lower Extremities,C5230913,2,1.0
+Intertrochanteric,C0745355,2,1.0
+Fixated,C0849453,1,1.0
+Structure Of Head Of Femur,C0015813,2,0.7568715312412495
+Computed Tomography Cystography,C4041471,4,1.0
+Motor Vehicle Collision,C0000932,16,0.9931250000000001
+Uneventful,C5453124,68,1.0
+Heterotopic Bone,C4061353,1,1.0
+Diverticulum Of Bladder,C0156273,2,1.0
+Degenerative Disorders,C1285162,21,1.0
+Convex To Left,C0443194,3,1.0
+Thyroid Nodular,C0235456,1,1.0
+Extremely Poor,C4329809,1,1.0
+Pyloric Structure Of Stomach,C0034196,43,0.9970997356549945
+Right Naris,C0694673,3,1.0
+Insufflate,C5439224,5,1.0
+With Water,C1883711,2,1.0
+Unspecified Multiple Injuries,C0026771,1,1.0
+Regio Tarsalis,C0003086,21,0.9012991519839082
+Malleolar Fracture,C1096630,3,1.0
+Trauma Qualifier,C1510467,43,0.8516114651492451
+Talar Mortise,C3900033,3,1.0
+Surgical Staples,C0524724,63,0.9966666666666669
+Structure Of Calf Of Leg,C0230445,5,0.7885716697466127
+Subcutaneous Edema,C3670763,4,0.7756311118365099
+Malleolus,C1550274,1,1.0
+Runoff,C4699993,11,1.0
+Nof Fracture Of Neck Of Femur,C0015806,3,1.0
+Ct And Ct Angiogram,C4300291,1,1.0
+Pelvis And Lower Extremity,C1562943,2,1.0
+Chest And Abdomen,C1442171,22,1.0
+Seventh Rib Fracture,C0920225,5,1.0
+Repair Of Aortic Aneurysm,C0397942,2,0.9422148714643213
+Fulfill,C1550543,44,1.0
+Intertrochanteric Fracture Of Femur,C0162385,4,1.0
+Structure Of Popliteal Artery,C0032649,21,0.98650861394232
+Not Observed,C4697693,3,1.0
+Sti Soft Tissue Injury,C0037578,3,1.0
+Ultrasound Of The Thyroid,C0877525,6,0.8133131703747584
+Non Emergent,C3842236,3,1.0
+Patents Rights,C0443292,7,1.0
+Bone Structure Of Knee Joint Region,C0022742,21,0.9259526405929883
+Updated,C1519814,5,1.0
+Filter Device,C0180860,136,0.8701609564296041
+Surgical Operation Note : Find : Pt : Setting : Doc : Role,C0551628,5,1.0
+Delineation,C4684445,38,0.9871965762911209
+Intramedullary Rod Device,C0336581,1,0.7515610690081568
+Avulsion Injuries,C0262386,1,1.0
+Softly,C0205358,4,0.9049775127425702
+Diffuse Osseous Demineralization,C3276906,2,1.0
+Pe Protocol,C0950671,12,1.0
+Greatly,C3840786,10,1.0
+Control Of Hip Fracture Risk,C0518449,33,0.9650689650964346
+100 Ml,C5452754,29,1.0
+Retained Secretions,C4061148,14,1.0
+Work Of Breathing,C0043229,24,1.0
+Electromagnetic Spectrum,C1883073,11,1.0
+Normal Capillary Refill Time,C0232357,14,0.8289496775404802
+Broken,C5547829,6,1.0
+Postoperative Pneumothorax,C0865838,5,1.0
+Bronchial System,C1442216,195,0.8924053886580939
+Surgical Pneumothorax,C1443284,2,1.0
+Hounsfield Unit,C1552985,34,1.0
+Abnormal Pulmonary Interstitial Morphology,C5441745,63,0.8894801961946626
+Chronic Rheumatic Arthritis,C0003873,2,1.0
+Section 3 Heart And Pericardium,C1541678,24,1.0
+Interstitial Disease,C1881236,16,1.0
+Investigation Finding,C0243095,11,0.952952959066117
+Antecubital,C1549091,30,1.0
+Vena Cephalica Antebrachii,C0226802,57,0.811710853945009
+Interrupted Respiration,C0235744,8,0.991197844645636
+Mediastinal Adenopathy,C1386346,69,1.0
+Subcarinal Mass,C0749080,21,1.0
+Malignant Lymphoma,C0024299,33,0.8674183395546814
+Congenital Abnormality Of The Kidney,C0266292,2,1.0
+Evides,C3989109,1,1.0
+Locales,C0023937,10,1.0
+Roleclassinstance,C1550608,2,1.0
+Lymph Node Of Aortopulmonary Window,C1268054,9,1.0
+Passive Congestion,C0042484,12,0.9991666666666666
+Accumulation,C4055506,18,1.0
+Sound Of Respiration,C0035234,48,0.9752035842789417
+Pain Free,C0908489,2,1.0
+Pain . Status,C0946268,1,1.0
+Vena Caval Structure,C0042460,13,0.9597036989542926
+Etc .,C1548556,11,1.0
+Congestive,C0742742,43,1.0
+Viscous,C0311419,6,1.0
+Perforated Viscus,C2053066,4,1.0
+Structure Of Lesser Curvature Of Stomach,C0227221,1,1.0
+Structure Of Head Of Pancreas,C0227579,23,0.9816012776645545
+Moderate Amount,C3869891,39,1.0
+Prosthetic Arthroplasty Of Left Hip,C2316676,4,1.0
+Clinical Significance,C2826293,14,1.0
+Doubtful,C0750558,32,0.9786062329211734
+Set Of Abdominal Proper Lymph Nodes,C0588058,3,1.0
+Partial Obstruction Of Small Intestine,C0281936,7,1.0
+2 Moderate,C3840563,8,1.0
+Pulmonary Process,C0748169,43,1.0
+Operative Procedures On The Abdomen,C0198482,8,1.0
+Mass Of Adrenal Gland,C0342500,51,1.0
+Set Of All Parietal Lumbar Lymph Nodes,C2953246,7,1.0
+Prosthetic Arthroplasty Of Right Hip,C2316675,2,1.0
+Fluid Filled,C4086317,42,1.0
+Pulmonary Effusion,C1608981,15,1.0
+Wire Sutures,C1961549,4,1.0
+Sternotomy Sutures,C1961550,6,1.0
+Enteric,C1304890,25,1.0
+3 Days,C1442459,10,1.0
+Vascular Clip Device,C0179992,12,1.0
+Hernias Hiatal Large,C0744895,10,1.0
+Lymph Node Mass,C0746921,42,1.0
+Tdgf1P3 Gene,C3469968,2,1.0
+Cervico Medullary Junction,C1516438,2,1.0
+4 Levels,C0456950,10,0.987944546520545
+Structure Of Intervertebral Foraman,C0223085,29,1.0
+Central Canal Of The Spinal Cord,C0459414,17,0.7742227774379375
+Murmur Apical Diastolic With Presystolic Accentuation,C2072523,8,1.0
+Kyphosis Deformity Of Spine,C0022821,11,0.9109139939462009
+Several Days,C3845714,23,1.0
+Longest Perpendicular,C3272962,26,1.0
+Multiple Nodules,C2221194,22,1.0
+Structure Of Soft Tissues Of Neck,C1276274,10,1.0
+Ischemic Attack,C0745413,30,1.0
+Haemorrhage Brain,C0553692,1,1.0
+Right Supraclavicular Lymph Node,C2330821,9,1.0
+Enlarged Right Supraclavicular Lymph Node,C2037469,1,1.0
+Diagnostic Intent,C0348026,12,1.0
+History Of Back Pain,C3494784,5,1.0
+Prone Positioning,C4551696,8,0.8840592735801953
+Under Anaesthesia,C1720436,14,1.0
+Needle Biopsies Large Core,C1318309,14,0.8144792555398669
+Biological Specimens,C0370003,17,0.8993457874329741
+Forty Five Minutes,C1442463,6,1.0
+Primary Reason,C1549995,5,1.0
+Ground Glass,C4697773,105,1.0
+Pancreas And Stomach,C0545812,3,1.0
+Procedures On Prostate And Seminal Vesicle,C0545926,7,1.0
+Ih Inguinal Hernia,C0019294,17,1.0
+Rih Right Inguinal Hernia,C0262617,14,1.0
+Neoplastic Disease Extent Indicator,C5400654,11,0.9867621239175162
+Vertebrectomy,C2363924,17,1.0
+Lower Extremity . Left Knee,C4299111,1,1.0
+Tarsal,C1550316,1,1.0
+History Of Gout,C0455492,1,1.0
+Metastatic Mass,C1334721,11,1.0
+Cystic Lesions,C1511606,53,1.0
+Satellite Lesion,C5204310,20,1.0
+Cystic Mass,C0746405,12,1.0
+Left Occipital Lobe Structure,C0228219,36,0.8413432700943612
+Parietal And Occipital Lobes,C0546006,6,1.0
+1 Mm,C3842090,21,1.0
+Vascular Insufficiency Acute,C0232353,19,1.0
+Compartment Space Of Orbit,C0029180,22,0.8044672072409607
+Neuroendocrine Tumor Primitive Neuroectodermal,C0206663,1,1.0
+Structure Of Eyeball,C0015392,29,0.9974452559441577
+Tracheobronchial Endoscopy,C0006290,4,1.0
+Reference Object,C1706462,41,0.9034022987308638
+Left Supraclavicular Lymph Node,C2337090,6,1.0
+2 Axis,C0945856,10,1.0
+Endobronchial Lesion,C2985135,79,1.0
+Bullous Disease,C3149269,16,1.0
+Ultrasound Of Abdomen : Spleen Normal Procedure,C2181190,14,1.0
+Ileal Loop,C1550266,2,1.0
+Structure Of Coeliac Lymph Node,C0229766,3,1.0
+Seminal Vesicle Structure,C0036628,21,1.0
+Degeneration Of Intervertebral Disc,C0158266,14,1.0
+Bc Bronchogenic Carcinoma,C0007121,29,1.0
+Cad Coronary Artery Disease,C1956346,61,1.0
+Enlarged Prostate,C0426732,4,1.0
+Tissues Muscle,C0026845,10,0.99
+Decompensation Respiratory,C1394769,1,1.0
+Tracheal Stents,C0183517,71,1.0
+Retrocrural Lymph Node,C2953130,12,1.0
+Removal Of Tracheal Stent,C0844432,2,1.0
+Spike Physical Object,C3882441,11,1.0
+Abnormal Alveolar Pattern,C1332240,20,1.0
+Open Communication,C0518574,2,1.0
+Sob Shortness Of Breath,C0013404,3,0.9232068799790909
+Severely Short Of Breath Answer,C4054032,3,1.0
+With Texture,C0449582,2,1.0
+Tracheobronchial Stents,C1283110,16,1.0
+Lvf Left Ventricular Failure,C0023212,26,1.0
+Difficulty Weaning,C2183459,15,1.0
+Weaning From Ventilator Finding,C1386697,4,1.0
+Engorged,C0700140,26,1.0
+Overhydrated,C0311415,1,1.0
+Catheter Subclavian,C0493188,68,1.0
+1 Finding,C5201140,5,1.0
+Partial Atelectasis,C2721612,38,1.0
+Status Pneumonectomy,C1405199,4,1.0
+Ccf Congestive Cardiac Failure,C0018802,14,0.7633073202153268
+Is There A Cancer History,C5202688,9,0.9955555555555556
+Acquired Kyphoscoliosis,C0600033,3,1.0
+Could Not Be Determined,C5552783,6,0.8738659289413326
+Infrequently,C0521114,4,1.0
+Autosomal,C0596142,3,1.0
+Angio,C4071827,41,1.0
+Acute Dyspnoea,C0743323,13,1.0
+Superior Pole,C0929240,12,1.0
+Unusual Gas Collection,C0333139,33,0.9508904910612089
+Mycobacterial,C0521015,8,1.0
+Tuberculosis Status : Type : Point In Time : Patient : Nominal : Reported,C1976626,1,1.0
+Infection Severity,C0517627,2,1.0
+Mild Hydronephrosis,C0237059,3,1.0
+Balloon Dilatation Catheter,C0441127,4,0.9617303895031021
+Pulmonary Nodule New,C0748165,4,1.0
+Rho Related Gtp Binding Protein Rhob Human,C4721671,9,1.0
+Thoracic Aorta And Its Branches Body Structure,C1283351,1,1.0
+Abdominal Organs,C0446633,32,1.0
+In Urine,C0042037,4,0.9368415089050184
+Bladder Wall Thickening,C4324732,4,1.0
+Ignored,C1554079,1,1.0
+Orders Hl7Publishingdomain,C3244315,28,0.8374616007816756
+X Ray Of Chest Pa And Lateral Views Procedure,C2041426,27,1.0
+Tracheal Displacement,C0392014,11,0.8737815800700144
+Left Temporal Lobe Structure,C0228233,30,0.861338798958725
+Bronchial,C0205039,75,0.8909764869874086
+Mucus Plugging,C0333133,26,1.0
+In The Morning,C0332170,26,0.9911695611561063
+View Apical Lordotic,C0883203,1,1.0
+Linear Atelectasis,C0264495,77,0.8334749052594965
+Fracture With Displacement,C0585059,5,0.7984202877271277
+3 Slightly,C4035841,2,1.0
+Officers,C1549461,10,1.0
+At 17,C0104487,33,1.0
+Day 7,C3842672,1,1.0
+Drainage Of Lymphatics,C0398480,8,1.0
+Diminution Of Size,C0332511,24,1.0
+Ich Intracerebral Haemorrhage,C2937358,9,1.0
+Airway Hyperreactivity,C0004096,24,0.8395035053790848
+Right Side Of Chest,C1183546,1,1.0
+Estimated Potential Vessel Value,C2348043,49,1.0
+Measurement In General,C0242485,23,0.8004198743670422
+Precise,C2939802,26,1.0
+Neoplasm Of The Trachea,C0040582,1,1.0
+3 Moderate,C3843524,3,1.0
+Three Dimensional Images,C1253948,15,1.0
+Postobstructive Pneumonitis,C0747690,216,0.9989308816915872
+Before Contrast Medium,C3534464,46,1.0
+Periphrenic Space,C2952673,2,0.7570052986617748
+Chest Tumors,C3826590,2,1.0
+Lower Extremity Femoral Vein Popliteal Vein,C3263217,13,1.0
+Computerized Tomography Of Neck,C0412604,48,0.9874412213279756
+Parotid Gland Structure,C0030580,28,0.9980255977045261
+Fifty Seven,C4517815,1,1.0
+Border Of Heart,C0457109,90,0.989117166691952
+Thought Functions Unspecified,C0039869,4,0.9541228929059464
+Last Two Weeks,C4288440,3,1.0
+Discontinuous Anatomic Feature,C0443239,1,1.0
+Bone Scan Abnormal,C0740353,2,1.0
+Annulus,C2262860,2,1.0
+Drain Device,C0180499,22,0.8589818729433112
+Resection Of Carina Of Trachea,C0396529,3,1.0
+Medical History Infections,C2049826,1,1.0
+Investigating,C1292732,4,1.0
+Cross Sectional Imaging,C3824793,17,1.0
+Cognitive Functions Confusion,C0009676,12,0.8935190799223394
+Aortic Tortuosity,C4025003,4,1.0
+Thin Qualifier Value,C0205168,7,0.796898877816275
+Dextroscoliosis,C3494893,8,1.0
+Proton Magnetic Resonance Spectroscopic Imaging,C0032743,28,0.9821808119997513
+Imaging Studies,C1881134,7,1.0
+Lateral Surface Of Thorax,C0446472,8,1.0
+Superior Pulmonary Sulcus Syndrome,C0030271,95,1.0
+Exacerbation Copd,C0740304,54,1.0
+Respiratory Inspiration,C0004048,7,0.8214101822585791
+Therapeutic Abdominal Paracentesis,C2057774,2,1.0
+Peritoneal Fluid Body Substance,C0003964,12,0.9609025237879548
+Computed Tomography Of Abdomen And Pelvis Procedure,C1641132,4,1.0
+Quadrant Right Lower,C0439736,34,0.9837995597912477
+Fluids Ascitic,C5441965,4,0.842381891025423
+Abdominal Distension,C0000731,8,0.8462558852084475
+Pain And Tenderness,C0234242,3,1.0
+Estimating,C0750572,4,1.0
+Serosal,C0521344,3,1.0
+Adrenal Nodule,C4324551,53,1.0
+Vasculature Of Abdomen,C1184186,4,1.0
+Osteolytic,C1518633,31,1.0
+Defects Pars,C0747280,2,1.0
+Pulmonary Contusion,C0347625,2,1.0
+Honeycombed Pattern,C1335761,8,1.0
+Chronic Bullous Emphysema,C1261120,22,1.0
+6 Hours,C1292428,11,1.0
+Injury Of Cervical Spine,C0432666,1,1.0
+Dendritic Spine Neck,C3159206,20,0.8124807006725538
+Sclerotic Vertebral Endplates,C4551970,10,1.0
+Osteophyte Formation,C5442360,19,1.0
+Flowing,C0806140,4,1.0
+Clinical Finding,C3540840,5,0.9568936003060273
+A Fair Amount,C4290029,4,1.0
+Right Inferolateral,C1180186,1,1.0
+Not Difficult At All,C0332219,16,1.0
+Self Extubated,C4700058,5,1.0
+Reintubated,C4698387,56,1.0
+Mainstreaming In Education,C0024500,2,1.0
+Five Per Second,C1880782,1,1.0
+Infectious Disease Of Lung,C0876973,4,0.8585177646644075
+Dyspnea Question,C5420012,2,1.0
+Distress Question,C5420160,4,1.0
+Fatal Submersion Immersion,C0013142,15,1.0
+Lobar Pneumonia,C0032300,1,1.0
+Veterans Alcoholism Screening Test Vast,C0814230,4,1.0
+Mucous Plugging,C5563324,44,1.0
+Interlobular Septal Thickening,C5539418,32,1.0
+Metastatic Lung Carcinoma,C4727087,16,1.0
+Inflammation Calcified Granulomatous,C0333404,13,0.7827296767100722
+Inferior Margin,C4489133,29,1.0
+Tumour Infection,C4760904,2,1.0
+Healings Fracture,C0162542,4,1.0
+Mi Myocardial Infarction,C0027051,46,0.9164567965085471
+Traumatic Brain Injury,C0876926,1,1.0
+Velocities,C0439830,36,0.9746547581556297
+Structure Of Vertebral Artery,C0042559,69,0.8711278523629723
+Change In Mental Status,C0856054,28,1.0
+Limited Area,C0392752,18,1.0
+Multiple Areas,C4266465,33,1.0
+Left Posterosuperior,C1180164,1,1.0
+Posterosuperior,C1179851,2,1.0
+Mandibular Right First Molar Mesial Prosthesis,C1553624,17,1.0
+Flight Process,C2610507,24,1.0
+Right Occipital Lobe Structure,C0228218,24,0.8511544060247854
+Branch Of Middle Cerebral Artery,C0923405,1,1.0
+Structure Of Right Vertebral Artery,C0226230,26,0.8459805776788364
+Tributary Of Attribute,C4518418,6,1.0
+Cerebral Infarction,C0007785,1,1.0
+Bronchoscopic Procedure,C1827140,1,1.0
+Presently,C0750528,5,1.0
+Chest Xray Diaphragm Elevation Unilateral,C0239015,3,1.0
+Fewer Than Expected,C4086785,2,1.0
+Kinking Of The Aorta,C0851256,4,1.0
+Generalised Muscle Weakness,C0746674,8,1.0
+Magna,C5142955,7,1.0
+Weeks,C0439230,15,0.9327301493633728
+Nuclear Receptor Subfamily 2 Group B Member 1,C3887580,13,1.0
+Perilesional Route Of Administration,C5555499,19,1.0
+Vertebrobasilar Arterial System,C0545733,4,1.0
+Respected,C0679133,9,1.0
+Dna Sequencing,C0162326,176,0.9350908167422862
+Structure Of Region Of Bone,C1282216,1,1.0
+Base Of Skull Structure,C0149543,49,0.9868742365966947
+Dural Graft,C0863230,1,1.0
+Perihilar Lung Mass,C0747481,13,1.0
+Anterior Mediastinal Part Of Chest,C0230148,24,0.8847912909536944
+Old Blood,C5570975,2,1.0
+Favoring,C0309049,21,1.0
+Disease Disorder Etiology,C1314792,29,0.8349171607201611
+Cross Sectional Analyses,C0010362,14,1.0
+Hemosiderin Deposits,C5194649,1,1.0
+Arachnoid Cyst,C0078981,3,1.0
+4 Hours,C1292426,44,1.0
+Postoperative Haemorrhage,C0032788,16,0.9293037545799031
+Paratracheal Mass,C0747260,35,1.0
+Replicating,C0205173,1,1.0
+Mass Of Mediastinum,C0240318,200,1.0
+Tethering,C0577538,6,1.0
+Effects Of,C1704420,13,1.0
+Pulmonary Status,C0449930,11,1.0
+Tapering Action,C0441640,10,1.0
+Totally Implantable Venous Access System,C3495140,26,0.9129960839924196
+Medical Device Malfunction,C4054552,1,1.0
+Unsuccessful,C1272705,41,1.0
+Pulmonary Aspiration Of Blood,C0232077,4,1.0
+Achieved,C5453128,72,1.0
+Extensive Stage Small Cell Carcinoma Of The Lung,C0278726,5,1.0
+Y Stents,C1322806,47,1.0
+Placement Of Stent,C0522776,218,1.0
+Stent Device,C0038257,73,0.8962788216760724
+Mucous Body Substance,C0026727,23,0.873480310871044
+Obstructing Lesion,C0746981,20,1.0
+Temporally Uniform Pulmonary Inflammation,C1290344,1,1.0
+Structure Of Neck Of Gallbladder,C0227546,1,1.0
+Cystic Duct Structure,C0010672,2,0.8050547115000843
+G Protein Coupled Receptor 167,C1428991,3,1.0
+Wedge Shaped,C0332503,23,1.0
+Infarct Of The Spleen,C0037998,12,1.0
+Too Low,C4036057,13,1.0
+Left Lateral Sulcus,C2952142,1,1.0
+Bone Structure Of Rib,C0035561,12,1.0
+5 Fr,C4068971,20,1.0
+Electrocardiograph Lead : Finding : To Identify Measures At A Point In Time : Patient : Nominal,C1714882,6,1.0
+Physical Context,C0442504,29,0.9944827586206894
+Application Of Dressing Sterile Procedure,C0278292,22,1.0
+Coronary Ct,C4699397,37,1.0
+Dyspneic,C0277854,6,1.0
+Superior Left,C1180151,46,1.0
+Pulse Phenomenon,C1947910,21,0.9877964102252321
+Structure Of Axillary Vein,C0004456,31,0.8317456843332728
+Inferior Part Of Chest Wall,C4322848,9,1.0
+Structure Of Bronchial Artery,C0006257,150,1.0
+Artery Embolization Procedure,C0397760,61,1.0
+Structure Of Right Common Femoral Artery,C4706713,51,1.0
+Drop Unit Of Volume,C4048603,18,1.0
+Guidance For Embolization,C0013931,1,1.0
+Curving,C0205134,9,1.0
+Glidewires,C4287176,39,1.0
+Angiography Of Cerebral Arteries : Tumor Blush,C2026436,9,1.0
+Airways Disease,C0699949,20,1.0
+Tumor Infiltration,C4060690,16,1.0
+Small Airways,C1862763,3,1.0
+Body Remains,C4277724,1,1.0
+Structure Of Azygous Vein,C0004526,19,0.9313790073397495
+Leakages Anastomotic,C0919691,1,1.0
+Anastomosis,C0332853,18,0.9331680276215866
+Prompting,C0871157,9,1.0
+Upper Gastrointestinal Tract Radiography,C0203057,29,1.0
+Family History Of Coronary Arteriosclerosis,C2317524,71,0.8974290680972816
+Upper Gi Gastrointestinal Haemorrhage,C0041909,3,0.9003919905165484
+Psyche Structure,C0229992,7,1.0
+Bidirectional,C1706937,2,1.0
+A Pattern,C4699190,5,1.0
+Interstitial Thickening,C2750120,34,1.0
+Less Than Or Equal To,C0439090,5,1.0
+Left Major Fissure,C0929210,13,1.0
+Cortical Destruction,C4479377,7,1.0
+Nodus Lymphaticus Supraclavicularis Axillae,C0229730,19,0.9658362812823815
+Additional Level,C4534543,1,1.0
+Neoplasm Of The Extradural Spinal Canal,C0014536,11,1.0
+Magnetic Resonance Imaging Mri Of Spine,C0177803,3,1.0
+Reticuloendothelial System Bone Marrow,C0005953,21,0.9899999999999998
+Combines,C0336789,6,1.0
+Accentuated,C1997416,18,1.0
+Imaging Of Thorax,C1531652,7,1.0
+Most Significant,C1299394,5,1.0
+Loculated,C0205277,39,0.7665192639191439
+Infectious Disorder Of Abdomen,C1112209,6,1.0
+Unknown Source,C3846543,9,1.0
+Coronary Artery Stents,C0687568,5,0.998
+Dilation Of Duct,C1285253,8,1.0
+Biliary System Stone,C0242216,28,0.8484126739515216
+Colon Diverticulum Anatomic Structure,C0012811,7,0.9659400149895717
+Pain And Fever,C3499958,2,1.0
+Structure Of Caudate Lobe Of Liver,C0227489,6,1.0
+No . 12P Hepatic Lymph Node,C3897880,12,0.9925
+Para Aortic Region,C0456269,23,0.9929512639775113
+Nodi Lymphoidei Retrocavales,C0933348,1,1.0
+Carbonic Anhydrase Va Mitochondrial,C1413046,3,1.0
+Large Exophytic Cysts,C4229072,3,1.0
+Pelvic Lymph Node Structure,C0729595,6,0.817023554039754
+Anaemia,C0002871,9,0.8967174306323188
+8 Hours,C1292429,9,1.0
+Non Neoplastic Condition,C1709246,1,1.0
+Explanations,C0681841,1,0.7878301119227544
+Metastatic Malignant Neoplasm To Vertebral Column,C0684550,12,1.0
+Maxillary Left Lateral Incisor Mesial Prosthesis,C1553564,3,1.0
+Lumbosacral Region Of Vertebral Column,C0223603,3,1.0
+History Of Anemia,C0559154,1,1.0
+Multisection For Motion,C4264258,4,1.0
+3 Levels,C0456949,5,0.9960000000000001
+Proliferation Morphologic Abnormality,C0334094,3,0.8812639388135398
+Upper Cervical,C5452875,10,1.0
+Chronic Myeloproliferative Disorders,C1292778,2,0.8353099102211887
+Extraosseous,C2986507,1,1.0
+Scan With Contrast,C1167879,13,0.9083225146255978
+Notifications Procedure,C0422202,4,0.9318786961637214
+Leptomeningeal Metastasis,C0948840,6,1.0
+Optimum,C2698651,64,1.0
+Examination Of The Abdomen,C0562238,10,1.0
+Abdominal Tenderness Absent,C0573980,1,1.0
+Lower Abdominal Pain,C0232495,6,1.0
+Ischemic Bowel,C0741611,19,1.0
+Left Lower Quadrant,C0439737,21,0.934072450983402
+Iliac Vein Structure,C0020888,29,0.7909758991332826
+Lobulated Nodule,C4763780,93,1.0
+Polymorphonuclear Leukocyte Infiltration,C0333361,6,1.0
+At Home,C4534363,7,1.0
+Ad Alzheimer S Disease,C0002395,1,0.8471727870830594
+Occlusion Of Blood Vessel,C1096458,4,0.8454947203041331
+Mildly Decreased,C5425896,9,1.0
+Inflammatory Disorder,C1290884,2,1.0
+Structure Of Hilum Of Lung,C0225701,3,0.8409508531401232
+Subdural Intracranial Haemorrhage,C0018946,15,1.0
+Magnetic Resonance Imaging With Contrast,C0202671,13,1.0
+Assessment Of Body Build,C1318474,17,1.0
+No Thrombus,C1276764,9,1.0
+Multiple Thyroid Nodules,C0342208,3,1.0
+Primary Lesion,C1402294,19,1.0
+Likely Benign Variant,C4264622,10,1.0
+Cerebral Convexity,C4329648,71,1.0
+Structure Of Anterior Cerebral Artery,C0149561,7,0.8319635564785516
+Kawasaki Disease Associated Coronary Artery Aneurysm Z Score Suggests Small Aneurysm,C5238768,3,1.0
+Multisection For Postoperative,C4263750,15,1.0
+Posterior Margin,C4489132,16,1.0
+Personal History Of Coronary Artery Disease,C1881055,5,1.0
+Fibrosis Interstitial Pulmonary,C3887486,6,0.8230927378971901
+Unlisted Vascular Surgery Procedure,C0042381,3,0.8773777232534364
+Right Thalamus,C2328150,6,1.0
+Ct Arteriogram,C3267198,3,1.0
+Emr Electronic Medical Record,C2362543,1,1.0
+History Of Repair Of Aneurysm Of Abdominal Aorta,C1997125,1,1.0
+Trunk Of Renal Arterial Tree,C0035065,88,0.9768157367159386
+Structure Of Coeliac Artery,C0007569,36,0.9344546069414617
+Structure Of Left Common Femoral Artery,C4706712,19,1.0
+Structure Of Profunda Femoris Artery,C0226455,6,0.9487931515411131
+Faecal Impaction,C0015734,1,1.0
+Aortic Bifurcation Bypass Graft Procedure,C0397949,5,1.0
+Reticular Nucleus Of The Spinal Cord,C3498560,1,1.0
+Arterial Occlusion Treatment,C3693351,3,1.0
+Pain In The Lower Extremities,C0239376,4,1.0
+Structure Of Dorsalis Pedis Artery,C0226492,2,1.0
+Aphasic,C0234461,4,1.0
+Lower Extremity Ischemia,C0340565,2,1.0
+Mild To Moderate,C1299392,6,1.0
+Hospital Wards,C0259944,10,1.0
+Structure Of Vein Of The Knee,C0226840,2,1.0
+High Resolution Computed Tomography,C1512457,5,1.0
+Paracentral,C4073110,11,1.0
+Right Upper Paratracheal Lymph Node,C4248233,5,1.0
+Set Of Juxta Oesophageal Lymph Nodes,C0229760,7,0.9666879824972184
+Densely,C0439794,22,0.9044931375352726
+Diastolic Heart Failure,C1135196,4,1.0
+Fibrotic,C0334129,27,1.0
+End Diastolic,C0442709,3,1.0
+Centimeter Per Second,C0439392,21,0.9809591757970735
+Information Question,C5447293,8,1.0
+Protein Truncation Abnormality,C1706395,3,1.0
+Consolidating,C0702117,45,1.0
+Underlying Infection,C0749769,13,1.0
+Post After,C1548614,1,1.0
+No Residual,C0746917,19,1.0
+Frontal And Parietal Lobes,C0546003,12,1.0
+T2 Weighted Magnetic Resonance Imaging,C5556594,1,1.0
+Saddle Pe,C0856751,7,1.0
+Pulmonary Infarctions,C0034074,29,0.9671236608100691
+Status Post Cholecystectomy,C0546175,22,1.0
+Syndromes Post Cholecystectomy,C0152099,7,1.0
+Ascending Colon Structure,C0227375,6,0.8960425642266712
+Descending Colon Structure,C0227389,14,0.7963451523071238
+Ischaemia,C0022116,20,0.8318929769911824
+Anterior Projection,C0442223,6,1.0
+Lung Base Atelectasis,C0746053,11,1.0
+Chest Diaphragm Abdomen Liver,C4266620,1,1.0
+Not Examined For Contextual Qualifier Qualifier Value,C0332129,1,1.0
+Thrombosis Of Subclavian Veins,C0749087,1,1.0
+Nasojejunal Feeding Tube,C4751180,2,1.0
+Small Intestine Jejunum,C0022378,33,0.9261973851863798
+Lobular Atelectasis,C0264496,11,0.7711496335468354
+Chronic Graft Versus Host Disease,C0867389,61,0.8623940861923381
+Structure Of Annulus Fibrosus Of Mitral Orifice,C0225947,5,1.0
+Stereotactic Radiations,C4704923,1,1.0
+Disease Granulomatous Lungs,C0746104,1,1.0
+Mass Of Superior Mediastinum,C2062854,6,1.0
+Phrenic Nerve Dysfunction Adverse Event,C1557269,2,1.0
+Productive Cough,C0239134,7,0.8873090887775678
+Prosthetic Valve Device,C0336548,2,1.0
+Bis Trifluoroethyl Carbamodithioic Acid,C0081813,3,1.0
+Aneurysm Or Dissection,C4489482,4,1.0
+Prostheses Cardiac Valve,C0018825,2,1.0
+Choked On,C0699862,2,1.0
+Sentences,C0876929,2,1.0
+Difficult Qualifier Value,C0332218,8,1.0
+Convex To Right,C0443195,4,1.0
+Cantonese,C5452678,6,1.0
+Mantoux : Positive,C0032739,5,1.0
+D Little O Super Little B,C2736982,2,1.0
+Set Of Recesses,C4239574,34,1.0
+Surgical Teams,C0520261,8,1.0
+5 Hours,C1442467,26,1.0
+Roentgenographic,C0034571,14,0.9635204508110686
+Cardiac Events,C0741923,1,1.0
+Organization,C1300196,17,0.9970772649449375
+Acute Infectious Process,C4697762,6,1.0
+Extrinsic Allergic Bronchiolo Alveolitis,C0002390,3,1.0
+Diffuse Abdominal Pain Symptom,C0740584,9,1.0
+Cyst Of Liver,C0267834,24,1.0
+Retroperitoneal Compartment Structure,C0035359,5,0.790670162751032
+Microperforation,C1709025,2,1.0
+Repetitions,C0205341,13,0.9272192478130001
+Metastatic Malignant Neoplasm To Lung,C0153676,41,1.0
+Acute Appendicitis,C0085693,1,1.0
+Line Change,C5570987,25,1.0
+Ps 15,C0219078,2,1.0
+Metabolic Acidosis With Respiratory Acidosis,C0342602,2,1.0
+Wheezing,C0043144,20,0.977390914974057
+Genus Cygnus,C0325528,12,0.9190671454288566
+Increased Secretion,C5237713,21,1.0
+Flow Rate,C2826285,1,1.0
+Patient Intubated,C3844652,13,1.0
+Relational And Item Specific Encoding Task,C4321377,2,1.0
+Beepers,C0179284,12,1.0
+Central Venous Catheter Tip,C4076189,25,1.0
+Difficulty Opening Bowels,C0009806,2,1.0
+J Tube Placement,C0745471,3,1.0
+Rna Similarity Group I,C0033808,4,0.9582820021993628
+Entire Right Hemithorax,C1284910,5,1.0
+Extubation Attempt,C0743673,1,1.0
+Gipc Pdz Domain Containing Family Member 1,C1825351,5,1.0
+Structure Of Lateral Recess Of Fourth Ventricle,C0152286,1,1.0
+Tax Interaction Protein 1,C1539930,4,1.0
+Tortuous Aorta,C0741171,20,1.0
+Percutaneous Gastrostomy Tube,C2985542,26,0.9790124970028891
+Nasoenteric Tube,C1446323,5,1.0
+Pyloric Region,C0684202,4,1.0
+Interstitial Infiltrates,C4313225,17,1.0
+Unprocessed,C1709843,26,1.0
+Ingestions,C0232478,10,1.0
+Geographic Pattern,C4231578,2,1.0
+Splitting,C1534709,4,1.0
+Abscess Formation,C4014106,7,1.0
+Clips Skin,C0179989,2,1.0
+Colon Resection,C4763870,1,1.0
+Hartmann S Pouch,C0447546,1,1.0
+Right Lower Quadrant Pain,C0694551,3,1.0
+Mesenteric Adenopathy,C1386351,4,1.0
+Pericolonic,C0442135,29,0.8899166075765825
+Structure Of Mesenteric Adipose Tissue,C3686616,6,1.0
+Portal Vein And Splenic Vein,C5441642,1,0.7967742514374979
+Not Present Expanded Yes No Indicator,C1549059,31,1.0
+Sigmoid Diverticulum,C1395719,1,1.0
+Biphasic Continuous Positive Airway Pressure,C1956423,15,1.0
+Bony Defect,C3805959,2,1.0
+Cells Oat,C1265905,3,1.0
+Supratherapeutic Inr,C4049341,3,1.0
+Recurrent Pulmonary Embolism,C1735914,1,1.0
+Remote Control Command Transport To,C1550030,2,1.0
+Compensatory,C0231186,16,1.0
+Attempted,C1516084,48,1.0
+Endobronchial Mass,C0743497,20,1.0
+Examination Of Spine,C0562264,4,1.0
+Infiltrative Tumor Border Configuration,C4527217,56,1.0
+Sacral Spinal Nerve Root Structure,C0581672,2,1.0
+Care Activity,C1947933,2,0.8951934485911762
+Sixty Four,C4517839,1,1.0
+Stage Iv Lung Cancer Ajcc V8,C4526725,23,1.0
+Vascular Access,C0750138,2,1.0
+Duplex Doppler,C1547105,1,1.0
+7 Hours,C1442470,11,1.0
+Normal Heart Size,C0516868,80,1.0
+Stage Non Small Cell Lung Cancer,C0280217,1,1.0
+Upper Abdominal Pain,C0232492,3,1.0
+20 Pounds,C3845313,2,1.0
+Pain With Eating,C0242030,1,1.0
+Perinephric,C0442161,4,0.8410101258439672
+Prostate And Urinary Bladder,C0545928,2,1.0
+Folded Structure,C0332462,10,1.0
+Whiteouts,C0234438,49,1.0
+Acute Exacerbations,C0743630,2,1.0
+Fibrotic Lung Disease,C3277164,2,1.0
+Disorders Of Thoracic Pleura,C0032226,15,1.0
+Lymphatic Spread,C1334459,1,1.0
+Areas Of Fibrosis,C5194956,1,1.0
+Liver And Gallbladder,C0545795,49,0.9912244897959187
+Increased Echogenicity,C1849402,5,1.0
+Flattening,C0016203,28,1.0
+Biventricular,C0699808,3,1.0
+Catheter Guiding May Include Infusion Perfusion Capability,C0993789,9,1.0
+Choose Action,C1707391,36,0.9793813700063241
+Injection Of Hand,C1293260,6,1.0
+Was A Attribute,C1278569,25,1.0
+Transfer Technique,C1705822,7,1.0
+Regain,C1875723,1,1.0
+Coils Formation,C0444764,51,0.9371625630614066
+Thirty Minutes,C1442458,8,0.9249564312996528
+Arterial Blood Supply,C0678861,7,0.9271950976874478
+Bifurcating,C0205383,1,1.0
+Views For Patency,C1718481,68,1.0
+Helped,C5452990,2,1.0
+Method :,C5445274,12,1.0
+Attenuation Correction Type,C2986723,11,1.0
+Diseases Diagnoses,C0338067,11,1.0
+Blood Glucose Meters Medical Device,C0472226,11,1.0
+Upper Thigh Surface Region,C0446559,8,1.0
+Registration,C1514821,13,1.0
+Cardiac Tissue,C1272575,1,1.0
+Increased Blood Glucose,C0595877,1,1.0
+Distant Site Receiving Treatment,C5555687,2,1.0
+Irregular Contour,C4068840,6,1.0
+Coughing Up Massive Amount Of Blood,C2138228,13,1.0
+Rigid Bronchoscopy,C1301645,52,1.0
+Arteriography Of Pulmonary Arteries,C0202910,9,1.0
+Intermittent Drainage Urethral Urinary Catheters,C0179805,4,1.0
+Dilator Device,C0180431,17,0.7888300870341977
+Ga Under General Anaesthesia,C1719976,5,1.0
+Newly Diagnosed Non Small Cell Lung Cancer,C4733575,13,1.0
+Prosthetic Total Arthroplasty Of The Hip,C0040508,2,1.0
+Increased Bleeding,C4314275,2,1.0
+Imaging Feature,C2346469,40,0.9728634165820761
+Embolism Embolus,C0013922,34,0.9634839800390655
+A Loops,C4505203,9,1.0
+Flash Pulmonary Oedema,C1168329,13,1.0
+Nonrebreather Oxygen Mask,C1960093,2,1.0
+Diastolic Congestive Heart Failure,C2183328,1,1.0
+Labeled Qualifier,C1708632,22,0.9995454545454546
+Vascular Attenuation,C5563453,3,1.0
+Is About Attribute,C3874886,16,1.0
+Borderline Hypertension,C0262395,1,1.0
+Arterial Embolism Of Unspecified Artery,C0549124,2,1.0
+Structure Of Lobe Of Lung,C0225752,15,1.0
+Discussion Communication,C2584313,26,0.9625565356579874
+Posterior Fusion,C5453085,26,1.0
+Endotracheal Tube Present,C1630410,4,1.0
+Not Obtained,C1882120,9,1.0
+Schmorl S Nodes Of Unspecified Region,C0410632,15,0.9134953943354519
+Insufficiency Fractures,C2350177,4,1.0
+Therapeutic Radiology For Cancer Treatment,C1522449,19,0.8091673528827324
+Multilobar Pneumonia,C0860045,11,1.0
+Geographical Area,C0681784,1,1.0
+Sudden Qualifier Value,C5201090,49,1.0
+Structure Of Greater Curvature Of Stomach,C0227223,1,0.8119109783763125
+Echocardiography : Persistent Left Superior Vena Cava,C2022960,1,1.0
+Cardiogenic Shock,C0036980,4,1.0
+Lsvc Persistent Left Superior Vena Cava,C0265931,5,1.0
+Gastric Fundus Structure,C0017129,21,0.8297475842501042
+Contact With,C0332158,11,0.9391915941721005
+Systemic Infection,C0243026,8,0.8255174957471539
+History Patients,C0679831,2,0.820309415919368
+Left Svc,C4697738,3,1.0
+Translight,C1529641,1,1.0
+Sub Clavian,C1550302,2,1.0
+Pain Relief Medication,C0002771,3,1.0
+Procedure Technique,C1292731,9,1.0
+Copy Number Gain,C1517378,9,1.0
+Volume . Total,C0449468,3,0.9224489194395793
+Tetraspanin 33,C1823520,7,1.0
+Medical Imaging Picture Archiving And Communication Systems,C0182281,30,1.0
+Sphenoid Part Of Trunk Of Middle Cerebral Artery,C0923620,2,1.0
+Circulating Blood Volume,C0005850,5,0.8619985619426516
+Middle Cerebral Artery Circulation Infarction,C0740392,2,1.0
+Computed Tomography Perfusion Imaging,C3899514,20,0.9649237461208211
+Gray Matter Of Right Insula,C2339924,2,1.0
+Plastic Repair Of Mitral Valve,C0396849,1,1.0
+Permanent Pacemaker,C0281945,8,1.0
+Resection Of Cecum And Terminal Ileum,C0192862,7,1.0
+Chronic Abdominal Pain,C0232491,4,1.0
+Valve Replacement,C5239551,8,1.0
+Vascular Insufficiency Of The Mesentery,C1412000,36,1.0
+Acute Abdominal Pain Syndrome,C0000727,3,0.9037772239415215
+Small Bowel Dilatation,C2749237,2,1.0
+Periumbilical Abdominal Pain,C1096624,2,1.0
+Interventional Radiologic Procedures,C0344093,1,0.9776320319687274
+Angiogram Result,C4255126,2,0.9508493023604705
+Explanation Of Plan : Medication,C2081612,21,1.0
+Fresh Frozen,C4697670,1,1.0
+Transfusion Of Plasma,C0278347,1,1.0
+Haematoma Of Groin,C0585249,10,1.0
+To Be Done Qualifier Value,C1272682,34,1.0
+Ventricular Lead,C2825199,7,1.0
+Creatinine Increased,C0151578,15,1.0
+Inhalation Rib Dysfunction,C1508663,8,1.0
+D Little O Super Little A,C1440543,12,1.0
+Integumentary System Incision,C0191279,3,0.8823082154288224
+Peeling Action,C0441602,25,0.767766539300978
+No Complication,C4032686,17,1.0
+Return To Contextual Qualifier Qualifier Value,C0332156,33,0.9925019989522712
+Pleural Pathology,C5435757,2,1.0
+Malignant Neoplasm Of The Central Nervous System,C0348374,1,1.0
+Structure Of Lens Of Eye,C0023317,5,0.992
+Diagnostic Quality,C2827442,3,1.0
+O Other,C3840627,12,1.0
+Abdominal Aorta And Its Branches Body Structure,C1283352,7,1.0
+Right Lumbar Lymph Node Group Proper,C0933345,2,1.0
+Retrolisthesis,C1562792,8,1.0
+Surface Of Brain,C1283379,3,1.0
+Disseminating,C0205221,7,1.0
+Necrotic Changes Finding,C1334928,3,1.0
+Right Middle Cerebellar Peduncle,C2333391,1,1.0
+Small Lesion,C1883047,14,1.0
+Precontrast,C1709633,7,1.0
+Dystrophic,C0333607,13,1.0
+Frontal Zone Of Scalp,C2335385,4,1.0
+Plea,C1682506,9,1.0
+Measurable Residual Disease,C0242596,8,1.0
+Head And Neck Structure,C0460004,13,0.9630433731687338
+Informations,C1533716,2,0.9011551298640764
+Limited Mri,C5189424,4,1.0
+Part Solid Nodule,C4761382,1,1.0
+Chemical Moiety,C3641152,8,1.0
+Percentage Excreted,C1688651,6,1.0
+Petrous,C2987151,7,1.0
+Relative To,C3875154,25,1.0
+Reconstituted,C4697669,6,1.0
+Contributory,C1880177,28,1.0
+Fluorodeoxyglucose Positron Emission Tomography,C3641247,4,0.8381187466297572
+Intraosseous Lesion,C1881245,4,1.0
+No Blood,C3844405,7,1.0
+Syncopal Episodes,C0751534,9,1.0
+Anticoagulation Drug Level Below Therapeutic,C1168145,3,1.0
+Precautions,C1882442,10,1.0
+Unequivocal,C4053896,1,1.0
+X Ray Of Chest : Right Sided Mediastinal Lymphadenopathy,C2073581,1,1.0
+Debulking Procedure,C0439805,9,0.934892325063091
+Squamous Cell Carcinoma Of The Trachea,C0345946,1,1.0
+11 O Clock,C3841386,1,1.0
+Subglottic,C0521352,12,1.0
+Square Millimeter Qualifier Value,C0456786,4,0.8462102762835295
+Retrotracheal,C1514924,4,1.0
+Well Differentiated,C0205615,21,0.9603298404267284
+Celiac Vessels,C4266477,1,1.0
+Lymph Necrotic Nodes,C0746317,22,1.0
+Gastrostomy Catheters,C0150595,25,0.980845636796117
+Stent Complication,C4087536,1,1.0
+Iatrogenic,C0439669,13,1.0
+No Cirrhosis,C5563312,1,1.0
+Science Of Statistics,C0038215,9,1.0
+Harvest Procedure,C1512335,2,1.0
+Left Middle Cerebellar Peduncle,C2328515,1,1.0
+Lateral Aperture Of The Fourth Ventricle,C0152287,2,1.0
+Peritumoural Oedema,C3267127,3,1.0
+Surgery Of Posterior Cranial Fossa Craniotomy,C2959683,12,1.0
+Epicoccum Species,C0320181,3,1.0
+Computed Tomography Of The Brain Without Contrast,C1275584,14,1.0
+Chromosomal Anomalies Polyploidy Syndrome,C0032578,1,1.0
+Neoplasm Of The Cerebellum,C0007762,23,1.0
+Right Nasal Cavity,C4245850,3,1.0
+Endotracheal Tube Assessment,C2702632,3,1.0
+Hematoma At Site,C1820682,1,1.0
+Structure Of Transverse Sinus,C0226864,4,1.0
+Suboccipital Craniotomy,C2066670,39,1.0
+Structure Of Superior Portion Of Duodenum,C0227299,2,1.0
+Allowing,C0683607,12,1.0
+Kinked,C0333177,3,0.9283564007424133
+1 Moderate,C3841723,5,1.0
+Maxillary Left Canine Mesial Prosthesis,C1553567,3,1.0
+Extreme Generalised Oedema,C0151603,1,0.8169091005314115
+Structure Of Brachiocephalic Artery,C0006094,8,0.7991210919786216
+Computerised Tomography With Intravenous Contrast,C0202653,7,1.0
+Plasmacytic Myeloma,C0026764,4,1.0
+Structure Of Ligamentum Flavum,C0206327,8,0.7649671313485237
+Central Stenosis,C5453008,2,1.0
+Multifactorial,C1837655,4,1.0
+Dilatation Of The Abdominal Aorta,C4025248,1,1.0
+Do Not Know Qualifier Value,C1880386,1,1.0
+2 Weeks,C1442457,4,1.0
+Conversations,C0871703,3,1.0
+Two Weeks,C4082118,10,1.0
+Computerised Tomography Of Spine,C0412649,3,0.9966666666666667
+Ganglioside Sialidase Deficiency Disease,C0238286,2,1.0
+Excision Of Right Adrenal Gland,C4511875,1,1.0
+Calcified Aneurysm,C1265768,4,1.0
+Proximal Resection Margin,C4489236,54,0.777416699580865
+Calcifications Prostate,C0747989,2,1.0
+Rectal,C0205052,5,0.8584344689849412
+Vault,C1550319,3,1.0
+Impending Fracture,C3665994,3,1.0
+Rnrx Universal Precautions,C0085204,1,1.0
+Documenting,C1301725,17,0.963048305032841
+Biopsy Speciman,C0677862,5,0.9593659256462809
+Eventrations,C0015207,6,0.9916666666666667
+Lung Capacities,C0086571,1,1.0
+Radiology Table,C3873822,1,1.0
+22 Gauge,C0450404,8,1.0
+Other Biopsy Device,C0492861,3,1.0
+Anthropological Culture,C0010453,7,0.9186367685591527
+Numbering System,C0870982,1,1.0
+Back Surgeries,C0741419,4,1.0
+Arthroplasty Of The Knee,C0086511,3,1.0
+Space Of L1 L2 Intervertebral Compartment,C4244370,1,1.0
+Exiting,C0337094,17,0.9964705882352942
+Phenomenon,C1882365,22,1.0
+Substantia Compacta Ossium,C0222661,6,0.9906635469812722
+Anteros,C2817552,2,1.0
+Thecal Sac Effacement,C3805267,1,1.0
+Contra Indicated,C1444657,1,1.0
+Inside The Blood Vessel,C0524425,10,1.0
+Skin Fold Abnormality,C1399793,16,0.9931250000000001
+Day 6,C3842673,2,1.0
+Postprandial Vomiting,C1168325,1,1.0
+Incised Wound Morphology,C0000925,25,1.0
+Blending,C0678946,4,1.0
+Percarina,C3448402,1,1.0
+Absence Of Gallbladder,C1386749,1,1.0
+Structure Of Region Of Omental Bursa,C0230212,2,1.0
+Distended Urinary Bladder,C1843483,2,1.0
+Oesophageal,C1522619,2,1.0
+Endografts,C3504495,1,1.0
+Pelvic Haemorrhage,C1504419,1,1.0
+Sulcal Effacement,C5442488,22,1.0
+Inferior Vena Cava Filters,C0080306,15,1.0
+Decreased Coagulation Activity Pe,C3537050,12,0.919163843194687
+Omnisexuality,C5556773,7,1.0
+Venography Procedure,C0031545,48,0.9054960671682548
+Normal Gross Anatomical Structure,C1269644,5,1.0
+Gentle,C0720654,1,1.0
+Hemodialysis Catheters,C0179760,10,1.0
+Diffuse Osteopenia,C0747077,16,1.0
+Neighboring,C0205107,9,1.0
+Transbronchial Fine Needle Aspiration,C4733148,15,1.0
+Hilar Enlargement,C0744903,22,1.0
+Depend,C0725813,1,1.0
+Satellite Nodules,C1710016,39,1.0
+Lymph Node By Anatomic Site,C1518053,6,1.0
+Port A Cath Placement,C1514239,3,1.0
+T2 Observed Weighted Imaging,C4744828,23,1.0
+Dynamic Acquisition,C2986744,1,1.0
+Cap Combination,C0054603,1,1.0
+Bore Qualifier Value,C2945608,9,1.0
+Event Cycle,C1511572,20,1.0
+Bronchovascular Bundle,C2326513,16,1.0
+Persisting,C5453127,33,1.0
+Clinical Trials Unspecified,C0008976,13,1.0
+Facial Swelling Finding,C0151602,5,1.0
+5 Days,C1442466,2,1.0
+Posteromedial,C1179848,13,1.0
+Regression Disease,C0684320,3,1.0
+Infection Caused By Helicobacter Pylori,C0850666,1,1.0
+Maxillary Left Second Molar Mesial Prosthesis,C1553579,4,1.0
+Oedema Of Bilateral Upper Extremities,C5230916,1,1.0
+Establishing,C0443211,24,1.0
+Condoms External,C0009653,23,0.8162650133907994
+Degree Of Relationship Exchange,C0678640,19,0.8865490066099646
+Structure Of Peroneal Vein,C0226836,25,1.0
+Tibialis Posterior Muscle Structure,C0224463,3,1.0
+Doppler Colour Flow,C0475380,3,0.9899999999999999
+Ms . Title,C2349943,10,1.0
+Subarachnoid Intracranial Haemorrhage,C0038525,75,1.0
+Xxx Artery . Left,C3171704,3,1.0
+Pupillary Size,C0517965,3,1.0
+Structure Of Falx Cerebri,C0228120,27,0.9938299668324833
+Structure Of Posterior Horn Of Lateral Ventricle,C0152282,10,0.9851398186923905
+Cellulae Ethmoidales Anteriores,C0934547,2,1.0
+Parenchymal Hemorrhage,C0747264,18,1.0
+Intracranial Haemorrhage,C0151699,52,0.8221752452734008
+Site Of Fracture,C0449676,2,1.0
+Dilatation Of Stomach,C0038353,10,1.0
+Processed,C1522240,13,0.8924285067860149
+Examination Heading,C1273867,2,1.0
+Occipital Subdural Haematoma,C1997213,1,1.0
+Petechial Hemorrhages,C0241144,2,1.0
+Videofluoroscopy,C1660599,11,1.0
+Non Haemorrhagic Contusion,C5396944,2,1.0
+Embolic Infarction,C0264978,1,1.0
+Clinical Deteriorations,C4505323,2,1.0
+Head Structure,C0018670,3,0.7694666502810774
+Shear Injury,C3697114,1,1.0
+Accentuated Kyphosis,C1970121,2,1.0
+Closure Of Skin By Suture,C0191408,3,1.0
+Lateral Crosstable,C1979914,1,1.0
+4 Days,C1442765,6,1.0
+Pinpoint,C4068798,2,1.0
+Severely Enlarged,C5425895,3,1.0
+Mtb Miliary Tuberculosis,C0041321,2,1.0
+Adenocarcinoma Of Unknown Primary,C0280096,1,1.0
+Markedly Limited,C3845317,15,1.0
+Mass Of Pancreas,C0877425,15,1.0
+Malignant Glandular Cell,C1510779,1,1.0
+Osteolytic Lesion,C0302313,5,1.0
+Right Iliac Bone,C0735430,15,0.9485969505096983
+Work Ups,C0750430,13,1.0
+Magnetic Resonance Imaging Mri Of Liver,C0412694,8,1.0
+Wall Of Gallbladder,C0734014,36,1.0
+Hydrops Of Gallbladder,C0152445,2,1.0
+Abnormality Of The Head,C4021812,2,1.0
+Pancreatic Etiology,C0747193,1,1.0
+Disseminated Carcinomatosis,C0205699,1,1.0
+Miliary,C5539831,5,1.0
+Fungal Infectious Disease,C0026946,12,1.0
+Spacing,C1710137,21,1.0
+Right Upper Quadrant Pain,C0235299,16,1.0
+Structure Of Body Of Pancreas,C0227582,7,0.9093896266548426
+Haematogenous Spread,C0796572,2,1.0
+Portion Of Sputum,C0038056,1,0.8274534040025147
+One Month,C4082115,4,1.0
+Centrilobular Lung Nodules,C4086149,1,1.0
+Metastatic Malignant Neoplasm To The Adrenal Gland,C0854178,25,1.0
+Computed Tomography Of Cervical Spine,C0412650,2,1.0
+Ortho,C0812371,12,1.0
+Metal Artifact,C2828106,1,1.0
+Health Alliances,C0282389,1,1.0
+Lamiinae Invertebrate,C1033802,23,0.9904347826086952
+Anterior Margin,C4489131,5,1.0
+Joint Of Vertebral Articular Process,C0224521,7,0.8017289659910176
+Structure Of Sternocleidomastoid Muscle,C0224153,1,0.7919642025725102
+Dermatomal,C4476692,4,1.0
+Pontine Structure,C0032639,7,0.7789971131691836
+Structure Of Splenium Of Corpus Callosum,C0152319,6,0.8687006267649559
+Shoulder Region Pain,C0037011,4,1.0
+Brain Periventricular Region,C4331000,11,1.0
+Perforation Of Trachea,C0684907,1,1.0
+Peritoneal Implant,C5420073,2,1.0
+Dome Shaped,C0444914,1,0.8619329804863318
+Atrophic Pancreas,C5194604,2,1.0
+Systems Neurosecretory,C0027912,7,1.0
+Diseases Of The Maxillary Sinuses,C0264235,2,1.0
+Cerebral Cortical Thinning,C3278126,8,1.0
+Alcoholic Cirrhosis Of Liver,C0023891,5,1.0
+Tube Drain Placement,C0940865,1,1.0
+Computerized Tomography Limited Or Localized Follow Up Study,C0202657,3,1.0
+Pneumonia Treating,C0747698,1,1.0
+Shrinkage,C0332513,7,1.0
+Ct Scan Chest With Contrast,C3515769,5,1.0
+Abdominal Ct Scan With Contrast,C0202840,1,1.0
+Pelvic Computed Tomography With Contrast,C0203199,1,1.0
+Thoracic Right,C3841481,1,1.0
+Pre Operative Examination,C0850429,3,1.0
+Pneumothorax Small,C0747710,3,1.0
+Within 24 Hours,C4035156,1,1.0
+Anteroposterior Orientation,C2827723,5,1.0
+Previously Treated,C1514463,4,0.9559292736057351
+Abnormal Positions,C0333042,39,0.97191625871949
+Af Atrial Fibrillation,C0004238,11,0.8152164025451671
+Intravenous Bolus Route Of Administration,C1522229,1,1.0
+Shallow,C4698035,14,1.0
+Laceration Of Lung,C0347627,1,1.0
+Postoperative Pneumonia,C1279386,1,1.0
+Not Achieved,C5453129,1,1.0
+Max 4,C5418102,2,1.0
+Focally Increased,C4687947,3,1.0
+Normal Adrenals,C5232257,1,1.0
+Non Keratinizing Malignant Small Squamous Cell,C1518368,4,1.0
+Vascular : Intracranial,C0549642,3,1.0
+Edema Of Foot Finding,C0574002,3,1.0
+Structure Of Right Peroneal Vein,C5437309,8,1.0
+Serpin Family B Member 3 Wt Allele,C4724080,74,0.9782856157237287
+Neck And Chest,C1562459,7,1.0
+Malignant Squamous Cell Neoplasm,C0751688,24,1.0
+Right Posterior Chest,C0694674,3,1.0
+Esophageal Stenting,C0183514,42,0.9143971125396536
+Adenomyomatosis,C3697772,1,1.0
+Pmh Past Medical History,C0455458,2,0.7677562947085182
+Localized Infection,C0016397,6,1.0
+Silicone Implant Device,C1289793,3,1.0
+Aortic Valve Structure,C0003501,12,0.9908333333333333
+Silicone Gel Filled Breast Implant,C0741713,1,1.0
+Elevated Right Hemidiaphragm,C3554250,15,1.0
+Bronchial Hygiene Therapy,C3828439,1,1.0
+Status Pre,C0332152,2,0.8762863940684504
+Lower Medial,C4687753,6,1.0
+Peripherally Inserted Central Venous Catheter Tip,C4511463,4,1.0
+Consequence Of,C0686907,6,1.0
+Lymph Node . Bilateral,C4266539,1,1.0
+Diffusely Increased,C4687946,11,1.0
+Gastrointestinal Wall Thickening,C3888534,24,1.0
+Coeliac Lymphadenopathy,C0742017,2,1.0
+Cervical Left,C3841492,1,1.0
+Upper Back Pain On The Left,C2188232,1,1.0
+Cervicothoracic Junction,C1179211,6,1.0
+Acromioclavicular,C0695640,4,1.0
+Bleeding Controlled,C4281576,1,1.0
+Blushing Function,C0005874,6,0.7911989619404013
+Vessel Common Origin,C4086951,2,1.0
+Swallowing Abnormalities,C5563359,2,1.0
+Left Iliac Bone,C0735431,19,0.9596400968406054
+Sacralization,C1409431,1,1.0
+Manifestations,C0205319,3,0.8214003234829285
+Calcium Increased Levels,C0553702,7,1.0
+Pleural Nodule,C0747647,12,1.0
+Healed Fractures,C0152231,12,1.0
+Normal Head,C5395496,3,1.0
+Moderate Conscious Sedation,C1619775,3,1.0
+5 Minutes Office Visit,C0886384,4,1.0
+Buffered Lidocaine,C3152525,8,1.0
+Heparin Flushes,C0354589,2,1.0
+Arteriograms,C0918037,18,0.7883011864024126
+Puncture Of Artery Procedure,C0189586,5,0.99
+Stage Iiib Testicular Cancer Ajcc V6 And V7,C4552017,9,1.0
+Atelectatic Lungs,C4012240,7,1.0
+Wall Of Bronchiole,C1184207,1,1.0
+Rights Patient S,C0030706,12,1.0
+Gallbladder Calculus,C0947622,6,0.7882441502055281
+Pontine Infarction,C0877587,1,1.0
+History Of Cholelithiasis,C1561969,1,1.0
+Varies,C1548673,2,1.0
+Hepato Iminodiacetic Acid,C0064964,8,1.0
+Bilateral Lung Basis,C4068781,7,1.0
+Head And Cervical Spine,C4299132,2,1.0
+Volumetric Mass Density,C2698020,4,1.0
+Kidney Mass,C0262613,8,1.0
+Subsegmental Pulmonary Embolism,C5141127,5,1.0
+Diagnostic Doppler Ultrasonography,C0162481,22,0.7860815564935535
+Diffuse Opacities,C4746836,38,1.0
+Drug Administration Via Gastrostomy,C1522614,63,1.0
+Bothered By Coughing,C5239063,11,1.0
+Second Half,C3843057,2,1.0
+Inner Cannula Device,C1708515,2,1.0
+Retrieves Animal Life Circumstance,C3687615,1,1.0
+Snare Instrument,C0183362,1,0.8414200888820996
+Closure By Suture,C0009068,8,0.8072585229208097
+Sites,C0205145,12,0.8367719930853733
+Detaching,C0687118,2,1.0
+Advanced Lung Cancer,C4524268,7,1.0
+Central Lesions Nervous System,C0742468,8,1.0
+Structure Of Right Side Of Heart,C0225808,1,1.0
+Assess For Pulmonary Embolus .,C0547256,2,1.0
+Lymphomatous Nodal Involvement,C0806692,5,0.963830787219953
+Ribs . Posterior,C4299002,1,1.0
+Additional,C1524062,15,1.0
+Femoral Vein Deep Venous Thrombosis,C0743868,1,1.0
+Discovery,C1880355,8,1.0
+Phone Call,C4697859,6,1.0
+Exaggerating,C0442801,5,0.951136954577507
+Does Sit Up,C0560837,2,1.0
+Lung Mass Evaluation,C0746212,1,1.0
+Blood Coagulation Disorder,C0005779,7,1.0
+Pleural Fluid Volume,C2041088,1,1.0
+Transverse Relaxation Time Fluid Attenuated Inversion Recovery Mri,C3897397,28,1.0
+Monitoring Of Patient,C0030695,1,0.99
+Modest Extremity Pain,C4054480,2,1.0
+Nodular Liver,C2230346,3,1.0
+Superior Extremity Of Right Kidney,C0734758,2,0.8937472225209553
+Pteridium Aquilinum,C0331731,1,1.0
+Secretion Cellular,C1327616,1,1.0
+Right Iliacus Muscle,C0815698,3,0.8879840913830005
+Gluteal,C1550262,1,1.0
+Persistent Infections,C1264606,1,1.0
+At Risk For Aspiration,C0150012,10,0.918137306133621
+Wall Of Aorta,C0507851,7,1.0
+250Ml,C0470460,1,1.0
+Catheterization Procedures,C0007430,9,0.8105649877347463
+Choroid Plexus Calcification,C1863184,2,0.8894201272270983
+Fracture : Other,C0497278,11,1.0
+Ninth Rib Fracture,C0920008,1,1.0
+Tributaries,C1180121,8,1.0
+Behaviour Showing Increased Motor Activity,C0474395,5,1.0
+Specimen Type Abscess,C1550609,22,1.0
+Choline Benzilate Ester,C0066039,1,1.0
+Aneurysm Of Basilar Tip,C2062660,1,1.0
+Pontomedullary Junction,C3498518,1,1.0
+Cistern Of The Great Cerebral Vein,C0228150,7,0.9744734599268255
+Abdominal Wall Structure,C0836916,8,0.7834953628084241
+Laparoscopic Approach,C0393360,2,1.0
+Bone Structure Of Maxilla,C0024947,5,0.7701695197412264
+Antral,C0293352,1,1.0
+Stomach Wall Structure,C0227224,4,1.0
+Reminder,C1709896,2,1.0
+Cholelithiasis Without Cholecystitis,C0810313,3,1.0
+Complete Atelectasis Of Right Lung,C0546331,10,1.0
+White Blood Count,C1821144,2,1.0
+Excision Of Group Of Lymph Nodes,C0024203,7,0.8704848692306328
+Perfusion Imagings,C2350393,1,1.0
+Tracheal Deviation To Left,C2145063,3,1.0
+Ap Anteroposterior Projection,C0442212,2,1.0
+History Of Squamous Cell Carcinoma,C4040853,3,1.0
+Structure Of Upper Abdominal Quadrant,C0230181,3,1.0
+Biopsy Of Trachea,C0189353,4,1.0
+African Wild Ass,C0324145,45,0.950373427628227
+No Collection,C3858590,1,1.0
+Language Pathology,C0079668,5,1.0
+Cookie,C3853210,6,1.0
+Coating Film,C1522408,8,1.0
+Bolus Formation,C1822012,9,1.0
+Anuric Renal Failure,C2939070,1,1.0
+Mild Shortness Of Breath,C4054523,3,1.0
+Defect Of Diaphragm,C0239179,1,1.0
+Trunk Of Elephant,C0225442,13,0.8832187675650734
+Thousand Per Liter,C3642221,3,0.9966666666666667
+Hypervascular,C1512560,14,1.0
+Embolisation Coil Device,C0522644,7,1.0
+Company Organization,C0683757,1,1.0
+White Sputum,C1997237,1,1.0
+Diagnostic Image,C1551337,2,1.0
+Space Of T9 T10 Intervertebral Compartment,C4248724,1,1.0
+Primary Malignant,C5453044,1,1.0
+Structure Of Parenchyma Of Kidney,C0227628,3,0.8532071029530335
+Bowel Distention,C2747824,6,1.0
+Inspissated,C0333120,5,1.0
+Benign Cysts,C0742960,2,1.0
+Extramedullary,C1517060,5,1.0
+Structure Of Intervertebral Disc,C0021815,10,0.7877820220104441
+Lung Obstruction,C1403146,3,1.0
+Number Of Unsuccessful Attempts : Number : Point In Time : Patient : Quantitative,C4554383,6,1.0
+A Few Times,C3843272,1,1.0
+Telescoping Of Limb At Hip,C0426908,1,1.0
+Site Of Access,C0589360,4,1.0
+Arterial Stents,C1283091,1,1.0
+Disorder Of Kidney,C0022658,10,1.0
+History Of Hemodialysis,C4047993,1,1.0
+Chronic Dialysis,C0743165,1,1.0
+Alteration,C1515926,11,1.0
+Gallstone Pancreatitis,C0521614,5,1.0
+Ductus Hepaticus Communis,C0019149,2,0.8326442735345043
+Decreased Mass To Volume Ratio,C1265608,6,1.0
+Ercp Endoscopic Retrograde Cholangiopancreatography,C0008310,5,0.9112911611385455
+Elevated Serum Glutamic Oxaloacetic Transaminase,C0151904,1,1.0
+Alkaline Phosphomonoesterase,C0002059,3,0.8973012614902812
+Interpretation Of Laboratory Tests,C0587081,9,1.0
+Ductus Communis Choledochus,C0009437,5,0.7689247744367871
+Structure Of Inferior Portion Of Duodenum,C0227302,6,1.0
+Left Anterior Pararenal Space,C2953778,1,1.0
+Pulmonary Osteoarthropathy,C0240835,2,1.0
+Structure Of Wall Of Urinary Bladder,C0458421,5,1.0
+Bone Structure Of Shaft Of Femur,C0588193,2,1.0
+Inflammation Or Infection,C0679333,6,0.9598528559228517
+Total Dose Administered,C2986497,2,0.8903292798231853
+Bile Duct Dilatation Finding,C1879273,2,1.0
+Diverticulosis Of The Duodenum,C0341266,3,1.0
+Structure Of Right Femur,C4758646,9,1.0
+Pneumohydrothorax,C1405195,3,1.0
+Costal Somatic Dysfunction,C1562042,9,1.0
+Scope,C1710028,8,1.0
+Assure,C1658314,3,1.0
+Data Transmission,C0332289,1,1.0
+Very Difficult,C3843353,10,1.0
+Non Interpretable,C3897243,4,1.0
+As Soon As Possible,C4039399,2,1.0
+Arranged Transportation,C1546854,3,1.0
+Ablactation,C0043084,40,1.0
+Assisted Ventilation Therapy,C0554804,3,0.7700682971040375
+Event Reason,C1550356,2,1.0
+Ras Renal Artery Stenosis,C0035067,12,1.0
+24 Hrs,C3842953,2,1.0
+Point In Time,C2348792,1,1.0
+Respiratory Equipment Tracheostomy Tubes,C0184159,5,1.0
+Much Worse,C3841448,2,1.0
+Trachea And Esophagus,C0545665,10,1.0
+Kawasaki Disease Associated Coronary Artery Aneurysm Z Score Suggests No Involvement,C5238767,2,1.0
+Structure Of Auricular Appendage,C0225832,12,1.0
+Left Cardiac Ventricular Structure,C0225897,8,0.9900000000000001
+Malignant Lymphoma Non Hodgkin S Type,C0024305,1,0.99
+Approach Spatial,C0449445,3,1.0
+Cortical Thickening,C2677810,1,1.0
+Aorta And Pulmonary Artery,C0545735,9,1.0
+Renal Artery And Its Branches Body Structure,C1261215,1,1.0
+Platelet Activating Factor Phosphonate,C0619926,1,1.0
+Hepatobiliary System,C1711359,4,1.0
+Transmission Process,C1521797,3,0.8466572506554618
+Antistreptococcal Antibody Titer Elevated,C0238664,1,1.0
+Right Femoral Bruit,C2201656,1,1.0
+Ultrasound Of The Groin,C1660279,1,1.0
+Pericardial Cysts,C0031038,1,1.0
+Ultrasonography Of Abdomen,C0203464,4,1.0
+Structure Of Gallbladder Fossa Of Liver,C0227511,13,1.0
+Computed Tomography Of Abdomen : Pancreas Not Well Visualized Procedure,C2220631,2,1.0
+Not Fused,C4086630,1,1.0
+Haematoma Of Neck,C0746795,1,1.0
+Exophytic Polypoid Lesion,C1514211,3,1.0
+Axial Hiatal Hernia,C0860245,8,1.0
+Herniorrhaphy,C0019328,8,1.0
+Thoracolumbar Vertebral Column,C1443270,3,0.7647169380995238
+Chest Diseases,C3826591,1,1.0
+Chest Lung Abdomen Liver,C4266618,4,1.0
+Mass Of Thyroid Gland,C0349453,6,1.0
+Structure Of Rectouterine Pouch,C0013075,2,0.9307156709233559
+Burden,C2828008,31,1.0
+Kidneys Liver,C0545792,2,1.0
+Bacteraemia Due To Methicillin Resistant Staphylococcus Aureus,C4040349,9,1.0
+Subcutaneous Infusions,C0576773,1,1.0
+Incident,C1551358,3,1.0
+Reticuloendothelial System Erythrocytes,C0014792,6,0.9804406032182121
+Parenteral Administration By Intravenous Injection,C0021494,5,1.0
+Sixty Minutes,C3853333,7,1.0
+Blood Pool,C4266466,9,1.0
+Technetium Pertechnetate,C0205962,1,1.0
+Overall Research Strategy,C0681871,3,1.0
+Hernia Of Cerebellar Tonsil Into Foramen Magnum,C0393983,29,0.9916909301300476
+Chest Lung . Left,C4266610,5,1.0
+Incomplete Expansion,C1400465,4,1.0
+Structure Of Apex Of Heart,C0225811,1,0.7646460964973677
+To Some Extent,C1555600,3,1.0
+Chest Effusion,C1390440,4,1.0
+Empyema And Pneumothorax,C0810297,1,1.0
+Finding Of Haematocrit,C0518014,13,0.9434637249461759
+Decrease In Hematocrit,C0744727,24,1.0
+Expiratory Computed Tomography,C4304110,1,1.0
+Malignant Neoplasm Of The Mesothelium,C0345967,6,1.0
+Lower Extremity . Right Lower Extremity Veins,C1508634,1,1.0
+Structure Of Ligament,C0023685,12,0.8752095090084357
+Enlarged Mesenteric Lymph Node,C4476563,2,1.0
+Neurodegeneration With Brain Iron Accumulation 2A,C0270724,1,1.0
+Prominent Ventricles,C3809116,6,1.0
+Thoracic Paracentesis,C0189477,2,1.0
+Longest Measurement,C0552406,8,1.0
+Anisocoria Unequal Pupil Diameter,C0003079,4,1.0
+Physical Examination Finding,C2826729,2,0.8483739280887648
+Enlarged Axillary Lymph Nodes Bilaterally,C2237501,1,1.0
+Deforming,C0333067,10,1.0
+Ultrasound Of The Chest,C0883613,5,1.0
+Merged,C1881786,3,1.0
+Mental Change,C1405586,8,1.0
+Severe Disease,C4740692,1,1.0
+Bone Formation Function,C0029433,6,0.9916666666666667
+Chronic Collapse,C1265581,1,1.0
+Chronic Respiratory Failure,C0264492,3,1.0
+Venipuncture Procedure,C0600406,4,0.9817003000020368
+Aneurysm Clips,C0179977,5,1.0
+Communicating Artery,C1707451,4,1.0
+Aneurysm Of Posterior Communicating Artery,C0751002,1,1.0
+Structure Of External Iliac Artery,C0226398,8,0.8441903575684291
+Thallous Chloride,C0076368,2,1.0
+Sestamibi,C1337333,9,1.0
+Pre Operative Evaluation,C1293091,3,1.0
+Zeptogram Per Femtogram,C0439272,5,1.0
+Minute Of Time,C0439232,15,0.8503553340555757
+Gated,C4266464,21,1.0
+Calculated Left Ventricular Ejection Fraction,C4525750,6,1.0
+Cavity Of Ventricle,C0507083,7,0.7953835272839382
+Examination Of Lungs,C2228454,4,1.0
+Evolving,C0332253,4,1.0
+Aneurysm Repair Procedures,C0189661,4,1.0
+Angiography Of Intracranial Vessels,C0007767,2,1.0
+Diagnostic Service Neuroradiology Lab,C2183225,5,1.0
+Under Local Anaesthesia,C1720162,7,1.0
+Structure Of Left Internal Carotid Artery,C0226157,15,0.8526449926893546
+Ruptured Aneurysms,C0162869,1,1.0
+Area 7 Of Brodmann Guenon,C3853818,1,1.0
+Senile Cerebral Amyloid Angiopathy,C2931784,1,1.0
+Dural Calcifications,C5393946,1,1.0
+Medical Device Break,C1881704,2,1.0
+Calvarial Defect,C4280596,2,1.0
+Craniotomy Temporal,C0742901,6,1.0
+Biopsy With Ct Guidance Of Left Lung,C4510209,5,1.0
+Adequacy Of Specimen,C1299490,1,1.0
+Speciman Obtained By Fine Needle Aspiration Procedure,C1280568,3,1.0
+Culture For Fungus,C0200954,1,1.0
+Etiology Unknowns,C0743626,24,1.0
+Guidance For Percutaneous Biopsy : Find : Pt : Chest Lung : Doc : Imaging Modality,C4532076,7,1.0
+Appreciation,C2346843,2,1.0
+Abnormal X Rays,C0000766,3,1.0
+Penetrating,C0205321,6,1.0
+Normal Lung,C5231182,4,1.0
+Abdominal Imaging,C4481095,7,1.0
+Luman Of Aorta,C0506213,1,1.0
+Pyogenic,C5453042,2,1.0
+Paid Hours,C0871051,13,1.0
+Probably Present Qualifier Value,C1444704,4,1.0
+Electrical Arcing,C1879730,3,1.0
+Interlobar Fissures,C3498467,5,1.0
+Content Of Mediastinum,C2339554,10,1.0
+Entire Left Hemithorax,C1284911,6,1.0
+Fdg Positron Emission Tomography And Computed Tomography Scan,C4521453,7,1.0
+Understanding Function,C0162340,3,1.0
+Consented Qualifier Value,C2711213,2,1.0
+Polymethyl Methacrylate Containing Product,C0005533,2,1.0
+Chest Aortic Arch Head Neck Carotid Artery,C4299158,1,1.0
+Rotators,C0183065,2,1.0
+Other Malignancy,C1707251,1,1.0
+Per Protocol,C1698058,5,1.0
+Nephrectomy Of Left Kidney Treatment,C2222800,7,1.0
+Centering,C0935444,1,1.0
+Erosion Of Bone,C0587240,1,1.0
+5 Levels,C0456951,12,0.9991666666666666
+Epidural Intracranial Haemorrhage,C0238154,5,0.8625049526887267
+Thoracic Portion Of Spinal Cord,C0581620,6,0.7729874768411539
+Intracanalicular Route Of Administration,C4330494,1,1.0
+Sacral Perineural Cysts,C0520720,3,0.9295753686538643
+Pelvis Sacrum Sacroiliac Joint,C5187190,1,1.0
+Structure Of Medial Surface Of Thigh,C0230423,1,1.0
+Bronchoscopy With Bronchoalveolar Lavage,C0396473,1,1.0
+Patient Identity,C0747303,15,1.0
+Diffuse Cortical Atrophy,C4693665,1,1.0
+Lasix,C0699992,4,1.0
+Neck Structure,C0027530,17,0.8439145193411591
+Haemorrhagic Infarction,C0333549,3,1.0
+Magnetic Resonance Imaging Angiography Of Head,C1636167,3,1.0
+Neck Vessels,C0947149,5,1.0
+Normal Variations,C0544712,9,1.0
+Disorder Of Paranasal Sinuses,C0030469,19,1.0
+Ligamentum Teres,C3241921,3,1.0
+Acute To Subacute,C3686939,4,1.0
+Aspects Of Congenital Malformations,C0243070,15,1.0
+Nonspecific Pain In The Neck Region,C0007859,20,0.9536335060619224
+Carotid Arteries Bilateral,C0947108,1,1.0
+Slipping,C0337209,4,1.0
+Lesions In The Basal Ganglia,C1389273,1,1.0
+Facial Fractures,C0743751,6,1.0
+Meningioma Of The Foramen Magnum,C1333630,1,1.0
+Skeletal System Of Thorax,C0222762,20,1.0
+Mediastinal Displacement,C1403670,6,1.0
+Bone Oedema,C2609134,2,1.0
+Desiccation Action,C0011682,5,0.7832940393229574
+Compression Fracture Of Second Lumbar Vertebra,C4040439,1,1.0
+Magnetic Resonance Angiography,C3891069,3,0.7722332766442195
+Carotids Doppler Ultrasound,C0741988,1,1.0
+Calcification Of Aortic Valve,C0428791,4,0.8464917997635288
+Staphylococcus Aureus Subsp . Anaerobius,C0038172,2,1.0
+Infarction Posterior Cerebral Artery,C0752132,2,1.0
+Paired,C1709450,12,1.0
+Term Lexical,C1705313,4,1.0
+D At,C0283910,1,1.0
+Word Finding Difficulty Disorder,C0454643,3,1.0
+Volume Rendering,C2986838,1,1.0
+Colloid Cysts,C0333157,1,1.0
+Upper Lobe Segment Of Left Pulmonary Artery,C1180557,3,0.9212413288785689
+Specimen Type Sputum Coughed,C0370205,4,1.0
+Valvular Calcifications,C4227669,9,1.0
+Stricture Of Oesophagus,C4551650,14,1.0
+Few Minutes,C4036224,1,1.0
+Somewhat Difficult,C3843068,5,1.0
+Malignant Tumour Of Larynx,C0007107,5,1.0
+Magnetic Resonance Imaging Of Abdomen,C0412693,13,1.0
+Left Side Only,C3842976,2,1.0
+Bilateral Adrenal Hyperplasia,C2062372,1,1.0
+Xylocaine,C0699094,1,1.0
+Side To Side,C0516750,1,1.0
+Techniques Subtraction,C0038603,1,1.0
+Tracker,C1550489,2,1.0
+Slurry,C1883043,5,1.0
+90 Minutes,C1442473,6,1.0
+Proximal Segment Of Free Lower Limb,C0039866,4,0.7815020450717791
+Possible Improvement,C1709605,1,1.0
+Lesions On Supraclavicular Region Of Chest,C2089621,1,1.0
+Biopsy Of Cervical Lymph Node,C0398433,1,1.0
+Irregular Lesions,C2168444,1,1.0
+Mediastinal Drain,C3879649,28,1.0
+Repair Of Chest Wall,C0198375,1,1.0
+Subdivision Of Chest Wall,C0818606,1,1.0
+Lead Tip Device,C1708663,8,1.0
+Silent Aspiration,C4324315,12,1.0
+Does Cough,C0687152,36,0.9184589506037116
+Impaired Sensation,C0020580,1,1.0
+Transfer In,C1547239,2,1.0
+Mechanical Aspirations,C0038638,16,0.9242167623649207
+Paralysis Laryngeal,C0086523,1,1.0
+Multi Detector Computed Tomography Angiography,C4763552,3,1.0
+Transaxial Plane,C2986831,6,1.0
+3 Lead Electrocardiogram Rhythm Strip : Pacemaker In Place,C2041133,4,1.0
+History Of Lymphadenopathy,C1997617,2,1.0
+Hemorrhage Of Mediastinum,C1112480,11,0.9918181818181818
+Cardiac Catheterisation Procedure,C0018795,4,0.942814347922202
+Inferior Vena Cava Structure,C0042458,26,0.9845192269310841
+Intra Aortic Balloon Pump Consoles,C0702122,6,0.9983333333333334
+Septic,C0333534,28,1.0
+Tumour Thrombus,C3163918,11,1.0
+Pretracheal Lymphadenopathy,C1264065,1,1.0
+Deep Venous Thrombophlebitis,C0151950,45,1.0
+Focal Calcium Deposition,C1265880,3,1.0
+Hyperintensity Of Cerebral White Matter On Mri,C2938912,5,0.887209394346425
+Corona,C3053990,6,1.0
+Biologic Consumption,C1947907,1,1.0
+Margination,C0332473,2,1.0
+Abdominal Circumference,C1300813,1,1.0
+History Of Bowel Obstruction,C4038779,1,1.0
+Day 3,C3842675,5,1.0
+Loops,C0181687,5,0.7950466941872859
+Albumins,C0001924,2,0.8746181752399713
+Determination Of Venous Pressure,C0199665,7,0.7906649489588676
+Interpolation Imputation Technique,C2825517,16,1.0
+Loading Technique,C1708715,6,1.0
+Acuities,C0750509,3,1.0
+Tympanic Abdoman To Percussion,C0426675,2,1.0
+Ms S,C0721498,3,1.0
+Diminished Breath Sounds,C4061156,1,1.0
+Generalised Multiple Sclerosis,C0026769,5,1.0
+Triple Luman Catheter,C1301750,8,1.0
+Progressive Volume Loss,C5394406,1,1.0
+Mitral Valve Stenosis,C0026269,1,1.0
+Gastric Distention,C0848337,7,1.0
+Decompression Tubes,C0184113,1,1.0
+Suprahilar Lung Mass,C0749166,4,1.0
+Cytology Brush Device,C0179448,1,1.0
+Syndromes Paraneoplastic,C0030472,1,1.0
+Coaxial Biopsy System,C5204816,5,1.0
+Apical Pleural Thickening,C5139173,31,1.0
+Gastrointestinal Bleeding Retroperitoneum,C0151705,26,0.9893956769406228
+Proximal Muscle Weakness,C0221629,1,1.0
+Diffuse Calcium Deposition Calcified Structure,C1265885,8,1.0
+Light Intensity,C0596836,3,1.0
+Congenital Familial And Genetic Disorder Class,C0851352,1,1.0
+Diminished Bowel Sounds,C0232695,1,0.7583555109940492
+Upper Extremity . Right Forearm,C0230360,1,1.0
+Recanalized,C0333328,6,1.0
+Nasogastric Placement Tube,C0746772,22,1.0
+Lovenox,C0728963,19,1.0
+Anatomic Site Of Metastasis,C5419525,5,1.0
+Endotracheal Airway Device,C0336630,6,0.8434041401841982
+Ureteral Stents,C0183518,8,1.0
+Ct Of Abdomen And Pelvis Without Contrast,C2939268,1,1.0
+Stent Migration,C4087543,5,1.0
+No Loss,C3845646,5,1.0
+Thrombus Of Left Atrium,C3532827,2,1.0
+Endotracheal Tube In Place,C2702636,7,1.0
+View Waters,C0883435,4,0.9391952591520493
+Subchondral Bone Cyst,C0038529,6,1.0
+Fluid For Intravenous Administration,C1289919,5,1.0
+Subdural Fluid,C1550308,13,1.0
+Physical Assessment Findings,C1509143,3,1.0
+Compression Lung,C1393550,1,1.0
+Injury Of Neck,C0027531,2,1.0
+Eighth Rib Fracture,C0920007,3,1.0
+Ultrasound Of The Pelvis,C0948766,3,1.0
+Thoracoscopic,C0442425,5,1.0
+Benign Fibroblastic Neoplasm,C1332501,1,1.0
+Gallbladder And Bile Ducts Structure,C0545801,1,1.0
+Few Colonic Diverticula,C0940686,1,1.0
+Other Imaging Studies,C2015796,1,1.0
+Processing Technique,C1709694,18,1.0
+Equilibrium Phase,C4554582,1,1.0
+Characteristics,C1521970,2,1.0
+Clinical Management,C1516615,3,1.0
+Medical Imaging Three Dimensional,C0887832,7,1.0
+Hemithorax Opacification,C0744751,9,1.0
+Cortex Of Right Kidney,C0734742,1,1.0
+Structure Of Upper Respiratory Tract Cavity,C0225377,5,1.0
+Sixty Two,C4517835,1,1.0
+Incidental Findings,C0743997,5,1.0
+Sized Small,C0748864,10,1.0
+Same As Attribute,C1278655,1,1.0
+Abdomen Pelvis Ureter Pelvis Urinary Bladder,C4266662,5,1.0
+Lung And Pleura,C0302192,2,1.0
+No Solids,C5571045,3,1.0
+Vicryl,C0947694,6,1.0
+Melandrium,C0950000,3,1.0
+Strip Medical Device,C1321564,3,1.0
+Amylase Lipase,C2928321,1,1.0
+Increased Amylase,C0151479,1,0.7571221761512101
+Polyp Of Gallbladder,C0262493,3,1.0
+Thoracic Aortic Dissection,C3809514,8,1.0
+Measurable,C1513040,5,1.0
+Caking,C0452597,1,1.0
+Further Enlargement,C4688471,1,1.0
+Ineffective,C3242229,12,1.0
+Respiratory Insufficiency,C0035229,3,1.0
+Minute Diminutive,C1282918,7,0.8709831696958235
+Except For,C0332300,3,1.0
+Bilateral Breast Implants Physical Finding,C2239094,1,1.0
+Ventilating,C0231923,16,0.9857181172162317
+Complete Atelectasis Of Left Lung,C0546330,18,1.0
+M Metastasis Stages,C0456533,1,1.0
+Subependymal Region,C0521406,6,1.0
+Beam Hardening Artifact,C2828112,4,1.0
+Quadriplegics,C3825769,1,1.0
+Endplate Of Intervertebral Disc,C4249798,1,1.0
+Diaphragmatic Lymphadenopathy,C1264083,1,1.0
+Multiple Abnormalities Qualifier,C5234981,3,1.0
+Atrium Cordis Sinistrum,C0225860,5,0.7903096808190602
+Structure Of Vein Of Pulmonary Circulation,C0034090,10,0.7936621137321543
+Diverting,C0743226,14,1.0
+Radiofrequency Interstitial Ablation,C0850292,5,0.9641874661788522
+General Anesthesia Procedure,C0002915,4,0.8247752479077115
+History Of Dementia,C0455499,2,1.0
+Confirmation,C0750484,11,0.8431392454710476
+Iiia Virus,C4697913,18,1.0
+Metastatic Malignant Neoplasm To Brain,C0220650,6,1.0
+Terminal Oesophageal Ring,C0267081,1,1.0
+Superior Margin,C4319504,9,1.0
+Dissecting,C0205239,1,1.0
+Nadh Ubiquinone Oxidoreductase 1 Beta Subcomplex 8,C1417640,2,1.0
+General Surgery Specialty,C1274039,4,0.8165039238734509
+Neoplasm Of The Thorax,C0039981,1,1.0
+X Ray Report,C3842472,2,1.0
+Information Recipient Referred To,C1555599,3,1.0
+Coalesced,C4727092,3,1.0
+Physical Mobility Impairment,C0518456,3,1.0
+Structure Of White Matter Of Occipital Lobe,C0228222,1,1.0
+Coronary Artery Bypass Graft Operations,C0010055,19,0.9899999999999999
+Diffuse Pulmonary Fibrosis,C0865849,1,1.0
+Subpleural Honeycombing,C4703451,1,1.0
+Transthoracic Needle Aspiration Biopsy,C1301055,1,1.0
+Acute Exacerbation Of Idiopathic Pulmonary Fibrosis,C5230587,1,1.0
+3 Weeks,C1442462,4,1.0
+Wedge Biopsy,C0192152,6,1.0
+Ipf Idiopathic Pulmonary Fibrosis,C1800706,7,0.9746032029140155
+Cxr Single View,C3863779,1,1.0
+Dystrophin Associated Protein Basic A1,C1420297,2,1.0
+Superolateral,C1179864,2,1.0
+No Indication Of,C0521090,4,1.0
+Guidance For Percutaneous Aspiration . Fine Needle : Find : Pt : Xxx : Doc : Ct,C1114412,2,1.0
+Cytoleichus,C0323679,1,1.0
+Use Aspirin,C1388856,1,1.0
+3 Severe,C3842510,2,1.0
+Perfectly Clear,C5571120,1,1.0
+Hippocampal Structure,C0019564,4,0.9924999999999999
+Right Uncus,C2952073,2,1.0
+Cerebrovascular System Structure,C0225992,1,1.0
+Paraneoplastic Limbic Encephalopathy,C0338430,3,1.0
+Not Related,C1546988,1,1.0
+40 Years,C4699619,22,1.0
+Observation Of Nausea,C0027497,9,0.8937175861912365
+Restasis,C1170584,1,1.0
+Imaging Study With 3 Dimensional Rendering,C2047967,2,1.0
+Thrombosis Of Blood Vessel,C2586211,1,1.0
+External Auditory Canal Structure,C0013444,1,0.7639968335182972
+Lack Of Memory,C0751295,3,0.8685713294946203
+Floor Story Of Building,C1547707,5,0.9526861005197805
+Whole Brain Radiation Therapy,C1520143,4,1.0
+Diagnostic Lumbar Spinal Puncture,C0553794,10,0.8494422431000354
+Infratentorial Brain Structure,C0228067,5,1.0
+Calvarial,C2825501,9,1.0
+Body Position Kneeling,C1260920,1,1.0
+Structure Of Cortex Of Frontal Lobe,C0228196,5,0.8316237103544554
+Acute Haemorrhage,C0333276,13,1.0
+Multiple Heads,C5233361,2,1.0
+Collapse Of Lung Present,C5395702,5,1.0
+Subglottic Tracheal Narrowing,C1844523,3,1.0
+Neck Subcutaneous Emphysema,C0240487,6,1.0
+Thyroidectomy Status,C1406947,1,1.0
+7 Days Ago,C5570862,2,1.0
+Loculated Effusion,C1265808,49,1.0
+Tumour Haemorrhage,C0877584,1,1.0
+Structure Of Right Internal Thoracic Artery,C0500531,15,0.8717010042251053
+Anhydrous Ethanol,C0085733,1,1.0
+Not Demonstrated,C4697740,2,1.0
+Respiratory Pulmonology,C0034060,1,1.0
+Patient Feeding Technique,C0204695,1,0.7919900999693256
+Electrocardiogram : T Wave Observable Entity,C0429104,1,0.7785271881418161
+Changes In Electrocardiogram,C0855329,7,1.0
+Wall Motion,C1980023,7,1.0
+Drainage Using Computed Tomography Guidance,C3839476,8,1.0
+Right Mammary Part Of Chest,C0222600,4,0.7867036522355306
+Scoliosis Severe,C2674596,7,1.0
+Concave,C0521162,6,1.0
+Interlobar,C1512855,16,1.0
+Necrotic Lung Abscess,C2200112,3,1.0
+Catheter Fastener,C2356412,1,1.0
+Fluid Aspiration,C0941215,3,1.0
+Mass Of Posterior Mediastinum,C2062848,3,1.0
+Not Given,C4698125,2,1.0
+Lumbar Region Of Back,C0230102,1,0.7782145927662426
+Moderate Intensity,C4081855,1,1.0
+Temporal Lobe Infarct,C3809093,1,1.0
+Left Hip Region Structure,C0524471,3,1.0
+Sacroiliac Joint Structure,C0036036,2,0.7745245778122816
+Image Quality,C0806487,5,1.0
+Persistently,C0750508,15,1.0
+Administration Of Antibiotics,C0199779,1,1.0
+Nucleus Thoracicus Of Clarke,C2327870,2,1.0
+Previous Trauma,C1407147,1,1.0
+Computed Tomography Of Chest Abdomen And Pelvis Procedure,C1688605,1,1.0
+Spin Echo Imagings,C4279955,16,1.0
+Chronic Osteomyelitis,C0008707,1,1.0
+Chronic Infectious Disease,C0151317,2,1.0
+Electronic Portal Imaging Devices,C3687905,1,1.0
+Level Of The Third Thoracic Vertebra,C0446421,2,0.9057601635344716
+Level Of The Fourth Thoracic Vertebra,C0505385,3,0.9899999999999999
+Vertebral Body Abnormalities,C1857648,2,1.0
+Lumbar Cords,C3853029,1,1.0
+Structure Of Descending Portion Of Duodenum,C0227301,9,1.0
+Calcification In The Basal Ganglion,C1389280,4,0.8624173685452298
+Short Chain Dehydrogenase Reductase Family 18C Member 1,C1413969,3,1.0
+Atherosclerosis,C0004153,3,0.7695932360765484
+Postoperative Infection,C0392618,1,1.0
+Laceration Of Spleen,C0347636,8,1.0
+Bearing Device,C1704689,1,1.0
+Abnormalities Of The Basal Ganglia,C4520981,1,1.0
+White Matter Of Left Temporal Lobe,C2334847,1,1.0
+Neurology . Resident,C4298928,2,1.0
+Intervertebral Disc Structure Of Third Cervical Vertebra,C0223127,1,1.0
+Multiple Pulmonary Embolus,C0748128,3,1.0
+Merging,C4297013,1,1.0
+Computed Tomography Of Abdomen : Adrenal Gland Not Visualized Procedure,C2198715,1,1.0
+Multisection : Finding : Point In Time : Abdomen : Narrative : Mri,C0881795,5,1.0
+A Tube Shaped Organ Structure,C0687028,8,0.8931684696182234
+Peri Aortic,C0442134,1,1.0
+Tubes Rectal,C0150740,4,1.0
+Metastatic Malignant Neoplasm To Pancreas,C0346976,1,1.0
+Multisection : Find : Pt : Abdomen : Doc : Us,C0881797,8,1.0
+Reportings Incident,C0178896,1,1.0
+Left Antecubital Fossa,C0694648,8,1.0
+Radial Pulse Function,C0232142,1,0.9331840935806184
+Warm Compresses,C2064708,1,1.0
+Plastic Surgical Procedures,C0677616,1,0.9012361597522629
+Early Necrosis,C1265869,1,1.0
+Hemispheric Regions,C3499130,1,1.0
+Nervous System Pituitary,C0032005,7,1.0
+Secondary Lesion,C1519215,2,1.0
+Abscess With Diverticular Disease Of Colon,C0581275,11,1.0
+Nonspecific Pain In The Lumbar Region,C0024031,4,1.0
+Fusiform Abdominal Aortic Aneurysm,C4703459,2,1.0
+Sigmoid Abscess,C1385600,1,1.0
+Reduced Renal Function,C1969965,1,1.0
+Vascular System Disorders Disorder Of Aorta,C0003493,4,1.0
+Gliotic Changes,C4747765,1,1.0
+Intracranial Aneurysm,C0007766,1,1.0
+Electrolyte Regulation,C0553740,1,1.0
+Perinephric Fluid,C4510374,3,1.0
+Tracheal Narrowing,C4692722,8,1.0
+Necrotic Neoplasm,C1300818,5,1.0
+Passive,C3686820,8,1.0
+Conclude Resin,C0917903,2,1.0
+Drug Administration Via Jejunostomy,C1522195,63,1.0
+Structure Of Left Anterior Naris,C4509962,1,1.0
+Scalpel Blades,C0179326,3,1.0
+Disconnection,C1880354,2,1.0
+Translucencies,C0522503,11,0.9936363636363637
+Reverses,C1555029,2,1.0
+Lupron,C0701459,3,1.0
+Klebsiella Bacteraemia,C0745527,2,1.0
+Monoplatin,C4277135,1,1.0
+Dm Diabetes Mellitus,C0011849,1,1.0
+Pvd Peripheral Vascular Disease,C0085096,3,1.0
+Femoral Catheter,C0179571,4,1.0
+Lower Extremity Rash,C0240250,1,1.0
+Infecting,C0439663,3,1.0
+Shortness Of Breath Question,C5446835,3,1.0
+Local Infection Of Wound,C0043241,14,0.9811243782224478
+Chest Fistula,C1390433,1,1.0
+Flap Repair,C1660608,2,1.0
+No Communication,C4693928,1,1.0
+Osteomyelitis Of Sternum,C0749007,1,1.0
+Fistulous,C0333329,8,1.0
+Past Treatments,C2945691,1,1.0
+Spherical Shaped,C0332501,4,1.0
+Slowing,C0439834,2,1.0
+Bpifa1 Wt Allele,C3889133,1,1.0
+Steri Strip,C0727944,1,1.0
+2 Slightly,C3843092,1,1.0
+Magnetic Resonance Imaging Venography,C1690005,2,1.0
+Systems,C0449913,5,0.8225113027209379
+Proliferation Intimal,C0334096,2,1.0
+Depositions,C0333562,2,1.0
+Ambulatory Care Services,C0002423,3,1.0
+Monitored Anesthesia Care Mac For Deep Complex Complicated Or Markedly Invasive Surgical Procedure,C0812595,1,1.0
+Predominately,C0332251,3,1.0
+Aspirate Substance,C0370199,7,1.0
+Compliance With Treatment,C1321605,4,1.0
+Exudates And Transudates,C0015389,1,1.0
+Pleural Effusion Associated With Pulmonary Infection,C0264550,12,1.0
+Verifying Speciman,C1553511,5,1.0
+Sedations Deep,C1956064,1,1.0
+Anesthesiology . Team,C4740258,2,1.0
+Sequencing Target Region,C4727201,1,1.0
+With Colour,C0522507,2,1.0
+Head Position Finding,C0582540,1,1.0
+Pleural Fluid Cytology,C2082500,2,1.0
+Portal Vein And Hepatic Vein,C1978442,3,0.9899999999999999
+Diverticulum Of Renal Calyx,C2315541,6,0.9933333333333333
+Pleural Cytology,C5421093,1,1.0
+Obstructive Diseases,C0746982,2,1.0
+Lower Extremity . Left Lower Leg,C0230443,1,1.0
+Injector Device,C0181342,1,1.0
+Duplication Finding,C0332597,7,0.9831069267846663
+Slightly Above,C3843214,4,1.0
+Pain In Right Lower Limb,C0564823,1,1.0
+Defect Wedge Shaped,C1394863,2,1.0
+Structure Of Bone Marrow Fatty Tissue,C0229602,3,1.0
+Structure Of Red Bone Marrow,C0229624,2,1.0
+Situational Awarenesses,C0004448,7,1.0
+History Of Stroke Of Cerebellum,C4039739,1,1.0
+Nasal Septum Structure,C0027432,5,0.9506940499321115
+Hiv Related,C1550476,1,1.0
+Cerebral Infarction Posterior Circulation Brain Stem Infarction,C0521542,3,1.0
+C News,C0599899,1,1.0
+Ldlr Chaperone Mesd Sentrin Specific Protease 1 Fusion Protein,C3537413,2,1.0
+Inferior Mesenteric Artery Occlusion,C4536461,1,1.0
+Mesenteric Root,C4524867,3,1.0
+Diminutive,C3842384,16,1.0
+Structure Of Mesenteric Vein,C0025473,5,1.0
+Abnormality Of The Liver,C4021780,4,1.0
+Retaining,C0333118,2,1.0
+Supraorbital,C2987152,1,1.0
+Contrast Enhanced Magnetic Resonance Imaging,C1707501,6,1.0
+Pain Question,C5420158,1,1.0
+Monochrome Image,C2827989,2,1.0
+Severe Hydronephrosis,C0237061,1,1.0
+Structure Of Calyx,C0022651,1,1.0
+Resected Mass,C1335760,2,1.0
+Periventricular White Matter Changes,C1853380,2,1.0
+Parenchymal Atrophy,C5563180,6,1.0
+Physiologic Imaging,C1517324,2,1.0
+Reliable,C3858758,3,1.0
+Lesion With Spiculated Margin,C1268670,11,1.0
+Numbness Of Left Leg,C2219779,2,1.0
+Vascularization,C0042382,1,1.0
+Bypass Graft Thrombosis,C4087533,2,1.0
+Cold Left Leg,C2106378,1,1.0
+History Of Emphysema,C4047992,1,1.0
+Maroon Stools,C2130275,2,1.0
+Thrombosis Thrombus,C0302148,2,1.0
+Radiotracers,C0597354,11,1.0
+Red Blood Cell Scan,C0948706,1,1.0
+Intra Abdominal Haemorrhage,C0236178,5,0.99
+Blood Product Administration By Intravascular Infusion,C0005841,7,1.0
+Lesser Curvature Gastrohepatic Ligament Node,C2950989,1,1.0
+Patient Refused,C3845227,2,1.0
+Time Between Waking And First Smoke After 60 Minutes,C5235996,1,1.0
+Structure Of Petrous Part Of Temporal Bone,C0031266,1,0.9717866585466157
+Disorder Of Liver,C0023895,8,0.8575967446595609
+Subdural Hematomas Acute,C0749098,1,1.0
+Sulci Cerebrales,C0458394,5,1.0
+Head Sinuses,C4071871,11,0.9062103065630134
+Bone Structure Of Face,C0015455,2,0.7725745667755264
+Structure Of Inferior Wall Of Orbit,C0230060,1,0.8005148798003414
+No Defects,C4699239,1,1.0
+Maximum Thickness,C4054567,1,1.0
+Prominent Sulci,C3554072,2,1.0
+Abnormal Mass To Volume Ratio,C0544704,2,1.0
+Computerised Tomography For Guidance Localisation,C0202664,3,1.0
+Autoimmune Reactions,C0443146,3,0.8468282322148961
+Autonomic Nervous System Structure,C0004388,1,1.0
+Autoimmune Disorder,C0004364,1,0.99
+Right Antecubital Fossa,C0694665,3,1.0
+Indwelling Catheter Picc Line In Right Basilic Vein,C2049642,1,1.0
+Oedema Of Bone Marrow,C0948162,3,1.0
+Intradural Extramedullary,C5453183,2,1.0
+Tissue Diagnosis,C1546905,10,1.0
+Technetium Tc 99M 2 Methoxy 2 Methylpropylisonitrile,C0162680,2,0.995
+Kilogram Per Minute,C1532757,2,1.0
+Dropping,C1705648,14,0.9698533386374735
+Textus Muscularis Cardiacus Striatus,C0027061,1,0.9524488990678459
+Preoperative Diagnosis,C1318968,2,1.0
+Postoperative Diagnosis,C1318969,1,1.0
+Dental Assistants,C0011327,2,1.0
+Aneurysm Of Extracranial Internal Carotid Artery,C0264967,1,1.0
+Charge Electrical,C1706211,1,0.7751322932262563
+Removal Surgical Procedure,C0728940,5,0.9534792430041646
+Vascular Accident,C1386009,1,1.0
+Pud Peptic Ulcer Disease,C0030920,3,1.0
+Valsalva S Maneuver,C0042293,4,1.0
+Summary Report,C0242482,1,1.0
+Sixty Nine,C0450388,1,1.0
+Ejection Fraction : Volume Fraction : Point In Time : Heart . Ventricle . Left : Quantitative,C0488728,1,0.99
+Hypokinesis Global,C0745157,3,1.0
+Heart Left Ventricular Wall,C0504053,1,1.0
+Occult Malignancy,C0741885,3,1.0
+Developmental Venous Anomaly,C1956261,4,1.0
+Ischaemic Heart Disease Angina,C0002962,5,0.914638866143839
+Keto Acidosis,C0220982,26,0.8744666346461435
+Structure Of Left Peroneal Vein,C5437308,13,1.0
+Homogenous,C4698330,6,1.0
+Right Temporalis Muscle,C0922644,1,1.0
+Primary Central Nervous System Lymphoma,C0280803,2,1.0
+Opsiture,C0069582,3,1.0
+Urine Volume Measurement Finding,C1287298,1,0.7983170570461731
+Decreased Output Urine,C0028961,36,1.0
+Pain In Left Lower Limb,C0564822,3,1.0
+Hypothyroidism,C0020676,2,0.995
+Gastric Balloons,C0017124,3,1.0
+Greater Tuberosity,C1512275,1,1.0
+Data Sets,C0150098,1,1.0
+Vessel Origin,C1301415,2,1.0
+Rectosigmoid Diverticulum,C1395716,1,1.0
+Tracheal Ectopic Calcification,C0264324,1,1.0
+Levoscoliosis,C3494892,4,1.0
+Fat Free Diets,C0242969,2,1.0
+Emergency Physician,C4699551,1,1.0
+Intra Abdominal Abscess,C0243001,8,1.0
+Mesenteric Oedema,C1504505,1,1.0
+Cerebral And Cerebellar Atrophy,C5394605,1,1.0
+Supraclavicular Fossa,C4684527,1,1.0
+State Of Restriction,C0443288,4,1.0
+Infection Other Adverse Event,C1560945,1,1.0
+History Of Headache,C1960629,1,1.0
+Excision Of Mass Procedure,C1262070,1,1.0
+Venous Distention,C0241668,1,1.0
+Diagnostic Thoracentesis,C0843886,4,1.0
+Unresectable Mass,C0677964,1,1.0
+Vessels . Right,C4071842,1,1.0
+Metastatic Malignant Neoplasm To The Retroperitoneum,C0346992,1,1.0
+Secondary Malignant Neoplasm Of Small Intestine Incl Duodenum,C0494164,1,1.0
+Nodular Hyperplasia Of Prostate Gland,C1704272,1,1.0
+Internal Medicine Service,C5230764,4,1.0
+Surgical Transfer Action,C0348011,9,1.0
+Gastric Corpus Structure,C0227230,5,0.9507511755042237
+Upper And Lower Extremity,C0546099,1,1.0
+Anemia Profound,C0238644,5,1.0
+Infarcted,C0333541,2,1.0
+Approximately,C0332232,1,1.0
+Bronchopathy,C1611190,1,1.0
+Six Months,C4082120,3,1.0
+History Of Aspiration Pneumonia,C4040630,4,1.0
+Peribronchiolar Nodules,C3671963,4,1.0
+Amputated,C0231447,2,1.0
+Suspected Qualifier,C0750491,1,0.8228337301847329
+Narrowing Of Artery,C1388472,1,1.0
+J Wire Device,C1268545,1,1.0
+Muscular Stiffness,C0221170,3,1.0
+Bof Broncho Oesophageal Fistula,C0267094,14,1.0
+Neoplasm Of The Esophagus,C0014859,16,0.9094460149828767
+Other Sequences,C1481733,2,1.0
+Surgery . Resident,C4298921,2,1.0
+Tracheobronchial Fistula,C1963875,3,1.0
+Tracheo Bronchial,C0450123,1,1.0
+Mannosidase Endo Alpha,C1427293,1,1.0
+Recurrent Infectious Disease,C0239998,1,1.0
+Ground Glass Appearance,C0860516,1,1.0
+Recurrent Aspiration,C5233411,3,1.0
+White Matter Of Brain Syndrome,C0270612,1,1.0
+Epithelial Cells . Non Squamous,C1545484,2,1.0
+Hepatocellular,C2697585,14,1.0
+Finding Of Abdominal Drain On Exam,C2266645,1,0.776896053413372
+Recent Abdominal Surgery,C2064975,1,1.0
+Speciman Volume : Vol : Pt : Plr Fld : Qn,C1369841,1,1.0
+Examination Of Neurological System,C0027853,6,1.0
+No Movement,C4036164,2,1.0
+Pain Observations,C0030193,3,1.0
+Acute Cerebrovascular Accident,C0751956,6,1.0
+History Of Hepatocellular Carcinoma,C4039434,1,1.0
+Subphrenic,C1550311,2,1.0
+Intraoperative Ultrasound Procedure,C2368278,4,0.9975
+Resection Of Liver,C0019144,1,1.0
+Segmental Resection,C2987624,5,1.0
+Abate Action,C3853704,1,1.0
+Innominate Artery Laceration,C3507763,3,1.0
+Structure Of Left Knee,C0230432,6,0.9597631940616157
+Multisection : Find : Pt : Extremity : Doc : Us,C0881916,1,1.0
+Haematoma Of Left Thigh,C5230082,3,1.0
+Structure Of Right Knee,C0230431,3,0.8655067469995857
+Oval Shaped Lesion,C1268662,2,1.0
+Nerve Sheath,C1518248,1,1.0
+Peripheral Nerve Sheath Neoplasm,C0751689,1,1.0
+Poststenotic Dilatation,C1299346,3,1.0
+Dome Of Liver,C2953688,1,1.0
+Mitral Valve Disorder Calcification,C0919718,1,1.0
+Occupied,C1548223,6,1.0
+Does Play,C0600138,1,1.0
+Recent Infection,C2169571,1,1.0
+Metastatic Small Cell Neuroendocrine Carcinoma,C0748861,1,1.0
+Superior Vena Caval,C0521359,2,1.0
+2 Minutes,C3171718,1,1.0
+Patient Notified Context Dependent Category,C1631603,2,1.0
+Negotiations,C0680727,2,1.0
+Balloon Dilatation,C0004704,3,0.8736085877003331
+Set Of Bone Organs,C0262950,1,1.0
+Ventriculomegaly Mild,C4479578,2,1.0
+Consecutive,C1707491,3,1.0
+Mural Nodule,C1881930,4,1.0
+Ventricular Catheters,C0879220,4,1.0
+Bilateral Staghorn Calculus,C0857053,2,1.0
+Persistent Nausea,C0746782,3,1.0
+Hemorrhage Of Cerebellum,C0149854,32,0.9705299366141281
+Intraventricular Brain Hemorrhage,C0240059,2,0.787137340588454
+Structure Of Inferior Horn Of Lateral Ventricle,C0152283,8,1.0
+Icp Intracranial Pressure,C0021880,4,1.0
+Central Nervous System Mass,C1096328,1,1.0
+Performance Outcome,C4684731,3,1.0
+History Of Confusion,C4047995,1,1.0
+Primary Brain Neoplasms,C0750974,8,1.0
+Level 7,C5571103,1,1.0
+Stabilisation,C1293130,11,1.0
+Tarceva,C1135136,5,1.0
+Transtentorial Herniation,C2937226,6,0.7846357721050138
+Headphone Headset,C1708332,4,1.0
+Pansinusitis,C0558362,1,1.0
+Medical Imaging Single Photon Emission Computed Tomography,C0040399,1,1.0
+Falcine,C2987150,1,1.0
+Prefoldin Subunit 5,C1418486,3,1.0
+Hemorrhage Basal Ganglionic,C0472377,3,0.8427703929242988
+Tobacco In Any Form,C0040329,2,1.0
+Hypertensive Urgency,C0745138,6,1.0
+Chest Discomfort,C0235710,1,1.0
+Trapped Lung,C2242587,2,1.0
+Checking Action,C1283174,15,0.9221130610688276
+Respiratory Diaphragms,C0011980,2,0.7647868127085158
+Empirical,C1880496,3,1.0
+Infusion Reaction Extravasation Of Contrast Material,C4064925,2,1.0
+Enlarged Bronchial Artery,C3671682,1,1.0
+Hyperinflated Lungs,C4315216,1,1.0
+Axis Inhibition Protein 2 Human,C1454580,2,1.0
+Erosina,C2811095,2,1.0
+Pulmonary Artery And Pulmonary Vein,C0545748,2,1.0
+No Abnormal Findings,C4699246,2,1.0
+Packed Red Blood Cells,C2316467,7,1.0
+Crystalloid Solutions,C0056562,1,0.99
+Erythematous,C0332476,5,1.0
+Unable To See At All,C4722264,6,1.0
+Right Lateral Sulcus,C2949781,2,1.0
+Able To See Finding,C3874349,1,1.0
+Right Anterior Chest,C0694664,10,1.0
+Metastatic Malignant Neoplasm To The Abdominal Cavity,C0854198,3,1.0
+Mass Of Abdominal Cavity Structure,C3163960,1,1.0
+United States National Center For Health Care Technology,C0027447,1,1.0
+Bilateral Gynaecomastia,C1542805,3,1.0
+Not Change,C5570809,5,1.0
+Identification Patient,C1269815,3,1.0
+Meditech Health Record System,C3829134,1,1.0
+Analysis Sample,C1303103,1,1.0
+Is 35,C0165079,2,1.0
+Hypoxic Respiratory Failure,C3805211,26,1.0
+Attenuation Coefficient,C2986722,2,1.0
+Musculature Of Abdominal Wall,C0000739,1,0.7730307980777048
+Skin Of Right Temporal Part Of Head,C0925444,1,1.0
+Gray Matter Of Right Frontal Lobe,C2330257,2,1.0
+At Any Time,C3887636,3,1.0
+Disturbance,C2699787,1,1.0
+Aspiration Procedure,C0349707,2,0.8046244176058179
+Very Likely,C3840799,4,1.0
+Coronary Artery Structure,C0205042,13,0.7646568804984931
+Dental Filling Materials,C0440137,1,1.0
+Enlarged Pulmonary Artery,C0748109,1,1.0
+History Of Pneumothorax,C0455545,2,1.0
+Radio Opaque Acrylic Resin,C0302587,4,1.0
+Reflex Finding,C0034929,1,0.99
+Evidence Of Embolus,C2228352,3,1.0
+Definitely Present Qualifier Value,C1444703,2,1.0
+Chest Pain Occurring Suddenly As New Onset,C2073320,5,1.0
+Architectural Distortion,C2826609,11,1.0
+Diminishing,C0205216,3,0.9426605783140306
+Impaired Renal Function,C1565489,4,0.9348279045067209
+Inspire,C5139972,1,1.0
+Deep Venous Thrombosis Of The Popliteal Vein,C0747763,1,1.0
+Neoplastic Nodule,C2698446,1,1.0
+At 10,C0591126,1,1.0
+Tissue Of Cerebellum,C0007765,2,0.8835857938175726
+Haematoma Infection,C0948087,1,1.0
+Diaphragmatic Injury,C0434014,3,1.0
+Structure Of Prevertebral Lymph Node,C0229746,1,1.0
+Carcinoid Tumor Of The Lung,C0280089,10,1.0
+Field S Stain,C0440042,10,1.0
+Emergent,C0750573,19,1.0
+Lying Flat,C4699589,3,1.0
+Polygonal Nodule,C2226608,1,1.0
+Lesion Of Breast,C0567489,1,1.0
+Abdominal Aortic Calcification,C4531207,3,1.0
+Insertion Of Endotracheal Tube,C0021932,7,1.0
+Normal Kidneys,C1864785,1,1.0
+Abnormal Hepatic Function,C0086565,2,1.0
+Increased Bilirubin Level Finding,C0311468,2,1.0
+Bilateral Pulmonary Infiltrates,C2939072,11,1.0
+Recurrent Relapsed Non Small Cell Lung Cancer,C0278517,9,0.9746564672821392
+Magnetic Resonance Imaging Of The Brain With And Without Contrast,C4527279,4,1.0
+Vascular Lesions,C1402315,1,1.0
+Intractable Abdominal Pain,C4047369,1,1.0
+Structure Of Left Gastric Artery,C0226298,1,1.0
+Structure Of Renal Vein,C0035092,7,0.7712063774624056
+Thalamic Structure,C0039729,9,1.0
+Cholelithiasis With Obstruction,C0267862,1,1.0
+Cephalodynia,C0018681,3,0.8065466079345548
+Left Lentiform Nucleus,C2950746,3,1.0
+Left Thalamus,C2340044,13,1.0
+Tdgf1P5 Gene,C3469970,1,1.0
+Clinical Statement,C3242447,1,1.0
+Catheter Exit Site,C4303069,1,1.0
+Bruit,C0006318,2,1.0
+Visual Acuity Of Left Eye With Cycloplegia Physical Finding,C2087366,1,1.0
+4 Severe,C3869872,1,1.0
+Slitting,C0184904,3,1.0
+Curved Tube,C1511565,1,1.0
+Cardiac Structure,C0018787,2,1.0
+Intravenous Infusion Procedures,C0021440,1,0.754249651662093
+Debating,C0870392,4,1.0
+Coarse Breath Sounds,C3666016,8,1.0
+Surgical Incisions,C0184898,4,0.9442124166827417
+Base Of The Brain,C1511067,1,1.0
+Ten Day Report,C1710369,1,1.0
+Sensory Perception Function,C0036658,1,1.0
+1 4 Methylthiophenyl 2 Aminopropane,C1566262,2,1.0
+Metatarsal Bone Structure,C0025584,5,0.9576459240190431
+5 Days Ago,C5570860,2,1.0
+Htmllinktype Prev,C1552852,5,1.0
+History Of Tracheostomy,C0455660,2,1.0
+Total Opacity,C4699261,5,1.0
+Blood Gas Oxygen Saturation Measurement,C0523807,9,1.0
+Empty Sella Turcica Syndrome,C0014008,4,1.0
+Disorder Of Blood Vessel,C0042373,5,1.0
+Form A,C0555455,2,1.0
+Further Follow Up,C5452898,2,1.0
+Partial Loss,C3845645,1,1.0
+Pleural Edema,C4313026,2,1.0
+Regurgitating,C0232606,2,1.0
+Observation Of Motor Function Of Tongue,C0426982,2,1.0
+Hilar Density,C0744902,16,1.0
+Failing,C0231175,12,1.0
+Conclusive,C2828146,7,1.0
+Exceeding,C5446435,2,1.0
+Laryngeal Ulceration,C0264308,3,1.0
+Attaching Action,C0185023,1,1.0
+Multiple Surgical Procedures,C4060786,1,1.0
+Gore Tex,C0018088,15,1.0
+Reconstruction Of Chest Wall,C0405930,36,1.0
+Syndesmophyte,C0221690,1,1.0
+Tracheomegaly,C4023705,1,1.0
+Sliding Hiatus Hernia,C0376710,1,1.0
+Fluid Shifting,C0242705,1,1.0
+Cancer Of Lung Stage Iii,C0862847,6,0.9275447804938777
+Relapsing Course,C0205336,1,1.0
+Mediastinal Density,C0746450,6,1.0
+Operative Procedures,C0038895,2,0.7932786106433007
+Stage Iii Lung Adenocarcinoma Ajcc V7,C0854987,1,1.0
+Arteries Femoral Iliac,C0545728,3,1.0
+Variability,C2827666,3,1.0
+Operative Bleeding,C3267156,7,1.0
+Structure Of Right Upper Quadrant Of Abdomen,C0230177,7,0.7791402228657114
+Lesion Of Posterior Fossa Of Cranial Cavity,C4302056,15,1.0
+Sanguinous,C3841391,1,1.0
+Intracranial Surgery,C0745377,5,1.0
+Chronic Subdural Hemorrhage,C0749095,1,1.0
+Dissecting Aneurysm Of Artery,C0002949,1,1.0
+Vascular Change,C1410790,1,1.0
+Arrival Action,C1706079,4,0.9533944107193892
+With High Blood Pressure,C0857121,23,1.0
+Dilatation Of Pulmonary Artery Unspecified,C0428851,1,1.0
+Embolic Occlusion,C4290180,1,1.0
+Copious,C3845930,18,1.0
+Came,C0960273,6,1.0
+Moderately Better,C4086592,2,1.0
+Tissue Type Plasminogen Activator,C0084796,1,1.0
+Structure Of Anterior Nuclear Group Of Thalamus,C0228316,1,1.0
+Thrombotic Stroke,C0242129,1,1.0
+All Other,C5425799,4,1.0
+Face Tent Oxygen Delivery Device,C0180824,3,1.0
+Reduced Lung Volume,C5563137,1,1.0
+Bullet Shape,C1706207,1,1.0
+Pulmonary Blood Circulation,C0034057,8,1.0
+Erythema Of Forearm,C1536329,2,1.0
+Structure Of Outflow Tract Of Right Ventricle,C0225892,5,0.7952963958518033
+Judet,C4299016,1,1.0
+Prosthetic Right Hip,C2123405,1,1.0
+Anterior Lower,C0442000,1,1.0
+Set Of Muscles Of Left Thigh,C0923502,1,1.0
+Chest Lung . Bilateral,C4266611,1,1.0
+Suboptimally Visualized,C4700189,4,1.0
+Total Knee Joint Prosthesis,C0182477,1,1.0
+Facet Hypertrophy Joints,C0743797,1,1.0
+No Traumatic Injury,C5547052,1,1.0
+Prosthetic Hip,C2123404,1,1.0
+Other Source,C3846540,6,1.0
+Dna Sequence Cloning Site,C1705686,3,0.9263900990690651
+End Expiratory,C0442700,2,1.0
+Middle Mediastinal Mass,C5539835,2,1.0
+Diseases Of The Lymph Nodes,C0272394,1,1.0
+Phlebotomy For Diagnostic Test,C0190979,3,1.0
+Cleaning Activity,C1947930,7,1.0
+Application Of Bandage Procedure,C0150468,3,1.0
+Right Insula,C2331118,1,1.0
+Strumpell Leichtenstern Encephalitis,C0276226,2,1.0
+Bacterial Embolus,C0333222,5,0.8707625274366692
+Fever Hiv,C0744968,1,1.0
+Brain Fever,C1399571,1,1.0
+Ideal,C1512612,2,1.0
+Measurement Of Creatinine,C0201975,1,1.0
+Temporal Lobes Anterior,C5545316,2,1.0
+Temporal And Frontal Lobes,C0546015,1,1.0
+Prominent Vasculature,C5194648,1,1.0
+Dilatation Of The Lateral And Third Ventricles,C3806266,2,1.0
+Inverting,C2349984,1,1.0
+Hematogenous,C1512376,4,1.0
+Superomedial,C1179865,2,1.0
+Infectious Pneumonitis,C2721563,3,1.0
+Mgc129621,C1421114,2,1.0
+Wound Of Chest,C0742361,1,1.0
+Vicryl Suture,C1576039,3,1.0
+Severe Allergy,C2945656,4,1.0
+Calvarial Skull Defect,C4025787,1,1.0
+Unknown Origin Qualifier Value,C0332240,3,1.0
+Applies To Hl7 Value Set And Coded Concept Property Codes,C1553879,1,1.0
+Valsalvas,C0750122,3,1.0
+Surgical Intervention Finding,C0549433,6,1.0
+Structure Of Internal Thoracic Vein,C0226633,1,1.0
+Marginal Quality,C1947914,1,1.0
+Chronic Inflammatory Disorder,C1290886,1,1.0
+Rapid Atrial Fibrillation,C1281999,2,1.0
+Presumptive,C3640893,1,1.0
+Clavicle Right,C0507156,3,0.8370546162575995
+Fear Mental Process,C0015726,4,1.0
+Apical Lordotic,C4298964,1,1.0
+Neoplastic Large Cell,C1513997,35,1.0
+Anoxic Encephalopathy,C0003132,5,1.0
+Large Cell Undifferentiated Lung Carcinoma,C0345958,10,0.7960817899033794
+Difficult Tracheal Intubation Finding,C0549401,1,0.79687592076611
+Chronic Sinus Disease,C0748720,2,1.0
+Reactivation Tuberculosis,C0275965,1,1.0
+Slightly Below,C3843215,1,1.0
+Airway Compression Or Obstruction,C0238610,1,1.0
+Direct Visualization,C3846514,6,1.0
+Alveolar Oedema,C2939069,2,1.0
+Too High,C4036058,5,1.0
+Fasteners T,C0878823,10,1.0
+Puncture Of Skin,C0847630,2,1.0
+Ambisome,C0591076,2,1.0
+Therapeutic Interventions,C0087111,1,0.7990705456541933
+Segment Of Colon,C2332535,1,1.0
+Ischaemic Colitis,C0162529,28,1.0
+Caecal Inflammation,C0267537,1,0.7676848526444449
+Oesophageal Carcinoma Site Unspecified Recurrent,C0854761,1,1.0
+Abnormality Of The Skeletal System,C4021790,3,1.0
+Last Two Days,C4526586,1,1.0
+Intrathoracic Lymphadenopathy,C0235593,2,1.0
+Breast Irregular Nodularity,C0024103,1,1.0
+Day 1,C5441961,5,1.0
+Patient Comfort,C4277744,2,1.0
+Present Throughout The Entire Procedure,C1301830,5,1.0
+Type Of Procedure,C0455713,1,1.0
+Underground Railway Line,C0562999,1,1.0
+7 Fr,C4068969,3,1.0
+Indwelling Catheter Picc Line Removal,C2049652,1,1.0
+Cardiac Neoplasm Uncertain Behavior Of Pericardium,C0349574,2,1.0
+Elevated Lactate Level,C4054756,6,1.0
+Liver With Stomach,C0304934,1,1.0
+Mass Of Mesentery,C3670831,1,1.0
+Adenocarcinoma Of The Small Intestine,C0278803,1,1.0
+Flagyl,C0699678,4,1.0
+Arterial Hypotension,C0020649,2,0.8501688531343146
+Stereotactic Localization,C4489436,2,1.0
+Trephination Of Cranium,C0040836,6,0.7985433814973865
+Pulmonary Emphysema,C0034067,5,1.0
+Pulmonary Hyperinflation,C1167782,1,0.7652820605585072
+Necrotizing Granulomatous Inflammation,C0021386,1,1.0
+Tags Device,C1139855,1,1.0
+Cardiomegaly Of Left Atrium,C0238705,3,0.9855455427574831
+General Surgical Instruments,C0038928,5,1.0
+Aplasia Of The Epiglottis,C4024628,1,1.0
+3 Views,C0882612,5,1.0
+Structure Of Body Of Lateral Ventricle,C0152280,2,1.0
+Neoplasm Of The Neuroglia,C0017638,7,0.956713579537045
+Mild Scarring,C1844594,1,1.0
+Exhibitions As Topic,C0015272,1,1.0
+Respiratory Airway Obstruction,C0600260,3,1.0
+Ossifying,C0231556,2,1.0
+Metastatic Non Small Cell Carcinoma,C4720862,3,1.0
+Second Primary Neoplasms Metachronous,C0085183,1,1.0
+Decadron,C0740057,8,1.0
+Regurgitation Of Left Atrioventricular Valve,C0026266,2,1.0
+Subdivision Of Gastroduodenal Artery,C1182516,4,1.0
+Post Empyema,C2062963,2,1.0
+Outs Time,C0871938,3,1.0
+Anterolateral Part Of Chest Wall,C4322847,1,1.0
+Tubulin Tyrosine Ligase Like Family Member 5,C1823540,2,1.0
+Chin Down,C4068930,2,1.0
+Pre Surgery,C0441943,1,1.0
+Hormone Secretion By Carcinoid Tumour,C0024586,9,1.0
+Tumour Destruction,C1446301,2,1.0
+Cryoprecipitated Plasma With Antihemophilic Factor,C5553020,2,1.0
+Extremity . Bilateral,C0947116,1,1.0
+Acute Disease Disorder,C0001314,1,1.0
+Pyloric Antrum Structure,C0034193,2,0.8884643494252661
+Treatments Tuberculosis,C0749724,1,1.0
+Treating Tuberculosis,C0749723,1,1.0
+Structure Of Ascending Portion Of Duodenum,C0227303,4,1.0
+4 Weeks,C1442465,10,1.0
+Vascular Bypass,C0750143,1,1.0
+Unspecified Fracture Of Pubis,C0347806,1,1.0
+Response To Antibiotic,C1154706,1,1.0
+En Bloc,C1516835,3,1.0
+Extremely Difficult,C3843354,4,1.0
+Metallic Stents,C0441290,1,1.0
+Body Of Uterus Structure,C0227813,18,1.0
+Structure Of Genu Of Corpus Callosum,C0152321,8,1.0
+Multicystic,C4697724,2,1.0
+Unusual Infection,C5139132,1,1.0
+Possessions,C0871103,1,1.0
+Specimen Source Codes Polyps,C1546747,1,0.7560362747336463
+Communicating Hydrocephalus,C0009451,3,1.0
+Bony Fusion,C4313588,1,1.0
+Structure Of Body Of Corpus Callosum,C0152320,1,1.0
+Thrombosis Of Vein Of Upper Limb,C0749848,1,1.0
+X Ray Of Foot : Postoperative Findings,C2207306,6,1.0
+Structure Of Frontal Lobe Gyrus,C0228195,2,0.9084220687354829
+Animal Hide,C1719994,1,1.0
+Ependymal,C0521405,4,1.0
+Vestibular Schwannoma,C0027859,1,1.0
+Dilatation Of The Descending Thoracic Aorta,C4025266,1,1.0
+Ot Operating Theatre,C0029064,3,0.896135042321433
+Internal Auditory Canal Right,C0947140,1,1.0
+Aneurysm Of Ascending Aorta,C0856747,1,1.0
+Seated Positions,C2584297,1,0.9315100100591671
+Cap Formation Cell Function,C0302167,3,1.0
+Occipital And Temporal Lobes,C0546009,5,1.0
+Lumen Of Gallbladder,C0736580,5,1.0
+Adnexal Masses,C0149614,6,1.0
+Maxillary Left First Premolar Mesial Prosthesis,C1553570,5,1.0
+Hospital Information Systems,C0019972,2,1.0
+Mandibular Left Second Molar Mesial Prosthesis,C1553590,1,1.0
+Ct Pulmonary Angiogram,C4286018,1,1.0
+Ventilation Status,C0518239,1,1.0
+Area 18 Of Brodmann Guenon,C3853802,5,1.0
+Statistical Dispersion,C0332624,1,1.0
+Lvh Left Ventricular Hypertrophy,C0149721,3,0.9899999999999999
+Surface Of Left Sixth Rib,C4243523,1,1.0
+Lead Placement,C2346652,2,1.0
+Temporary Pacemaker,C0282007,3,1.0
+Assess For Edema .,C0548299,1,1.0
+Left Cardiac Artery Dominance,C3275098,2,1.0
+Exaggerated Lordosis,C3810512,1,1.0
+Septicaemic Shock,C0036983,7,1.0
+Peristaltic Sound Absence,C0232696,3,1.0
+No Obstruction Of Airway,C0425452,3,1.0
+Downwards,C0205104,1,1.0
+Practitioner,C1709627,2,1.0
+More Than A Week,C4036221,1,1.0
+Acute Respiratory Decompensation,C0748352,2,1.0
+Postoperative Seroma,C1998103,6,1.0
+Neoplasia Of The Pancreas,C0030297,1,1.0
+Ligation Of Thoracic Lymph Duct,C0193907,4,1.0
+Removal Tumor,C0749736,6,1.0
+Region Of Thoracic Inlet,C3686702,1,1.0
+Chylous Pleural Effusion,C0008733,1,0.8450094168241449
+Pyrexia With Chills,C0085594,2,1.0
+Partial Pneumonectomies,C0747649,2,1.0
+Hemorrhagic Pericardial Effusion,C3670880,7,1.0
+Inflammatory Lung Disease,C4230430,2,1.0
+Tent Recreation Equipment,C0677506,1,1.0
+Central Veins,C1116449,1,1.0
+Ventilatory Support,C4748623,5,1.0
+Residual State,C1609982,3,0.9203147691079844
+Increased Intravascular Volume,C1372361,1,1.0
+Disorders Motility,C0679316,1,1.0
+Scoliosis Of Thoracolumbar Spine,C0749379,2,0.9235741304623056
+Medical Port Access Device,C5419473,3,1.0
+Goals Of Care,C2930505,4,1.0
+Recovering From,C0521108,1,1.0
+Discharge Procedure,C0030685,1,1.0
+Rehabilitation Treatments,C0034991,1,0.8116378316334927
+Infusion Therapy,C4316303,2,1.0
+Entire Lung Field,C4512230,2,1.0
+Large Blood Vessel Structure,C0225990,2,1.0
+Prepontine Cistern,C1514399,5,1.0
+Subgaleal Fluid,C1550305,2,1.0
+Already Performed,C3242068,1,1.0
+Obstructive Lesion,C3872566,1,1.0
+Assumed,C3242379,5,1.0
+Hospital Icu,C4035596,1,1.0
+Cardiopulmonary Status,C4714870,4,1.0
+Tingling Sensation,C2242996,1,1.0
+Hyperplasias Focal Nodular,C0333980,1,1.0
+Stop Brand Of Fluoride,C0723457,3,1.0
+Biliary Tract Laparoscopy Assessment Gallbladder Appeared Normal Treatment,C2223402,1,1.0
+Hepatic Fibrosis Unspecified,C0239946,3,0.8297617688631432
+Lung Carcinoma Metastatic In The Brain,C1334441,3,1.0
+Circular Lesion,C2168702,1,1.0
+Perioperative Haemorrhage,C4546042,1,1.0
+Confirmatory Consultation Report,C1269806,2,1.0
+Chronic Emphysema,C1265792,2,1.0
+Structure Of Rostrum Of Corpus Callosum,C0152322,3,1.0
+Adnexal Structure Of Skin,C0459723,3,1.0
+Surgical Removal Of The Breast,C0024881,5,0.8644765062842075
+Contusion Of Cerebrum,C0750971,3,1.0
+Ring Finger Structure,C0230398,1,1.0
+Dislocation Incomplete,C0332768,1,1.0
+Recurrent Joint Dislocations,C0012691,7,0.7889998689956773
+Bone Structure Of Middle Phalanx,C3669031,6,0.9900000000000001
+Structure Of Anterior Horn Of Lateral Ventricle,C0152281,3,0.9966666666666667
+Hypervascular Lesion,C3872436,2,1.0
+Lesions With Central Necrosis,C2071280,2,1.0
+Generalised Illness,C0849867,4,1.0
+Gastrohepatic Lymph Node,C3899039,1,1.0
+Optase,C1711699,14,1.0
+Bloody Discharge Finding,C0333271,1,1.0
+Preparation,C1521827,4,1.0
+Neoplasm Vascular Supply,C0920621,1,1.0
+Sharing Social Behavior,C0237876,1,1.0
+Tension Pneumocephalus,C0349609,1,1.0
+Lesion Of Oesophagus,C0577007,2,1.0
+Abutments,C0545406,3,1.0
+Observation Of Thoracic Spine,C0575266,1,1.0
+Wall Of Pulmonary Artery,C0736873,1,1.0
+Stack,C3272897,1,1.0
+Partial Resection Of Lung,C0841913,1,1.0
+Postoperative Scarring,C0334150,1,0.7606283846398598
+Structure Of Left Iliac Vessel,C4543217,1,1.0
+History Of Tracheo Oesophageal Fistula,C4041464,1,1.0
+Airway . Distal,C0809763,4,1.0
+Free Wall Of Left Atrium,C0504033,2,0.9024259518943707
+Not Provided Qualifier Value,C3661900,1,1.0
+Neoplasm Of Frontal Lobe Of Brain,C1263886,2,1.0
+Trabecular Substance Of Bone,C0222660,1,1.0
+Neurological Symptom Findings,C0235031,7,1.0
+Bronchogenic Cancer,C0741800,1,1.0
+Impression Attitude,C0596764,1,0.768175101610897
+Abscess Fluid,C4726050,5,1.0
+Perforation Observation,C0549099,1,0.7809789993290598
+Ventilator Dependent,C0750173,2,1.0
+Post Colectomy,C2063007,3,1.0
+Abdominal Fluid,C2699330,6,1.0
+Left Inferior Frontal Gyrus,C2327613,1,1.0
+Lymphoproliferative Disorder,C0024314,1,1.0
+Squamous Cell Carcinoma Recurrent,C4304995,2,1.0
+Cecum And Ascending Colon,C0391909,1,1.0
+Colon Inflammation,C0009319,5,0.780966529282846
+Crohn S Regional Enteritis,C0010346,1,1.0
+Compartmental Syndrome,C0009492,5,1.0
+6 Weeks,C5452880,3,1.0
+Line 3,C3843264,1,1.0
+Mortise,C1979932,3,1.0
+Tibia And Fibula,C0947635,4,1.0
+Injury Old,C0332666,1,1.0
+Palpable Mass,C0746412,3,1.0
+Vascular Narrowing,C0679403,1,0.8161332359216694
+Unstable Condition,C0443343,1,0.7562882126358885
+Bronchopulmonary Fistulas,C0741802,12,1.0
+Circumflex,C1880089,3,1.0
+Zosyn,C0250482,1,1.0
+Endobronchial Stent Placement,C4528581,3,1.0
+Exterior,C4698034,2,1.0
+Consequent,C3845876,1,1.0
+Decreased Oral Intake,C1504561,3,1.0
+Activities Seizures,C1148454,7,1.0
+Left Pulmonary Artery Branch,C1282009,1,1.0
+Multiple Benign Circumferential Skin Creases On Limbs,C0473586,1,1.0
+Malignant Hodgkin S Lymphoma,C0019829,3,1.0
+Ablation Radiosurgical,C0085203,1,1.0
+Parasitemias,C0242723,2,1.0
+Infusion Procedures,C0574032,1,0.772044316093651
+Abnormal Blushing,C0848446,1,1.0
+Atherosclerotic Ulcers,C2063691,7,1.0
+Anatomic Variant,C1254472,2,1.0
+Urinary Retention Ctcae,C1558141,3,1.0
+Mantle,C3846131,1,1.0
+Outcome Of Therapy,C1518681,1,0.7719859405729831
+Cauda Equina Syndrome,C0392548,8,1.0
+Vertebral Endplate Irregularities,C1842153,1,1.0
+Second Lumbar Spinal Nerve,C0501594,1,1.0
+Fourth Lumbar Spinal Nerve,C0501792,3,1.0
+Left Anterior Descending Septal Perforator Artery,C3640689,1,1.0
+Intramural Plaque,C4528301,1,1.0
+Complete Airway Obstruction,C2106667,1,1.0
+Calcified Lung Nodule,C5442224,2,1.0
+Intermittent Shortness Of Breath,C0748646,1,1.0
+Mils,C0872216,1,1.0
+Clumping,C0205387,1,1.0
+Arm Injection,C1293234,1,1.0
+Vascular System Disorders Obstruction Superior Vena Cava,C1336532,1,1.0
+Relieved Qualifier Value,C1301771,2,1.0
+Indexes As Topic,C0918012,6,0.874000635518375
+Pain In Calf,C0236040,3,1.0
+Ct Protocol,C0056574,1,1.0
+Malignant Epithelial Neoplasm Of Brain,C3163932,1,1.0
+Brained Right,C0815007,1,0.7742988292951779
+Brain Cells,C0596208,3,1.0
+Decreased Strength Of Facial Muscles,C0427055,7,0.9104307520765798
+Bronchopulmonary Segment Of Bronchial Tree,C1180564,1,1.0
+How Much Bothered By Arm Weakness In Affected Arm,C4724557,10,1.0
+Structure Of Parietal Lobe Gyrus,C0228209,2,1.0
+Gray Matter Of Left Parietal Lobe,C2327679,1,1.0
+Intracranial Injury,C0347535,2,1.0
+Left Atrial Mass,C0745673,3,1.0
+Elicited By,C0449265,8,1.0
+Thromboembolic,C0333214,8,1.0
+Fuzzy Head,C0541974,1,1.0
+Testicular,C0205070,4,1.0
+Ultrasound Of The Scrotum,C0845888,4,1.0
+Bronchial Stent Occlusion,C4087352,2,1.0
+Mass Of Heart,C3670832,1,1.0
+Left Postcentral Gyrus,C2329204,2,1.0
+Cables Leads Electroencephalography,C1457929,1,1.0
+Minimal To Mild,C3686831,2,1.0
+Structure Of Postcentral Gyrus,C0152302,2,1.0
+Hydroureteronephrosis,C0268804,1,1.0
+Oxygen Supply Tubing,C0727365,1,1.0
+Metastatic Squamous Cell Carcinoma,C0334246,5,1.0
+Pulmonary Ischemia,C0920711,1,1.0
+History Of Carcinoma,C0559146,1,1.0
+Bilateral Extrarenal Pelvis,C3495914,1,1.0
+A Recent Injection,C2169572,1,1.0
+Physician S Assistants,C0031833,2,0.995
+Acute Inflammation Of Nasal Sinus,C0149512,6,1.0
+Magnetic Resonance Imaging Mri Of Chest,C0202826,4,1.0
+Narrowing Of An Artery,C0038449,2,1.0
+Atrophy Of Kidney,C0341698,2,1.0
+Abdomen Kidney . Left,C4266649,1,1.0
+Peripelvic Cyst In The Right Kidney,C2053636,1,1.0
+Abdomen Renal Artery . Left,C4266640,1,1.0
+Bilateral Kidney Degeneration,C4022835,1,1.0
+Aortic Valve Stenosis,C0003507,1,0.8260733391348107
+High Intensity,C4081854,1,1.0
+Bp Blood Pressure,C0005823,1,1.0
+Advocate Person,C1510823,1,1.0
+Three Dimensional Magnetization Prepared Rapid Gradient Echo Imaging,C4331410,1,1.0
+History Of Neutropaenia,C4040114,1,1.0
+Lingular Pneumonia,C1960024,1,1.0
+Chronic Hypertension,C0745114,1,1.0
+Malignant Lymphoma B Cell Type,C0079731,3,1.0
+Segmental Bronchus Of Left Lower Lobe,C0823543,2,1.0
+Hypersensitivity Reaction,C0020517,2,1.0
+Bone Infarction,C0877326,3,1.0
+Viral Pneumonia,C0032310,1,1.0
+Sterility Reproductive,C4074771,3,1.0
+Incomplete Resection,C4330937,6,0.9183210406442259
+Structure Of Half Of Thoracic Cavity Lateral To Midsagittal Plane,C0933795,1,1.0
+Pureed,C5571047,2,1.0
+Post Surgical Complication,C5236018,1,1.0
+Disease Related,C4697687,1,1.0
+Out Of Range,C3845292,1,1.0
+Cannula Placement,C4727853,2,1.0
+Myocardial Infarctions Diaphragmatic,C0340305,30,1.0
+Skew Deviation,C0271381,2,1.0
+Less Than 50 000,C3840655,1,1.0
+Moderate Cerebral Atrophy,C4313070,2,1.0
+Incremental,C1705117,2,1.0
+Traumatic Infarct Morphologic Abnormality,C3266049,2,1.0
+Oedema Of Spinal Cord,C0270777,1,1.0
+Olisthesis,C5545315,3,1.0
+Compounding,C0205198,1,1.0
+Existing Catheter,C4318722,5,1.0
+Respiratory Status : Finding : Point In Time : Patient : Nominal,C2598485,6,1.0
+Blue Codes,C0150518,4,1.0
+Goes Invertebrate,C1947959,5,1.0
+Posterior Longitudinal Ligament Structure,C0206330,1,0.870649489064646
+Fourth Rib Fracture,C0920005,3,1.0
+Fracture Of Odontoid Process,C0559777,3,1.0
+C1 Fracture,C5453020,1,1.0
+Small Endplate,C4014026,1,1.0
+Rad Radiation Absorbed Dose,C0556643,4,1.0
+Biopsy Nodule,C0741505,4,1.0
+Cannulae Nasal,C0179574,1,1.0
+Maximum Systolic Blood Pressure,C1282150,1,1.0
+Diastolic Arterial Pulse Pressure,C0428883,1,0.8975379831116469
+Radiology . Attending,C4298923,2,1.0
+Search Action,C1706202,1,1.0
+Partial Laminectomy,C0442934,3,1.0
+Bolus Infusion Procedure,C1511237,1,0.8498220332015609
+Orally,C0442027,8,0.9643250490685201
+Posterior One Third Of Tongue,C0226958,3,1.0
+Piecemeal Deglutition,C4062829,1,1.0
+Oral Residue Following Swallowing,C4288552,4,1.0
+Oropharyngeal Dysphagia,C0267071,7,0.992857142857143
+Production Sputum,C0242104,7,1.0
+Does Move Head,C0562007,1,1.0
+Presumed,C4684849,3,1.0
+Bed Status,C1550394,1,1.0
+Prn Schedule Frequency,C1879745,2,0.995
+Pancoast Tumor Resection,C0747171,5,1.0
+Complication Of Blood Transfusion,C0274435,1,1.0
+Neoplasm Of The Pleura,C0032229,6,1.0
+Megastes,C3283971,1,1.0
+Acute Cardiogenic Pulmonary Oedema,C0398350,2,1.0
+Cardiac Transvenous Pacemaker Device,C0336574,8,1.0
+Battery Pack,C3872753,1,1.0
+Subjective Fever,C0743979,1,1.0
+Left Iliacus Muscle,C0815699,3,1.0
+Pulmonary Radiation Alveolitis,C0206063,10,0.8558619814402126
+Acute Hypotension,C0745176,6,1.0
+Infraclavicular Region Structure,C0230108,3,1.0
+Swallow Evaluation,C1711246,5,1.0
+Omitting,C0750563,1,1.0
+Tissue Lysis,C0024348,1,1.0
+Abscess Of Liver,C0023885,1,1.0
+Slightly Difficult,C3843356,1,1.0
+Diagnostic Imaging,C0011923,2,0.7550049965873735
+Structure Of Artery Of Abdomen,C0559365,3,0.9492642577968339
+Thrombosis Of Inferior Vena Cava,C0549289,1,1.0
+Congest,C0700150,1,1.0
+Electrocardiogram : Ventricular Rate,C2189285,1,1.0
+No Shortness Of Breath,C4054349,1,1.0
+Structure Of Axillary Soft Tissues,C0230336,1,1.0
+Limited Ct Scan,C4028811,1,1.0
+High Blood Pressure Medicines,C0003364,1,0.773126229677352
+4 Days Ago,C5570859,4,1.0
+Radiation Cyberknife,C1300683,2,0.7548817086175232
+Cell Cycle Regulator Of Nonhomologous End Joining,C1824234,4,0.846998423196589
+Anterosuperior,C1179849,2,1.0
+Obliques,C0205315,2,0.8834989017205911
+Spinal Cord Lesions,C0241224,7,1.0
+Adenocarcinoma Of Lung Disorder,C0152013,9,1.0
+Spinal Cord Involvement,C0748903,4,1.0
+Edema Increasing,C0743393,6,1.0
+Thrombus Formation,C4717432,2,1.0
+Hydrocephalus With Atresia Of Foramina Of Magendie Luschka,C0010964,1,1.0
+Prominent Lateral Ventricles,C5394432,1,1.0
+Metastatic Malignant Neoplasm In The Spinal Cord,C0347016,5,1.0
+Informative,C2986490,1,1.0
+Spinal Nerve Root And Spinal Cord,C0546042,1,1.0
+Third Lumbar Spinal Nerve,C0501791,1,1.0
+Varicocid,C0078051,2,1.0
+Anterior Spinal Nerve Root Structure,C0205956,1,1.0
+Perirectal,C1550291,3,1.0
+Slow Growth Rate,C4086857,2,1.0
+Ns Neck Stiffness,C0151315,1,1.0
+Guards,C3687617,2,1.0
+In The Last Month,C4331910,3,1.0
+History Of Gastrectomy,C1998046,1,1.0
+B2 Billroth Ii Partial Gastrectomy,C0192444,1,1.0
+I Little N Super Little B,C2737063,1,1.0
+Standard Chest X Ray Normal,C0239026,1,1.0
+Ct Guided Thoracentesis,C4040661,3,1.0
+Transudative,C0311436,1,1.0
+Symptomatic Relief,C3242309,1,1.0
+Pink Tinged,C4699303,1,1.0
+Within Last 24 Hours,C3897986,5,1.0
+Risk For Bleeding,C3251812,4,1.0
+Chemoradiation Therapy,C3468348,2,1.0
+Process The Religious Affiliation,C1578672,1,1.0
+Near To,C1706276,3,1.0
+Pulmonary Interstitial Thickening,C5539772,1,1.0
+Planning Treatment,C0599880,1,0.7722313063612383
+Metastatic Malignant Neoplasm To Kidney,C0153685,3,1.0
+Interlobular Artery,C1512856,1,1.0
+Procedure Table,C1550373,1,0.7598492339492442
+Study Site Dissolved,C4331352,1,1.0
+Vascular Bed,C0598051,1,1.0
+Cp Chronic Pancreatitis,C0149521,8,1.0
+Splayed,C4086866,7,1.0
+Augmentation Of Vocal Cords,C0189254,3,1.0
+Intratracheal Anesthesias,C0002919,1,1.0
+Epidermal Growth Factor Receptor Protein Tyrosine Kinase,C3812393,2,1.0
+Cessation Of Life,C0011065,1,0.99
+6 Fr,C4068970,1,1.0
+Removable,C1882925,1,1.0
+Left Adnexa,C0237018,2,1.0
+Dilated Pancreatic Ducts,C4315741,2,1.0
+Embolus Lower Extremity,C0151618,1,1.0
+Melanoma Staging,C0280209,1,1.0
+Lesion With High Radiographic Density,C1268672,2,1.0
+Cellulitis On Exam Physical Finding,C2025995,1,0.7770661244856079
+Cl Cirrhosis Of Liver,C0023890,3,1.0
+Aortic Annulus Calcification,C5539666,1,1.0
+Cystic Hygroma Of The Neck,C0206620,2,1.0
+Liver Function Failure,C0085605,10,1.0
+Adenomyomatosis Of Gallbladder,C1608415,2,1.0
+Appearance Of Liver,C1285891,2,1.0
+International Unit Of Biological Activity,C0439453,2,0.8619277789933634
+Decreased Albumin,C0860864,1,1.0
+Methicillin Resistant Pneumonia Due To Staphylococcus Aureus,C1142536,8,1.0
+Normal Gallbladder,C0577075,1,1.0
+Central Venous Line In The Right Internal Jugular Vein,C2202213,1,1.0
+Cancer Resection,C0741886,2,1.0
+Lateral Oblique,C0442295,2,0.9383812984091511
+Structure Of Head Of Metatarsal Bone,C0825675,2,1.0
+Bone Structure Of Proximal Phalanx,C3669035,9,0.99
+Marginal Osteophytes,C3698318,1,1.0
+Plantar Calcaneal Spur,C2081646,1,1.0
+Rigidity Of 1St Mtp Joint,C0264134,1,1.0
+Biventricular Pacemakers,C1719274,1,1.0
+Adverse Effect Due To Surgery,C0221082,1,1.0
+Ct Of Chest Without Contrast,C2041475,3,1.0
+Patient Reasons,C3841428,1,1.0
+Chest Wall Closure,C1293773,1,1.0
+Sternal Dehiscence,C1536143,1,1.0
+Antimicrobial Resistant Organism Organism,C1444089,1,1.0
+Hydronephrotic,C4697725,1,1.0
+Erlotinib 150 Mg,C1628394,3,1.0
+Greater Than Seventy Five Percent,C5237175,1,1.0
+Bone Fragments,C3698366,1,1.0
+Held Inspiration Physiologic Challenge Procedure,C1293904,1,1.0
+Mildly Thick,C5571053,1,1.0
+Does Not Conform,C4524984,1,1.0
+Pneumonia Presumed,C0747694,1,1.0
+Neoadjuvant Chemoradiation Treatments,C5392215,1,1.0
+Day 4,C3840892,4,1.0
+Separating,C0443299,6,0.8913002009969956
+Augmented,C0205217,4,0.8821190123630068
+Lopressor,C0700776,2,1.0
+Agitated Behaviour,C0085631,6,1.0
+Tuberculosis Cicatrix,C1411919,1,1.0
+Granulation Of Tissue,C3806379,5,0.99
+Plural Effusion,C4012196,7,1.0
+History Of Colostomy,C0455662,1,1.0
+Left Lower Quadrant Pain,C0238551,1,1.0
+Diverticulitis Perforated,C0544794,5,1.0
+Acs Acute Coronary Syndrome,C0948089,15,1.0
+Disorder Of Vein Obstruction,C0948441,3,0.8234789720878689
+Thoracic Midline,C3841483,2,1.0
+Thoracic Back Pain,C0423684,1,1.0
+Shotty Lymph Node,C4076726,1,1.0
+Intra Operative,C0456904,2,1.0
+Pulmonary Compliance,C4054143,1,0.808647878185023
+Family History Of Myocardial Infarction,C5238701,2,0.8327140276976911
+Of Skin Surface,C1180212,6,1.0
+Disaffection,C0680237,1,1.0
+2Nd Intercostal Space,C4068811,1,1.0
+3Rd Intercostal Space,C4068810,1,1.0
+Broncho Pleural,C0545668,6,1.0
+Diaphragmatic Displacement,C2062836,1,1.0
+Discount,C1555671,1,1.0
+Unspecified Acute Lower Respiratory Infection,C0238990,1,1.0
+Progression Of Non Small Cell Lung Cancer,C1737250,1,1.0
+Airway Compromise,C4055482,3,1.0
+Precentral Motor Cortices,C3495441,5,0.9572530796863855
+History Of Undescended Testis,C4041207,1,1.0
+Specify Site Of Other New Tumor Event,C5204538,1,1.0
+Reconstruction Of Artery,C2937236,1,1.0
+Meniscus Structure Of Joint,C0224498,2,0.9729935818618459
+Prior Patient Evaluation For Current Chief Complaint,C5238849,1,1.0
+Dense Material,C3546235,7,1.0
+Intimal Sarcoma Of The Pulmonary Artery,C4684845,5,1.0
+New Onset Seizures,C0748604,4,1.0
+Prevalent,C5204628,1,1.0
+Whole Blood Or Product Procurement,C4524538,2,1.0
+Insertion Of A Foley Catheter,C0850050,1,1.0
+Vertebral Body Haemangioma,C3495935,1,1.0
+Shoulder Joints Artificial,C1961833,6,1.0
+Hesitancy Of Micturition,C0152032,5,1.0
+Intradural Route Of Administration,C1512939,6,1.0
+Tobacco Abuse,C0040336,1,1.0
+Moderate To Marked,C3686768,2,1.0
+Microhemorrhages,C0859253,1,1.0
+Product Related Impurity,C5447449,1,1.0
+Precedex,C0876757,1,1.0
+Unique,C1710548,1,1.0
+Haemodynamically Stable,C0578150,4,1.0
+Equivalent Unit,C0205163,1,1.0
+Somatic Motor Areas,C0026607,4,1.0
+Labeling Spin,C0037914,2,1.0
+Opercular Region,C3499356,1,1.0
+White Fiber,C1520138,1,1.0
+Left Primary Motor Cortex,C2324518,1,1.0
+Deficiency Vascular,C1394931,1,1.0
+Superior Intercostal Vein,C1515066,1,1.0
+Extranodal Tumor Deposits,C5197703,2,1.0
+Metastatic Malignant Neoplasm In The Neck,C0684817,2,1.0
+Upper Aerodigestive Tract Structure,C1267213,1,1.0
+Ostiomeatal Complex,C5420706,2,1.0
+Tonic Clonic Convulsion,C0494475,6,1.0
+Head Finding,C1320354,1,1.0
+Left Sided Abdominal Pain,C0563276,1,1.0
+Huntingtin Interacting Protein 1 Human,C0121811,1,0.7556587299802644
+Kidney Lesion,C1402288,5,1.0
+Renal Cyst Benign,C0748279,3,1.0
+Administrative Information Regarding Test Age Of Patient,C4698447,1,1.0
+Structure Of Distal Region Of Tail,C3686675,1,1.0
+Not Needed Qualifier Value,C1444650,3,1.0
+Original Report,C2919603,4,1.0
+Right Hip Region Structure,C0524470,5,1.0
+Vessel Biventricular Override,C5447268,3,1.0
+Hemi Arthroplasties,C0744743,1,1.0
+Merit,C5142938,1,1.0
+Resection Of Small Intestine,C0192601,5,1.0
+Day 5,C3842674,2,1.0
+Brbpr Bright Red Blood Per Rectum,C0018932,1,1.0
+Inflammation Perirectal,C1408635,1,1.0
+Nephrectomy Of Right Kidney Treatment,C2222799,2,1.0
+Pd Peritoneal Dialysis,C0031139,2,1.0
+Crao Central Retinal Artery Occlusion,C0007688,2,1.0
+Stroke Like Symptoms,C3275427,1,1.0
+High Grade Lesion,C1334016,1,1.0
+Disorder Of Carotid Artery,C0007273,1,1.0
+Arterial Occlusion Vertebral Artery Right,C4536446,1,1.0
+Frothy,C4069284,6,1.0
+Fifth Rib Fracture,C0920252,1,1.0
+Concealing,C0443189,2,1.0
+Mailing,C0024492,2,0.9341984881041099
+Lymphoid Tissue,C0024296,1,1.0
+Endobronchial Ultrasound Transbronchial Needle Aspiration,C1883418,1,1.0
+Middle Region Of Body,C3669046,2,1.0
+Cardiac Catheterization Placement Of Stent 1,C2008415,1,1.0
+Funnels,C3503950,1,1.0
+Rostral Body Of The Corpus Callosum,C3499010,2,1.0
+Employ,C0457083,2,1.0
+Infraglottic,C0521351,2,1.0
+Cancer Metastatic Thyroid,C1096666,1,1.0
+Stage Iv Epidermoid Cell Carcinoma Of The Lung,C4721661,1,1.0
+Fat Embolism As Early Complication Of Trauma Disorder,C1533618,1,0.8678685791539074
+Increased Long Bone Fracture Rate,C0240231,1,1.0
+Laminar Hooks,C5453098,1,1.0
+Entire Body Of Fourth Thoracic Vertebra,C1305594,4,1.0
+Hospital . Reporting,C0806434,1,1.0
+Image Acquisition,C1708464,3,1.0
+Enlargement Of Spleen,C0038002,1,1.0
+Elevated Fibrin Degradation Fragment Concentration,C0742969,2,1.0
+Unspecified Injury Of Kidney,C0160420,1,1.0
+Megacara,C4158589,1,1.0
+History Of Neoplasm,C0559147,3,1.0
+Vascular Stents,C0183521,6,1.0
+Known Allergy,C3845888,1,1.0
+Renal Obstruction,C0748324,1,1.0
+Branch Of Left Bronchial Arterial Tree,C0824079,1,1.0
+Swelling Question,C5420287,2,1.0
+Nursing Care : Nasogastric Tube Removal,C2224149,1,1.0
+Systems Extrahepatic Biliary,C0206187,2,1.0
+Inferomedial,C1179867,1,1.0
+3 Or 4,C3843801,1,1.0
+Reduced Services,C0520252,4,1.0
+General Feeling Of Illness,C0231218,2,0.8477534854813472
+Neoplasm Of The Cerebral Hemispheres,C1263885,1,1.0
+Previously Well,C2114533,1,1.0
+Niddm Non Insulin Dependent Diabetes Mellitus,C0011860,1,0.8010567819107208
+More Than 50,C3842480,3,1.0
+Set Of Extrinsic Muscles Of Eyeball,C0028863,1,1.0
+Structural Abnormality Of The Chest Wall,C4021797,1,1.0
+Examination Questions,C0600648,1,1.0
+Tractography,C5572600,6,1.0
+Tractus Corticospinalis,C0936236,2,1.0
+Pneumocysts Cranial,C0032268,1,0.7538093839835445
+Radiolucency,C2827491,2,1.0
+Pneumothorax Tension Pneumothorax,C1405280,2,1.0
+Pressure Pneumothorax,C0264558,3,1.0
+Stage Iiia Non Small Cell Carcinoma Of The Lung,C0278983,1,1.0
+Chronic Cholecystitis,C0085694,3,1.0
+Biliary Drains,C0489793,3,1.0
+Acute And Chronic Cholecystitis,C0302472,1,1.0
+Splenomegaly Massive,C0241231,1,1.0
+Fatty Infiltration Of The Pancreas,C2748738,1,1.0
+Surgical Consultation,C5442589,1,1.0
+Increased Thickness,C0205400,3,1.0
+Bag Device,C0179196,2,0.8486190695495479
+Gastric Emptyings,C0017127,9,1.0
+Early Satiety,C0239233,2,1.0
+Egg Whites Dietary,C0013704,2,1.0
+Skeletal Deformity,C0241052,1,1.0
+Dilated Intrahepatic Bile Ducts,C2748699,1,1.0
+Acetals,C0000967,3,1.0
+Perch Chv Concept,C2945839,3,1.0
+First Thoracic Spinal Nerve,C0501486,1,1.0
+Computed Tomography Of Thoracic Spine,C0412651,4,1.0
+Entire Anterior Portion Of Diaphragmatic Aspect Of Liver,C0458924,1,1.0
+Central Respiratory Failure,C3806299,24,1.0
+Therapeutic Thoracentesis,C0843887,2,1.0
+Faecal Loading,C4524148,1,1.0
+Esophagus And Stomach,C0391896,1,0.9423070873410858
+Segmental Excision Of Colon,C0149750,2,1.0
+Unspecified Ventral Hernia Without Mention Of Obstruction Or Gangrene,C0041893,2,1.0
+Enlargement Of Iliac Lymph Node,C1264125,1,1.0
+Tenth Rib Fracture,C0920009,2,1.0
+Cancer Anaemia,C1536115,2,1.0
+Contraction Finding,C1140999,7,1.0
+Small Intestine Ileum,C0020885,3,1.0
+Through Ileal Conduit,C4700019,1,1.0
+Disease Or Disorder Liver Cystic Congenital,C1394462,3,1.0
+Entire Lower Abdominal Quadrant Body Structure,C1280048,1,1.0
+Renal Fossa,C4684522,2,1.0
+Prostatovesiculectomy,C0194810,1,1.0
+Urinary Conduit,C1276374,1,1.0
+Aneurysm Of Thoracic Aorta,C0162872,1,1.0
+Intermediate Segment Of Free Upper Limb,C0016536,2,0.8426435192818463
+Distal Fractures Radius,C0748233,2,1.0
+Fiberglass Cast Device Physical Object,C0079348,2,1.0
+Compressed Fractures,C0332714,1,1.0
+Tissue Used For Augmentation,C0449904,1,1.0
+Trochanteric Femoral Fracture,C2363779,1,1.0
+Fastening Physical Object,C0453981,1,1.0
+Conray 30,C0719485,2,1.0
+Epidural Infusions,C0841785,1,1.0
+Left Corona Radiata,C4244752,1,1.0
+Anomalies Of Pupillary Function Mydriasis,C0026961,1,1.0
+Computed Tomography Guided Core Biopsy,C4733456,8,1.0
+Skin And Subcutaneous Tissue Structure,C0870032,1,1.0
+Central Deficits Nervous System,C0521654,2,1.0
+Postcontrast,C1711375,9,1.0
+Very Active,C5570828,1,1.0
+Invasive Infections,C5436123,1,1.0
+Lobar Bronchus Structure,C0225653,2,1.0
+Structure Of Lobe Of Right Lung,C1285106,1,1.0
+Systemic Arterial Circulatory System,C0836183,1,1.0
+Rather,C4698491,1,1.0
+Structure Of Small Artery,C0226001,1,1.0
+Convergence Action,C2700387,1,0.8398266677147356
+Surgical Forceps,C0038916,1,1.0
+Wedge Resection Of Lung,C0396568,2,1.0
+Central Artery,C1516384,1,1.0
+Perihilar Pneumonia,C0747482,1,1.0
+Revision Reason,C2985866,1,1.0
+Sixth Rib Fracture,C0920006,4,1.0
+Ventricular Mass,C0750190,4,1.0
+Swelling Of Scalp,C2219601,1,1.0
+Slow To Focus,C0423046,1,1.0
+Surgical Finding,C5236164,3,1.0
+Mandibular Right Central Incisor Mesial Prosthesis,C1553609,4,1.0
+Supraclavicular Lymph Node Enlargement,C0241306,1,1.0
+Surgical Fixation Devices,C1721086,1,1.0
+Obstructive Atelectasis,C0264498,1,1.0
+State Of Obstruction,C0544453,1,1.0
+Pulmonary Involvement,C0748159,2,1.0
+Nasogastric Intubation For Enteral Infusion Of Concentrated Nutritional Substances,C0192456,6,0.9661895800343993
+Cauterization Procedure,C0007471,1,1.0
+Covered By,C1555028,1,1.0
+Left Internal Capsule,C2339807,1,1.0
+Lesions In The White Matter,C2752009,1,0.8046259632502227
+Transthoracic Lung Biopsy,C0860957,1,1.0
+Osteosclerotic Lesion,C1518640,2,1.0
+Vomiting Question,C5420295,1,1.0
+Dilation Of Third Ventricle,C5563720,1,1.0
+Ambien,C0487782,1,1.0
+Right Ethmoid Sinus Structure,C0225469,1,1.0
+Patient Physiological Condition,C0683521,1,1.0
+Spinal Stabilization,C5452887,2,1.0
+Dental Cement Dosage Form,C1706094,6,0.9550880697501752
+Facet Screws,C5453097,2,1.0
+Procedure Started Context Dependent Category,C1273560,1,1.0
+Vertebroplasty Procedure,C1303192,2,1.0
+100 Minutes,C5452767,1,1.0
+Structure Of Radial Artery,C0162857,1,0.7813960183552477
+Structure Of Anatomic Arteriovenous Anastomosis,C0225984,1,0.99
+Wavy,C5447272,1,1.0
+Ventilators Noninvasive Positive Pressure,C1458061,1,1.0
+Donor Graft,C0730393,1,1.0
+Dependence On Dialysis Due To End Stage Renal Disease,C1997375,2,1.0
+Of Substance Abuse,C0687130,2,1.0
+Breaths : Number Count Time : Point In Time : Respiratory System : Quantitative,C0489258,4,1.0
+Psa Level Less Than Five,C4084795,1,1.0
+Spondylolisthesis Grade 1,C0264180,3,1.0
+Bilateral Inguinal Hernia,C0267672,1,1.0
+Intrathoracic Stomach,C2673583,3,1.0
+Wait,C1610166,2,1.0
+Entire Back Body Structure,C3472551,2,1.0
+Pleuritic Chest Pain,C0008033,3,0.827826527682773
+Prefix,C1550720,1,1.0
+Dos Diffuse Oesophageal Spasm,C0014863,3,1.0
+Colla Invertebrate,C2621750,2,1.0
+Mitral Valve Prostheses,C0182494,1,0.7628208677632443
+Aorta . Thoracic . Ascending,C0003956,5,0.7999709990105588
+Cyst Wall,C3821167,1,1.0
+Right Piriform Recess,C0926851,1,1.0
+Tomography Spiral Computer Assisted,C0860888,2,0.7619201237883337
+Ellipse Shape,C1947977,5,1.0
+Partial Lobectomy Of Lung,C0337341,3,1.0
+No Significant Change Since Previous Mammogram Finding,C1268651,1,1.0
+Wernicke S Superior Hemorrhagic Polioencephalitis,C0043121,1,1.0
+Progressive Encephalomyelitis With Rigidity,C1861457,1,1.0
+Mr Angiogram,C4267682,9,1.0
+Unilateral Right,C1623716,2,1.0
+Antihyperglycemic Agents,C0020616,2,1.0
+History Of Pleural Effusion,C3839413,2,1.0
+Oedema Of Elbow,C0522038,2,1.0
+Structure Of Subregion Of Abdomen,C1720043,1,1.0
+History Of Pulmonary Embolus,C0455537,1,1.0
+Pulmonary Ventilation Perfusion Scans,C0560738,1,1.0
+No Significant Findings,C3694175,2,1.0
+Changes Tubing,C2945733,5,1.0
+Abdominal Computed Tomography Liver,C0412621,9,0.9911111111111113
+Fine Needle Aspiration Biopsy Procedures,C1510483,5,1.0
+Participation,C0679823,1,1.0
+Recurrent Intrapulmonary Haemorrhage,C3805919,1,1.0
+Right Primary Motor Cortex,C2336541,1,1.0
+Lorazepam 1 Mg,C0987272,1,1.0
+Subpleural Interstitial Thickening,C4476638,1,1.0
+Chest Subcutaneous Emphysema,C0239002,1,1.0
+Necrosis Of Intestine,C2243080,1,1.0
+Structure Of Left Colic Flexure,C0227387,3,0.7897528630070152
+History Of Alcohol Abuse,C0221628,2,1.0
+Decompensated Liver Disease Disorder,C4075847,1,1.0
+Hepatic Nodules,C0745761,5,1.0
+Ih Infectious Hepatitis,C0019159,1,1.0
+Aa Alcohol Abuse,C0085762,1,0.99
+Breathing Distress Question,C4084858,1,0.7913083224885183
+Neoplasm Of The Endocrine System,C0014132,2,1.0
+No Malignancy,C3842363,1,1.0
+Injury To Blood Vessels Of Unspecified Site,C0178324,2,1.0
+Thoracic Or Lumbar Spine,C5452841,4,1.0
+Injection Of Thrombin,C4545628,1,1.0
+Biopsy Of Liver Procedure,C0193388,3,1.0
+Stigmata Of Chronic Liver Disease,C2826616,1,1.0
+Imaging Of Liver,C2711860,3,0.8662621465889107
+Luss Ultrasound Scan Of Liver,C0412534,2,0.7895599811748195
+Economic Burden Of Disease,C0162698,1,1.0
+Dedicated Small Bowel Series Ugi Sb Follow Through,C2010622,4,1.0
+Non Displaced,C0746928,2,1.0
+Have You Experienced Tenderness,C3829765,1,1.0
+Structure Of Infratemporal Fossa,C0230011,1,1.0
+Magnetic Resonance Imaging Center,C1708834,1,1.0
+Liver Normal,C0577059,2,1.0
+Increased Serum Alkaline Phosphatase,C1314665,1,1.0
+Pulmonary Decompensation,C0748117,1,1.0
+Pulmonary Lobectomy,C0189497,1,1.0
+End Stage Copd,C4087491,4,1.0
+Negative Lymph Node,C0678034,2,0.8301172476586678
+Interventional Computed Tomography Service,C2183253,1,1.0
+Pneumovax,C0071315,3,1.0
+Cubic Centimeter Of Water,C2698229,2,1.0
+Monitor Patient S Vital Signs,C0811671,1,1.0
+Mitral Annulus Calcification,C0746592,2,1.0
+Learning,C0023185,1,1.0
+Unequal Skull Shape,C0424690,1,1.0
+Endoluminal Grafts,C1322796,1,1.0
+Embedding,C1707903,2,1.0
+Abdominal Aortic Dissection,C5539505,1,1.0
+Anaerobic Blood Culture,C1441498,1,1.0
+Acute Aortic Dissections,C0241868,1,1.0
+History Of Malignant Mesothelioma,C1997977,7,1.0
+Radiographic Examination,C4721829,1,1.0
+Not Suspected Qualifier Value,C1997218,1,1.0
+Cough Weak,C2202983,2,1.0
+Dilatation Of Lateral Cerebral Ventricles,C1856409,2,1.0
+Cervical Spondylosis At C5 C6,C2044977,1,1.0
+Nonsister Chromatid Exchange,C0010366,1,1.0
+Fracture Oblique,C0332711,2,1.0
+Neck Of Left Femur,C0833290,4,1.0
+Structure Of Circumflex Branch Of Left Coronary Artery,C0226037,1,0.99
+Transitional Vertebrae,C1299890,3,1.0
+R Lateral,C4299029,1,1.0
+Sacral Region Of Central Canal Of Spinal Cord,C0223605,2,1.0
+L Lateral,C4299030,1,1.0
+Subfrontal,C1299595,1,1.0
+Intentional,C1283828,2,1.0
+Change Positions,C0444793,2,1.0
+58 Qualifier Value,C4517817,1,1.0
+Medial Margin,C4489135,1,1.0
+Subways,C0524709,2,1.0
+Evacuation Of Intracranial Subdural Haematoma,C0521278,2,1.0
+Hernia Surgery,C3826215,1,1.0
+Bowel Contents,C1546561,1,1.0
+Mva Mitral Valve Annuloplasty,C0396850,1,1.0
+Mi Post,C0856742,5,1.0
+Head Or Neck,C4698666,2,1.0
+Liver Gi,C5453120,1,1.0
+Pelvic Brim,C2330508,1,1.0
+Nonmetastatic,C1518409,1,1.0
+Left Posterior Chest,C0694657,4,1.0
+Right Caudate Nucleus,C2334749,2,1.0
+Transvaginal Ultrasound : Multiple Small Cysts Of Ovary,C2145688,1,1.0
+Aortic Lymphadenopathy,C1264108,1,1.0
+Ultrasound Guided Liver Biopsy,C0860886,3,1.0
+Direct Tumor Extension,C3899369,2,1.0
+Sixty Five,C0450385,1,1.0
+Lung Scarring,C1403086,3,1.0
+Main Stem Bronchus Compression,C3671982,1,1.0
+Cutaneous Wheal,C0221232,1,1.0
+Tagamet,C0592157,1,1.0
+Benadryl,C0700899,1,1.0
+7 Benzyloxyresorufin O Dealkylase,C0070319,2,1.0
+Levaquin,C0721336,2,1.0
+Levonor,C0702008,1,1.0
+Neck Computed Tomography With Contrast,C2316245,1,1.0
+Fluorine 18 Fluorodeoxyglucose Avid Tumor,C5239279,1,1.0
+Hypopharyngeal Structure,C0020629,1,1.0
+Pathological Diagnosis,C5554790,1,1.0
+Dilated Main Pulmonary Artery,C5233445,1,1.0
+Subcortical Lesions,C0871456,1,1.0
+Ataxia Of Gait,C0751837,1,1.0
+Biopsy Of Bronchus,C0740463,1,1.0
+Disc Disorders,C0012619,1,1.0
+History Of Atrial Fibrillation,C0729790,2,1.0
+Photodyn,C5432387,1,1.0
+No Improvement,C3844714,1,1.0
+Tracheal Impingement,C0749611,2,1.0
+Peripheral Venous Catheter,C2985513,1,1.0
+Structure Of Antecubital Vein,C1276271,1,1.0
+Blood Carbon Dioxide Level Above Normal,C0020440,2,1.0
+As A 2,C0636363,3,1.0
+Induration Of Subcutaneous Fat,C0410939,1,1.0
+Vascular Patencies,C0042377,1,1.0
+Left Posterior Pararenal Space,C2952927,1,1.0
+66 Qualifier Value,C4517841,1,1.0
+Local Area,C0681785,1,1.0
+Staging Procedure Intent,C1276306,1,1.0
+Hemiparesis Of Right Side,C0457435,2,1.0
+On Iv,C3714655,1,1.0
+Inferior Vena Caval,C0521360,8,1.0
+Congenital Portosystemic Venous Shunt,C0344688,2,1.0
+Sensitivity And Specificity,C0036668,1,1.0
+On Treatment,C4684449,2,1.0
+One Or Two Days,C3843197,1,1.0
+Entire Ul Upper Limb,C1269078,2,0.8961899040332478
+Post Cardiac Surgery,C2062965,1,1.0
+Stabilized Qualifier Value,C0184512,2,1.0
+Fair,C2911689,1,1.0
+Hospitals State,C0020026,1,1.0
+Congenital Absence Of Breast,C0266009,1,1.0
+Contained In Attribute,C4518417,2,1.0
+Severity One Out Of Three,C4687958,1,1.0
+Catheter Sheath,C1299426,1,1.0
+Malignant Tumour Of Stomach,C0024623,1,1.0
+Diffuse Angiomatosis,C0002992,1,1.0
+Every Day,C0332173,2,0.979866693160857
+Densities Lungs,C0746094,6,1.0
+Malrotated,C4086563,1,1.0
+Structure Of Fundus Uteri,C0227817,1,1.0
+Bronchoalveolar Pneumonia,C3671988,1,1.0
+Sphincterotomies,C0748895,2,1.0
+Ileostomies Incontinent,C0041282,1,1.0
+Schizoaffective Disorder,C0036337,1,1.0
+Alveolar Damage,C4313322,3,1.0
+Changed Status,C0443172,1,0.8186953874341387
+Labored,C4068782,6,1.0
+Savage,C0331893,3,1.0
+Involuntary,C2986385,1,1.0
+The Uppermost Part Of The Stomach,C0007144,4,0.8916201135148543
+Commit Operation,C2347840,1,1.0
+Duodeno Jejunal,C0450198,1,0.782659053816791
+Therapists,C0871525,5,1.0
+Too Much,C3843660,1,1.0
+Bronchocentric,C5539830,2,1.0
+Arterial Stent Occlusion,C0919560,1,1.0
+History Of Dysphagia,C5438122,2,1.0
+Pathology Speech,C0080355,7,1.0
+Superior Part Of Chest Wall,C4322849,1,1.0
+Excision Procedures On Lymph Node Of Axilla,C0193867,1,1.0
+Penetrating Ulcer,C1265811,3,1.0
+Ventricular Fibrillation Arrest,C0750189,1,1.0
+Normalize Activity,C1882115,1,1.0
+Creatinine Rising,C0742904,1,1.0
+Oesophageal Varices With Haemorrhage,C0155789,3,0.7620411877981476
+Ald Alcoholic Liver Disease,C0023896,1,1.0
+Mart 1 Tumor Antigen,C1522481,2,1.0
+Dysplastic Nodule,C3163961,1,1.0
+Artery Right,C3171705,1,1.0
+Nodular Lesions,C1518345,9,1.0
+Transjugular,C4489465,1,1.0
+Portal Systemic Vascular Shunt Disorder,C0948900,1,1.0
+Drainage Of Ascites,C0405789,1,1.0
+8 Fr,C4068968,1,1.0
+Portal Venous System Structure,C0226727,1,0.8673041004182859
+Millimeter Of Mercury,C0439475,1,1.0
+Simultaneously,C0521115,3,1.0
+Lower Extremity . Right Lower Leg,C0230442,34,1.0
+Living On The Street,C0237154,5,1.0
+Ischaemia Of Legs,C1579665,19,1.0
+Ulcerative Lesion,C0041582,3,0.8094302184558276
+Ulcer Of Lower Extremity,C0023223,2,1.0
+Pain In Thoracic Spine,C0677061,1,1.0
+Diameter . Sagittal,C0552412,1,1.0
+Disorder Of Joint,C0022408,1,1.0
+Stent Grafts Vascular Aortoiliac,C1322790,2,1.0
+Aorta And Iliac Artery Cs,C1268307,3,1.0
+Structure Of Internal Iliac Artery,C0226364,1,0.7711079534217815
+Focal Scarring,C4231136,1,1.0
+Anomalous,C3277934,2,1.0
+Iliac Stenting,C0850459,2,1.0
+Note Document,C1317574,1,1.0
+Echocardiography : Left Ventricular Ejection Fraction Calculated,C2023410,1,1.0
+Maxillary Sinus Retention Cyst,C4761181,1,1.0
+Abnormality Of Lung Structure,C4021760,1,1.0
+Advanced Lung Carcinoma,C4727088,2,1.0
+Peritonsillar Abscess,C0031157,1,1.0
+Dental Fillings,C0178866,1,1.0
+Sublingual Gland Structure,C0038553,1,1.0
+Glottis Structure,C0017681,14,1.0
+Mucosal Thickening,C3686502,1,1.0
+Inguinal Region Structure,C0018246,1,0.7609363009076515
+Indicine N Oxide,C0063465,2,1.0
+Abdominal Distention And Pain,C2749840,1,1.0
+Adnexal Cysts,C0740787,2,1.0
+Sentinels,C0950580,1,1.0
+Multiphasic Computed Tomography Of The Abdomen,C4527263,1,1.0
+Mass Of Ovary,C0240611,2,1.0
+Structure Of Right Ovary,C0227873,2,0.7968942857361893
+Neck Swelling,C0578454,2,1.0
+Thyroid Hyperplasia,C1112776,3,1.0
+Swelling Of Forearm,C2038705,2,1.0
+Venous Filter,C4489431,2,1.0
+Rolelinkhascontact,C3242793,1,1.0
+Bilateral Hydronephrosis,C0521622,10,1.0
+Anchoring Procedure,C1293132,2,0.99
+Transitional Cell Neoplasm Of The Urinary Tract,C1519840,3,1.0
+Umbrella Filters,C0080266,1,1.0
+Haematoma With Intact Skin,C0432742,1,1.0
+Cerebrovascular,C1880018,2,1.0
+Acute Ischaemic Stroke,C5392833,1,1.0
+Stage Small Cell Lung Cancer,C0280249,1,1.0
+Lipoma Of Skin And Subcutaneous Tissue Of Scalp,C0347425,1,1.0
+Bilateral Pulmonary Agenesis,C4021610,1,1.0
+Broaches,C0179429,1,1.0
+Speciman Volume : Vol : Pt : Bld : Qn,C0365302,1,1.0
+Structure Of Bone Marrow Of Vertebral Body,C0229622,1,1.0
+Borderline Normal,C1299399,2,1.0
+Bronchial Sleeve Resection,C4524131,1,1.0
+Pain In Right Hip Joint,C2202100,6,1.0
+Medial Cortex,C1818663,4,1.0
+Recurrent Episodes Of Coughing Up Blood,C2169800,1,1.0
+Neck Of Right Femur,C0833289,5,1.0
+Radiology Report,C1299496,1,1.0
+Excision Of Neoplasm,C1299802,6,1.0
+Specimen Volume : Vol : Pt : Pericard Fld : Qn,C1369843,1,1.0
+Lytic Rib Lesion,C0748418,1,1.0
+Bronchus And Esophagus,C0545669,2,1.0
+Entire Trochanteric Section Of Femur,C0559817,3,1.0
+Head Of Right Femur,C0926821,1,0.7754567494904349
+Cyberknife Radiosurgeries,C3178754,5,1.0
+Inferior Posterolateral,C1180183,1,1.0
+Disrupting,C0332454,2,1.0
+Right Infraclavicular Lymph Node,C2329606,1,1.0
+Computed Tomography Of Lumbar Spine,C0412652,1,1.0
+Structure Of Body Of Sternum,C0222771,1,1.0
+Electrocardiographic Right Bundle Branch Block,C0344421,1,1.0
+Nodule Of Subcutaneous Tissue,C0151811,1,1.0
+History Of Abnormally Low Blood Pressure,C3532479,2,1.0
+Predisposing,C0231203,2,1.0
+A Very Short Time,C4526594,1,1.0
+Alveolar Emphysema Of Lung,C0264393,2,1.0
+Attendance,C2827364,1,1.0
+Recent Cardiac Arrest,C2169451,1,1.0
+31 Minutes,C3845577,1,1.0
+Mental Status Stupor,C0085628,1,1.0
+Dilatation Of Descending Aorta,C3164874,1,1.0
+Aortic Artery Thrombosis,C0854142,1,1.0
+467 468 Common And Internal Iliac Arteries,C0226360,1,1.0
+Epigastric Arteries,C0282640,2,1.0
+Transcutaneous,C5570969,1,1.0
+Removal Of Lesion,C2170038,4,1.0
+Removal Of External Ventricular Drain,C0846144,3,1.0
+Targets Fiducial,C2826325,4,1.0
+Intestine Resection,C0741614,10,1.0
+Supratentorial Hemorrhage,C3469453,1,1.0
+Cancer Etiology,C1516195,1,1.0
+Small Brain,C3151998,1,1.0
+Laminectomy Decompression,C1306561,1,1.0
+Compression Of Fractured Vertebra,C0740366,1,1.0
+Spinal Decompression Surgery,C0408670,1,1.0
+Date Of Surgical Procedure,C5204340,1,1.0
+Ventricular Csf,C1550320,1,1.0
+Bifrontal Subdural Hygroma,C4229392,1,1.0
+Syndrome Arterial,C1406682,7,1.0
+Aortic Arch Branch,C1516032,1,1.0
+Personal History Of Pathologic Fracture,C0016663,1,1.0
+Disgusting,C0683283,1,1.0
+Signs Neurologic,C0751378,2,1.0
+Elevation Value,C0702240,2,0.8549409965228274
+Small Lung Volumes,C4748643,1,1.0
+Chronic Anaemia,C0581384,1,1.0
+None Of These,C3843725,1,1.0
+Blanching,C0948786,1,1.0
+Closing Wound,C0679319,1,1.0
+Anemia Persistent,C0741008,2,1.0
+Post Prostatectomy,C2062400,1,1.0
+Thickening Of Skin,C0241165,1,1.0
+Pleural Based Plaque,C0747634,1,1.0
+Fifth Lumbar Spinal Nerve,C0501793,1,1.0
+Malignant Neoplasm Of Lung,C0242379,1,1.0
+Squamous Cell Carcinoma Of The Glottis,C0280325,3,1.0
+Retropharyngeal,C0521366,1,1.0
+Lidocaine Viscous,C0721362,1,1.0
+Actclassstorage,C1698986,1,1.0
+Unspecified Musculoskeletal Problem,C0426779,1,1.0
+Transporting Patient,C0150390,1,1.0
+Aortic Valve Regurgitation,C0003504,3,1.0
+Icc Insertion Of Intercostal Catheter,C0189476,3,0.9899999999999999
+Surgery Bypass Graft,C0185098,1,0.7715117381177838
+Pre Existing Condition Coverage,C3542017,1,1.0
+Deformity Of Chest Wall,C3164427,5,1.0
+Lipid Accumulation,C0333574,1,1.0
+Anatomic Landmarks,C3178884,1,1.0
+Pulmonary Respirations,C0035213,1,1.0
+Methicillin Resistant Staphylococcus Aureus Septicemia,C0877176,3,1.0
+Defibrillator Pacemakers,C0810517,1,1.0
+Decreased,C0392756,1,1.0
+Thalamic Lesions,C3278495,1,1.0
+Moderately Decreased,C5425897,1,1.0
+Material Stretched,C1883175,2,1.0
+Ecchymotic,C0333283,3,1.0
+Line Insertion Site,C1272591,1,1.0
+Severe Fibrosis,C4699563,1,1.0
+Multiple Kidney Cysts,C0431718,4,0.7688675508874618
+Right Pretracheal Lymph Node,C2337765,1,1.0
+Presacral Space,C2950548,1,1.0
+Large Intestine Anastomosis,C0852681,1,1.0
+Gastrointestinal Tract Vascular Insufficiency,C0156149,2,1.0
+History Of Ischaemic Colitis,C4040547,2,1.0
+My Appearance Has Basically Not Changed,C4085995,1,1.0
+Left Pedicle Of Vertebra,C0505958,2,1.0
+Use For,C1947945,1,1.0
+Betadine,C0699524,1,1.0
+Transseptal Catheter,C1272580,1,1.0
+Transplantation Of Heart,C0018823,1,1.0
+Enlarged Polycystic Kidneys,C1567435,1,1.0
+Previous Diagnosis,C0332132,1,1.0
+Wedge Resection Action,C0184909,1,0.7793737786856793
+Enteric Cutaneous Fistula,C0341318,31,1.0
+Vascular Occlusions Mesenteric,C0025472,1,1.0
+Superior Mesenteric Artery And Inferior Mesenteric Artery,C1508648,1,0.912425978149469
+Wound Of Abdomen,C4510895,6,1.0
+Stomach Empty Finding,C3686898,1,1.0
+Sweep,C2348625,1,1.0
+Gastrointestinal Tract Structure,C0017189,1,1.0
+Complete Resection Of Colon,C0192871,2,1.0
+Peripheral Catheter,C1827740,1,1.0
+Post Abdominal Surgery,C2062966,2,1.0
+Endotracheal Tube Positioning,C3649226,1,1.0
+Anterior Pararenal Space,C2953582,1,1.0
+Obstructive Symptom,C0746983,2,1.0
+Observation Of Wound Healing,C0043240,1,0.8885692315083418
+Hypomobility,C0391852,1,1.0
+Constricting Sensation Quality,C1444778,2,1.0
+Mechanical Obstruction,C4062806,3,1.0
+Slowed Transit,C0679317,1,1.0
+Nasogastric Tube Site : Anatomy : Point In Time : Patient : Nominal,C0488908,1,1.0
+Scattering,C0439742,1,1.0
+Videocassette,C0042655,2,0.770562610247321
+Ct Of Chest With Iv Contrast Procedure,C4029538,2,1.0
+Congenital Redundant Colon,C0345266,1,1.0
+Adam Metallopeptidase With Thrombospondin Type 1 Motif 1,C1332018,1,1.0
+Painful Hips,C4551516,1,0.7721493499501703
+Excision Of Lamina Of Cervical Vertebra,C2919897,2,1.0
+Ended Status,C1272693,2,1.0
+Breath Holding With Temper,C0424332,1,1.0
+Non Productive Cough,C0850149,1,1.0
+Recent Weight Loss,C1961006,1,1.0
+Jet Airplane Device,C0336862,2,1.0
+Fall Patients,C0030690,1,1.0
+Cardiac Mi,C3842562,2,1.0
+Single Chamber Pacemaker Device,C2911682,2,1.0
+Pacemaker Ventricular,C0747133,1,1.0
+Superior Extremity Of Left Kidney,C0734759,1,1.0
+Clinical Assessment,C4084924,1,1.0
+Incarcerated Femoral Hernia,C0743862,9,1.0
+Right Femoral Hernia,C2201657,1,1.0
+Flexure,C1880791,2,1.0
+Neck Thorax,C0869961,1,1.0
+Fluid In Esophagus,C3670914,1,1.0
+Subcutaneous Infusion Of Fluids,C2036707,2,1.0
+Systemic Inflammatory Response Syndrome Unspecified,C0242966,2,1.0
+Intermittent Bolus,C1301695,2,1.0
+Structure Of Fundus Of Gallbladder,C0227544,1,1.0
+Impairment Of Pharyngeal Stripping Wave,C4288906,1,1.0
+Swollen Legs,C0581394,1,1.0
+Tumor Burden,C1449699,1,1.0
+Bile Common Dilatation Duct,C0741480,1,1.0
+Infectious Disease Of Central Nervous System,C0007684,3,1.0
+Minimal Activity,C3845260,3,1.0
+General Operative Procedures On The Nervous System,C0524850,3,0.8127360982841328
+Extradural Abscess,C0270629,6,0.8156619934540217
+Environment Hospital Day,C0587438,1,1.0
+Staphylococcus Bacteria,C0038170,1,1.0
+Swallowing Ability,C0566355,1,1.0
+Pa Upright,C4489423,1,1.0
+Capability,C2698977,2,1.0
+Swallowing Function Pharyngeal Stage Transit Time,C2038595,1,1.0
+Frequent Diarrhea,C1820625,1,1.0
+1 Beta D Arabinofuranosylcytosine 5 Palmitate,C0048838,1,1.0
+Auscultation Bronchial Breath Sounds,C0231873,1,1.0
+Bronchial Breath Sounds At Left Base,C2235537,1,1.0
+Pneumonia Underlying,C0747699,1,1.0
+Complete Excision Of Left Lung,C4543504,5,1.0
+Interferes With,C0521102,1,1.0
+Obstructive Thrombosis,C3544296,1,1.0
+Zone A,C0724496,1,1.0
+Intensive Care Unit Stay,C5419131,7,1.0
+Tearfulness,C0424109,2,1.0
+Not Expanded,C3846678,1,1.0
+Head Sinuses Orbit,C4533306,2,1.0
+Vfd Visual Field Defect,C3887875,1,1.0
+Vertebral Artery Calcification,C4531210,1,1.0
+Paratrachea,C2821961,1,1.0
+Soaking Procedure,C0204774,1,1.0
+Hypoxia New Onset,C0745191,1,1.0
+Pulmonary Vein Isolation,C3544330,6,1.0
+With Issues,C3245461,1,1.0
+Bacterial Infection Due To Unspecified Streptococcus,C0038395,4,1.0
+Holochila,C5529267,1,1.0
+Study Completion,C2348557,1,1.0
+Thigh Pain,C0241374,3,1.0
+Gadobutrol,C0291216,1,1.0
+Entire Body Of Fifth Lumbar Vertebra,C1305613,1,1.0
+Bone Graft Materials,C0181075,1,0.99
+Structure Of Right External Carotid Artery,C0226091,1,0.8603968501011636
+Normal Branching,C4697701,1,1.0
+Posterior Cerebral Artery And Its Branches Body Structure,C1283440,1,1.0
+Abdomen Pain Ctcae,C1962981,2,1.0
+Digit Structure,C0582802,1,0.7725091845430405
+Good Effect,C0541990,1,1.0
+Non Displaced Fracture,C0585058,1,1.0
+Gastro Oesophageal Reflux Disease With Oesophagitis,C0677659,1,1.0
+Posttraumatic,C5453015,1,1.0
+Anaesthesia Catheter,C3873661,1,1.0
+Superficial Vein Thrombosis,C0235511,1,1.0
+Pulmonary Interstitial Emphysema,C1370824,1,0.7710341030454839
+Travelling,C0040802,1,1.0
+Cervical Segments Of Spinal Cord,C0457846,6,0.9536645935567284
+Meningeal Carcinomatosis,C0220654,3,1.0
+Vaginal Cuff,C1550321,1,1.0
+Endoscopic Incision Of Sphincter Of Oddi,C0400783,1,1.0
+Midline Catheter,C5389501,2,1.0
+Right Arm Paresis,C0856328,3,1.0
+Cervical Ribs Bilateral,C4012455,1,1.0
+Acute St Elevation Myocardial Infarction By Ekg Finding,C4083072,1,1.0
+Gdc Prior Malignancy Terminology,C5202964,1,1.0
+Poorly Differentiated Carcinoma,C0741899,1,1.0
+Putting Down Nasogastric Tube,C0204819,1,1.0
+Vap Ventilator Associated Pneumonia,C1701940,1,1.0
+Summer,C0241301,1,1.0
+Severe Pulmonary Hypertension,C5395247,1,1.0
+Entity,C1551338,2,1.0
+Ulcer Of Foot,C0085119,27,1.0
+Great Toe Structure,C0018534,3,0.9207193249595801
+Homologous Association,C1334043,1,1.0
+Bone Structure Of Calcaneum,C0006655,1,0.99
+Basisphenoid,C4241441,1,1.0
+Extensive Burns,C0856633,5,1.0
+D Tachycardia Context Dependent Category,C0558452,1,1.0
+Anaemic,C0857322,1,1.0
+Psa Level Less Than Two,C4526661,1,1.0
+Hardly At All,C3898981,1,1.0
+Temporal Region Of Scalp,C1561515,1,1.0
+Tx Kidney Transplantation,C0022671,14,1.0
+Difficulties With Micturition,C0241705,3,1.0
+Deformity Of The Skull,C4759713,1,1.0
+Left Cerebral Peduncle,C4254428,1,1.0
+Persistent Headache,C0744648,1,1.0
+Secretin Enhanced Magnetic Resonance Imaging,C3897647,1,1.0
+Evacuation Of Haematoma,C1261965,3,1.0
+Mid Body Of Stomach,C1284064,1,1.0
+Neoplasm Of Temporal Lobe Of Brain,C1263887,2,1.0
+Right Cerebral Peduncle,C4254429,1,1.0
+Likelihood Ratios,C0150102,1,1.0
+Malignant Neoplasm Of Larynx Stage Iv,C0851139,2,1.0
+Separation Of Joint,C2103070,1,1.0
+Micronodular Pattern,C1881823,1,1.0
+History Of Surgery,C0455610,1,1.0
+Dilatation Of The Intrahepatic Bile Ducts,C4229071,1,1.0
+Troponin Complex,C0041199,1,0.99
+Electrocardiography,C0013798,1,0.99
+Upper Extremity . Right Upper Extremity Veins,C4266494,1,1.0
+Bronchial Carcinoid,C4013426,26,1.0
+Most Of The Time,C3828954,1,1.0
+Overflow,C1548574,1,1.0
+Structure Of Retropubic Space,C0225298,2,1.0
+Abnormal Chest,C0742257,1,1.0
+Ambient,C1879688,1,1.0
+Biopsy Of Brain,C0740294,2,1.0
+Gait Disturbance Ctcae,C4551915,3,1.0
+Working,C0043227,3,1.0
+Reexploration Procedure,C1293095,1,1.0
+Headache On Entire Right Side,C2219285,1,1.0
+Pulmonary Carcinoma Cell Type Unspecified Recurrent,C0855002,1,1.0
+Of Recurrent Lung Cancer,C0862802,2,1.0
+Dense Infiltrates,C5435752,1,1.0
+Abnormal Blood Vessels,C0741583,1,1.0
+Structure Of Superior Pole Of Kidney,C0227611,1,1.0
+Extrinsic Deformity,C1446299,1,1.0
+Offset,C1711330,1,1.0
+Femoral Arterial Lines,C2226615,1,1.0
+Right Lateral Lumbar Region Of Abdomen,C0733995,1,1.0
+Adipose Tissue Retroperitoneal,C0738677,1,1.0
+Anterior Muscle Of Pelvic Girdle,C0224418,1,0.7549455119086892
+Lung Volume Reduction Procedure,C0524689,1,1.0
+Compensating,C0205432,1,1.0
+Subclavian Steal Syndrome,C0038531,2,1.0
+Endobronchial Valve,C3880733,1,1.0
+Rudimentary,C3550450,3,1.0
+Count Of Entities,C0449788,2,1.0
+Intervertebral Disc Structure Of Third Lumbar Vertebra,C0223533,1,0.99
+Cholestatic Diseases Liver,C0860204,2,1.0
+Laparoscopic Cholecystectomy,C0162522,1,1.0
+Mass Of Pituitary,C0342419,1,1.0
+Stage Iiib Lung Large Cell Carcinoma Ajcc V7,C1336224,1,1.0
+Interpolar Region Of Right Kidney,C2328521,1,1.0
+Neural Canals,C1522467,1,1.0
+Stenosis Of Bronchus,C0151536,1,0.7732254923559253
+Squamous Cell Carcinoma Of Right Lung,C4304160,1,1.0
+Unspecified Disorder Of Cranial Nerves,C0010266,1,1.0
+Brain Morphology,C1113650,1,1.0
+Lower Thoracic Region Surface Region Of Back,C0556957,2,1.0
+Cold Right Foot,C2106389,1,1.0
+Collateral Blood Circulations,C0009348,1,1.0
+Angiography Of Extremity,C2238103,1,1.0
+Bending,C0205133,4,0.8904699649237529
+Not Sure,C3844332,1,1.0
+Repeated Surgical Procedure,C0035110,1,1.0
+Moved To,C1299988,1,1.0
+Chest Tube Flutter Valve,C3831121,1,1.0
+Doxy,C1589557,2,1.0
+A Codes,C0919279,3,0.983101639385923
+Some Shortness Of Breath,C4287837,1,1.0
+Obesity In Diabetes,C2945676,1,1.0
+Pet Lays In One Place All Day,C5238548,1,1.0
+Ap 1 Enhancer Binding Protein,C0085828,1,1.0
+Diseases Component,C1331399,1,1.0
+Abnormality Of Brain Morphology,C4021085,1,1.0
+Intracranial Structure,C1267697,1,1.0
+Status Nutritional,C0392209,1,0.7879274505573972
+Tack,C3874006,1,1.0
+1 Mild,C3843617,2,1.0
+Inferior Pole,C1179623,1,1.0
+Minute Ventilation,C1301655,1,1.0
+Barrier Device,C1706912,1,1.0
+Outer Greatest Diameter,C4086674,1,1.0
+Neoplasm Of Bronchus,C0006264,1,1.0
+Incorrect Patient,C4036052,1,1.0
+Pain Of Right Knee Region,C5442020,1,1.0
+Ability To Stand Upright,C4055530,2,1.0
+View Sunrise,C1508349,1,1.0
+Left Putaman,C2334169,2,1.0
+Cortical Atrophy Mild,C4478333,1,1.0
+Transplanted,C0700106,1,0.7969805329558446
+Hereditary Nephritis Deafness Abnormal Thrombogenesis Syndrome,C1567741,4,0.9251061966869545
+Color Doppler Ultrasonography,C0242844,1,1.0
+Bone Structure Of Shin Bone,C0040184,1,1.0
+Bone Structure Of Fibula,C0016068,1,1.0
+Severe Osteopenia,C1970459,2,1.0
+Bone Structure Of Shaft Of Fibula,C0588196,2,1.0
+Metaphysis Of Right Femur,C0824857,1,1.0
+Bone Structure Of Shaft Of Tibia,C0588199,1,1.0
+Ov Oesophageal Varices,C0014867,2,1.0
+Followed By,C0332283,2,0.9362211044626522
+Injury Of Head Region,C0018674,1,1.0
+Processes Pathological,C0030660,1,0.7933445341026941
+History Of Fracture,C1272071,1,1.0
+Recent Fracture,C2169561,1,1.0
+Structure Of Soft Tissues Of Orbit,C0229088,1,1.0
+Suboptimal Image Reason,C2828075,1,1.0
+Cold Left Foot,C2106373,1,1.0
+Structure Of Sole Of Foot,C0230463,1,0.7532832427429476
+Necrosis Tubular Kidney,C1720775,1,1.0
+Positive Cytology,C3846509,1,1.0
+Chest Aorta . Thoracic Abdomen Aorta . Abdominal,C4299159,1,1.0
+Lung Cancer Surgery,C4764348,1,1.0
+Comply,C0725694,1,1.0
+Acute Kidney Injury Ctcae,C4552597,1,1.0
+Mass Of Urinary Bladder,C0238775,1,1.0
+Hydroureteronephrosis On Both Sides,C2047393,1,1.0
+Frontoparietal Craniotomy,C0742900,1,1.0
+Right Corona Radiata,C4251078,1,1.0
+External Cardiac Pacemaker,C0810585,1,1.0
+Right Anterior Pararenal Space,C2953452,1,1.0
+Pulmonary Nodule Stable,C0748167,1,1.0
+Entire Scapular Region,C0446464,1,0.781505372044464
+Hyrex Brand Of Dimenhydrinate,C0720930,1,1.0
+Pain In Right Upper Limb,C0564821,1,1.0
+Hand X Ray Periosteal New Bone Formation,C2021117,1,1.0
+Structure Of Cardiovascular System,C0007226,2,1.0
+Does Expectorate,C0566528,1,1.0
+Pneumia,C3436101,2,1.0
+Orthostatic Hypotension,C0020651,1,1.0
+Osseus,C4309705,1,1.0
+Oral Function,C0678868,1,1.0
+Gait Abnormality,C0575081,2,1.0
+Atrial Fibrillation New Onset,C0741281,1,1.0
+Very Close,C3842405,1,1.0
+Structure Of Genu Of Internal Capsule,C0152343,1,1.0
+Widening Of The Ventricles,C3550480,1,1.0
+Cavity Of Ventricular System Of Brain,C0230041,1,1.0
+Mass Removal,C0746415,1,1.0
+Intravenous Catheter Placement,C2065777,1,1.0
+History Of Anaphylaxis,C4512006,1,1.0
+Debrancher Deficiency Glycogen Storage Disease,C0017922,1,1.0
+Biological Relative,C1266852,1,1.0
+Regional Segment Of Venous Tree,C0500464,1,1.0
+Couple Action,C1948027,1,1.0
+Bronchus And Lung,C0545675,1,1.0
+Second Rib Fracture,C0920004,1,1.0
+Incision Of Gallbladder Procedure,C0193441,3,1.0
+Supracondylar Fracture,C1397781,1,1.0
+Tibial Plateau Structure,C0584640,1,0.8138291765879593
+3 Days Ago,C5571105,3,1.0
+Mass Of Anterior Mediastinum,C0577725,1,1.0
+Pulmonary Service,C1546532,1,1.0
+Dilatation Of Aorta,C0265004,1,1.0
+Nursing Teams,C0028704,1,1.0
+Observation Of Heart,C0577785,1,1.0
+Dilatation Of The Thoracic Aorta,C4303697,1,1.0
+Mandibular Left First Premolar Mesial Prosthesis,C1553599,1,1.0
+Ultrasound Of Lower Extremity Veins,C4027491,1,1.0
+Pulsatile Mass Of Abdomen,C0266835,1,1.0
+Inflammatory Fistulous Tract,C0544791,2,0.8532736423752957
+Month Year,C0680185,1,1.0
+Scheme,C1519193,1,1.0
+Mnd Motor Neurone Disease,C0085084,3,1.0
+Upper Motor Neuron Disease,C0521659,4,1.0
+Infundibular,C1881209,1,0.99
+Thalamus Haemorrhage,C0472376,1,0.7624122537990705
+Staff Physician,C1552084,1,1.0
+Dry Dressing Device,C3494912,1,1.0
+Multiple Nabothian Cysts,C0237024,1,1.0
+Skilled,C0678856,1,1.0
+Bolus Of Ingested Food,C1186706,1,0.7600539351731526
+Piece Unit,C2982836,1,1.0
+Bypass Aortoiliac,C0741193,1,1.0
+Injection Of Air,C0184946,1,1.0
+Tumor Vasculature,C1658953,2,1.0
+Arterial Stasis,C1443257,1,1.0
+Refillpharmacysupplytype,C0807726,1,1.0
+Trunk Of Right Bronchial Artery,C1180523,2,1.0
+Month Follow Up,C4745167,1,1.0
+Hepatic Vein Thrombosis,C0019154,1,1.0
+Physical Examination Date,C2826643,1,1.0
+Severe Kyphosis,C3277115,2,1.0
+More Than 7 Days,C5452805,1,1.0
+Paraspinal Masses,C0746413,1,1.0
+Soft Tissue Plane,C3266717,1,1.0
+Quantification,C1709793,2,1.0
+Increased Risk,C4699158,1,1.0
+030 031 Masses And Nodules,C0332557,1,1.0
+Haemorrhagic Pericarditis,C1142461,8,1.0
+Appearance : Aper : Pt : Pericard Fld : Nom,C0797792,1,1.0
