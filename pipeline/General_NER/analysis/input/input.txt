@@ -1,0 +1,36 @@
+../../data/ contains all the processed inputs for further analysis
+
+##################################
+structured clinical data:
+
+structured_general_embeddings.csv
+structured_general_name.csv
+
+structured_med_embeddings_freq.csv
+structured_med_name.csv
+
+##################################
+natural language report data:
+
+report_general_embeddings_freq.csv
+report_general_name_freq.csv
+
+report_med_embeddings_freq.csv
+report_med_name_freq.csv
+
+##################################
+Medical vs. General Embeddings: Medical embeddings (from MedCAT) are specialized to represent biomedical concepts, while general embeddings (from SpaCy) are trained on broader language data.
+Medical Terms: Should have significant semantic differences between MedCAT and SpaCy embeddings since MedCAT focuses on clinical contexts.
+General Terms: Should have closer embeddings between the two models, as general language terms are equally well-represented in both.
+
+High similarity: Likely a general term.
+Low similarity: Likely a medical term.
+
+##################################
+OVERALL WORKFLOW
+'''
+    1. use cosine similarity to cross compare the medical embeddings and general embeddings for the same term
+    2. thresholding, low similarity -> likely medical term, high similarity -> likely genral terms
+    3. k-means clustering, then identify terms
+    4. manual validation
+'''

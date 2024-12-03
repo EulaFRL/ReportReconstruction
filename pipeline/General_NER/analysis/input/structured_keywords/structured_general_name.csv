@@ -1,0 +1,183 @@
+Attribute,pretty_name,Entity Type
+Days from randomization to diagnosis of lung cancer,Days,DATE
+Clinical M for staging,AJCC,ORG
+Clinical M for staging,Clinical M,ORG
+Clinical M for staging,Distant,PERSON
+AJCC 7th edition staging clinical M component,Single,NORP
+AJCC 7th edition staging clinical M component,Distant,PERSON
+Clinical N for staging,Clinical N,ORG
+Clinical N for staging,AJCC,ORG
+Clinical N for staging,Metastasis,ORG
+Clinical N for staging,Regional,ORG
+AJCC 7th edition staging clinical N component,Metastasis,ORG
+AJCC 7th edition staging clinical N component,Regional,ORG
+Clinical Stage,AJCC,ORG
+Clinical Stage,Tumor,GPE
+Clinical Stage,Tumor,ORG
+Clinical T for staging,AJCC,ORG
+Clinical T for staging,Tumor,GPE
+Clinical T for staging,pleura,PERSON
+AJCC 7th edition staging clinical T component,Tumor,GPE
+AJCC 7th edition staging clinical T component,pleura,PERSON
+Lung Cancer Grade,ACRIN,PRODUCT
+Lung Cancer Grade,ICD,ORG
+Lung Cancer Grade,LSS,ORG
+Lung Cancer Grade,Lung Cancer Grade,PERSON
+Lung Cancer Grade,Lung,PERSON
+Lung Cancer Grade,Differentiated,PERSON
+"Stage (""Best"": Path if avail., else Clin)",AJCC,ORG
+"Stage (""Best"": Path if avail., else Clin)",Clin,ORG
+"Stage (""Best"": Path if avail., else Clin)",Lung,PERSON
+"Stage (""Best"": Path if avail., else Clin)",Tumor,ORG
+AJCC 7th edition stage,first,ORDINAL
+AJCC 7th edition stage,AJCC,ORG
+AJCC 7th edition stage,Tumor,GPE
+ICD-O-3 Morphology (from histology),LSS,ORG
+ICD-O-3 Morphology (from histology),Lung,PERSON
+Is this cancer the first lung cancer diagnosed?,first,ORDINAL
+ICD-O-3 Behavior,ICD,ORG
+ICD-O-3 Behavior,Malignancy,PERSON
+ICD-O-3 Grade,ICD,ORG
+ICD-O-3 Grade,Grade IV,FAC
+ICD-O-3 Morphology,ICD,ORG
+Order of this lung cancer among all lung cancers for this participant,Order,ORG
+ICD-O-3 Topography,ICD,ORG
+ICD-O-3 Topography,Char,PERSON
+Tumor size (mm) - Pathology,Tumor,GPE
+Tumor size (mm) - Pathology,mm,PERSON
+Pathologic M for staging,AJCC,ORG
+Pathologic M for staging,Distant,PERSON
+AJCC 7th edition staging path M component,Single,NORP
+AJCC 7th edition staging path M component,Distant,PERSON
+Pathologic N for staging,Pathologic N,ORG
+Pathologic N for staging,AJCC,ORG
+Pathologic N for staging,Metastasis,ORG
+Pathologic N for staging,Regional,ORG
+AJCC 7th edition staging path N component,Metastasis,ORG
+AJCC 7th edition staging path N component,Regional,ORG
+Pathologic Stage,AJCC,ORG
+Pathologic Stage,Pathologic,ORG
+Pathologic Stage,Tumor,GPE
+Pathologic T for staging,AJCC,ORG
+Pathologic T for staging,Pathologic,ORG
+Pathologic T for staging,Tumor,GPE
+Pathologic T for staging,pleura,PERSON
+AJCC 7th edition staging path T component,Tumor,GPE
+AJCC 7th edition staging path T component,pleura,PERSON
+"Source of ""best"" stage (de_stag)",TNM,ORG
+"Source of ""best"" stage (de_stag)",Describes,PERSON
+"Stage Only (if separate T, N, & M not available)",TNM,ORG
+"Stage Only (if separate T, N, & M not available)",ACRIN,PRODUCT
+"Stage Only (if separate T, N, & M not available)",LSS,ORG
+"Stage Only (if separate T, N, & M not available)",T/N/M,ORG
+"Stage Only (if separate T, N, & M not available)",N,GPE
+"Stage Only (if separate T, N, & M not available)",Provides,PERSON
+"Stage Only (if separate T, N, & M not available)",Tumor,GPE
+"Stage Only (if separate T, N, & M not available)",Tumor,ORG
+Summary staging,ACRIN,PRODUCT
+Summary staging,LSS,ORG
+Summary staging,T/N/M,ORG
+Study Year of Diagnosis,The initial year,DATE
+Study Year of Diagnosis,The year,DATE
+Study Year of Diagnosis,The second year,DATE
+Study Year of Diagnosis,one year,DATE
+Study Year of Diagnosis,The third year,DATE
+Study Year of Diagnosis,two years,DATE
+Study Year of Diagnosis,The fourth year,DATE
+Study Year of Diagnosis,three years,DATE
+Study Year of Diagnosis,The fifth year,DATE
+Study Year of Diagnosis,four years,DATE
+Study Year of Diagnosis,The sixth year,DATE
+Study Year of Diagnosis,five years,DATE
+Study Year of Diagnosis,The seventh year,DATE
+Study Year of Diagnosis,six years,DATE
+Source of samples for ICD-O-3 code,ICD,ORG
+Source of samples for ICD-O-3 code,Indicates,GPE
+Source of samples for ICD-O-3 code,LSS,ORG
+VALCSG Stage (Small cell only),VALCSG,ORG
+VALCSG Stage (Small cell only),ACRIN,PRODUCT
+VALCSG Stage (Small cell only),VALCSG Stage (Small,ORG
+Abnormality description,LSS,ORG
+Abnormality number (unique identifier),each study year,DATE
+Abnormality number (unique identifier),the Spiral CT Comparison Read Abnormalities,ORG
+Location of epicenter,Location,ORG
+Location of epicenter,Upper Lobe,FAC
+Location of epicenter,Lower Lobe,FAC
+Was the abnormality not identified until the comparison with historical images?,first,ORDINAL
+Longest diameter (in mm),Longest,ORG
+Longest diameter (in mm),mm,GPE
+Longest diameter (in mm),Numeric,PERSON
+Margins,Description,PERSON
+Longest perpendicular diameter (same CT slice in mm),CT,ORG
+Longest perpendicular diameter (same CT slice in mm),mm,GPE
+Longest perpendicular diameter (same CT slice in mm),Longest,ORG
+Longest perpendicular diameter (same CT slice in mm),Numeric,PERSON
+CT slice number containing abnormality's greatest diameter,CT,ORG
+Study year of screen,The year,DATE
+Study year of screen,first,ORDINAL
+Abnormality code number,LSS,ORG
+Abnormality number (unique identifier),Spiral CT Abnormality,ORG
+Study Year of Screen,Screen,ORG
+Days from randomization date to earliest date visible,The days,DATE
+Days from randomization date to earliest date visible,Numeric,PERSON
+Age at randomization (in years; whole number),years,DATE
+Race,African-American,NORP
+Race,Indian,NORP
+Race,Alaskan,NORP
+Race,Hawaiian,NORP
+Race,Pacific Islander,LOC
+Smoking status at T0,Cigarette,ORG
+Result of screen associated with the first confirmed lung cancer diagnosis,the screening years,DATE
+Result of screen associated with the first confirmed lung cancer diagnosis,first,ORDINAL
+Result of screen associated with the first confirmed lung cancer diagnosis,Indicates,LOC
+Result of screen associated with the first confirmed lung cancer diagnosis,Cancer,PERSON
+Result of screen associated with the first confirmed lung cancer diagnosis,Screen,ORG
+Days from randomization to date when participant was last known to be free from lung cancer,ACRIN,ORG
+Days from randomization to date when participant was last known to be free from lung cancer,Days,DATE
+Study year associated with first confirmed lung cancer,the study year,DATE
+Days from randomization to first diagnosis of lung cancer,Days,DATE
+Days from randomization to first diagnosis of lung cancer,first,ORDINAL
+Lung cancer grade,Differentiated,PERSON
+Lung cancer Stage,AJCC,ORG
+Lung cancer Stage,Lung,PERSON
+Lung cancer Stage,Tumor,GPE
+Lung cancer Stage,Tumor,ORG
+AJCC 7th edition stage,Carcinoma,NORP
+Lung cancer type from ICD-O-3 morphology,LSS,ORG
+Lung cancer type from ICD-O-3 morphology,Numeric,PERSON
+Pathology lesion size of tumor in millimeters,Numeric,PRODUCT
+Cancer in Carina,more than one,CARDINAL
+Cancer in Carina,Carina,GPE
+Cancer in Left Hilum,more than one,CARDINAL
+Cancer in Left Hilum,Left Hilum,PERSON
+Cancer in Lingula,lingula,PERSON
+Cancer in Lingula,more than one,CARDINAL
+Cancer in Lingula,Lingula,PERSON
+Cancer in Left lower lobe,more than one,CARDINAL
+Cancer in Left lower lobe,Left,GPE
+Cancer in Left main stem bronchus,more than one,CARDINAL
+Cancer in Left main stem bronchus,Left,GPE
+Cancer in Left upper lobe,more than one,CARDINAL
+Cancer in Left upper lobe,Left,FAC
+Cancer in Mediastinum,more than one,CARDINAL
+Cancer in Mediastinum,Mediastinum,PERSON
+Cancer in Other Location,more than one,CARDINAL
+Cancer in Right Hilum,more than one,CARDINAL
+Cancer in Right lower lobe,more than one,CARDINAL
+Cancer in Right middle lobe,more than one,CARDINAL
+Cancer in Right main stem bronchus,more than one,CARDINAL
+Cancer in Right upper lobe,more than one,CARDINAL
+Cancer in Unknown location,more than one,CARDINAL
+Overall diagnostic quality of CT examination,CT,ORG
+Study Year of Screen,The year,DATE
+Study Year of Screen,first,ORDINAL
+Technical parameters: Effective mAs,CT,ORG
+Technical parameters: Effective mAs,ACRIN,PRODUCT
+Technical parameters: Display FOV in cm,CT,ORG
+Technical parameters: Display FOV in cm,ACRIN,PRODUCT
+Technical parameters: kVp,CT,ORG
+Technical parameters: kVp,ACRIN,PRODUCT
+Technical parameters: mA,mA,PERSON
+Technical parameters: mA,CT,ORG
+Technical parameters: mA,ACRIN,PRODUCT
+Technical parameters: mA,mA,GPE

@@ -19,7 +19,6 @@ def get_embedding(text, tokenizer, model):
     embedding = outputs.last_hidden_state[:, 0, :]
     return embedding.squeeze().numpy()
 
-# Add embeddings to the DataFrame
 embeddings = []
 for term in df['pretty_name']: #TODO
     embedding = get_embedding(term, tokenizer, model)

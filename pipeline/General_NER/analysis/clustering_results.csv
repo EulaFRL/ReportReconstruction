@@ -1,0 +1,27 @@
+Attribute,Cluster
+Abnormality number (unique identifier),1
+Study Year of Diagnosis,1
+Longest diameter (in mm),0
+Technical parameters: Effective mAs,1
+"Stage Only (if separate T, N, & M not available)",0
+CT slice number containing abnormality's greatest diameter,1
+Abnormality description,0
+Technical parameters: kVp,1
+VALCSG Stage (Small cell only),1
+Location of epicenter,0
+Technical parameters: mA,0
+Smoking status at T0,0
+Was the abnormality not identified until the comparison with historical images?,1
+Race,1
+Overall diagnostic quality of CT examination,1
+Days from randomization date to earliest date visible,1
+Summary staging,0
+AJCC 7th edition stage,0
+Age at randomization (in years; whole number),0
+Pathologic Stage,0
+Margins,0
+Technical parameters: Display FOV in cm,1
+Abnormality code number,1
+"Stage (""Best"": Path if avail., else Clin)",0
+"Source of ""best"" stage (de_stag)",0
+Longest perpendicular diameter (same CT slice in mm),1

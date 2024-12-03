@@ -1,0 +1,27 @@
+Attribute,MedCAT Pretty Name,SpaCy Pretty Name,Cosine Similarity
+Overall diagnostic quality of CT examination,Diagnostic Quality,CT,0.7019801739949787
+Race,Indigenous People Of Alaska,African-American,0.7215234680400757
+AJCC 7th edition stage,Carcinoma Of The Lung,first,0.7636685378688962
+Abnormality description,Numbering System,LSS,0.7655980612792388
+Age at randomization (in years; whole number),Current Chronological Age,years,0.7693984968463476
+Summary staging,Carcinoma Of The Lung,ACRIN,0.7868083851252936
+Margins,4 Mm,Description,0.7894625154555083
+Location of epicenter,Calcified Qualifier,Location,0.8029809201334468
+Smoking status at T0,Clinical Trials Unspecified,Cigarette,0.8087368134003383
+"Stage (""Best"": Path if avail., else Clin)",Diagnostic Neoplasm Staging,AJCC,0.8227940149229283
+Abnormality number (unique identifier),Unique,each study year,0.8292408311369959
+Study Year of Diagnosis,Diagnosing,The initial year,0.8344475957834161
+"Stage Only (if separate T, N, & M not available)",Pathologic Staging,TNM,0.840053565832593
+CT slice number containing abnormality's greatest diameter,Slice,CT,0.8481794054426064
+Longest perpendicular diameter (same CT slice in mm),Slice,CT,0.8481794054426064
+Pathologic Stage,Pathologic Staging,AJCC,0.8516763156241888
+Days from randomization date to earliest date visible,Pre Existing,The days,0.8533850542606234
+"Source of ""best"" stage (de_stag)",Indication Of Contextual Qualifier,TNM,0.86632203283121
+Technical parameters: Display FOV in cm,Techniques Values,CT,0.8712888323675464
+Technical parameters: kVp,Techniques Values,CT,0.8712888323675464
+Technical parameters: Effective mAs,Techniques Values,CT,0.8712888323675464
+VALCSG Stage (Small cell only),Cellular Structures,VALCSG,0.8736212654811377
+Abnormality code number,Equivalent Unit,LSS,0.9000464864169182
+Longest diameter (in mm),Longest Measurement,Longest,0.9157969678386957
+Technical parameters: mA,Techniques Values,mA,0.9302544608572254
+Was the abnormality not identified until the comparison with historical images?,Regardless,first,0.9772356208345092

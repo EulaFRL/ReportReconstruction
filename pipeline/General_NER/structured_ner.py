@@ -11,13 +11,13 @@ df = pd.read_csv(input_file)
 required_columns = ["Label", "Description", "Concatenated"]
 if not all(col in df.columns for col in required_columns):
     raise ValueError(f"Input file must contain the following columns: {required_columns}")
-
 df["NER_Text"] = df["Description"].fillna("") + " " + df["Concatenated"].fillna("")
 
 def extract_entities(text):
     doc = nlp(text)
     entities = []
     for ent in doc.ents:
+        # print('ent')
         if not re.search(r'\d', ent.text):
             entities.append({"Pretty Name": ent.text.strip(), "Type": ent.label_})
     return entities
@@ -34,7 +34,6 @@ for _, row in tqdm(df.iterrows(), total=len(df), desc="Processing NER"):
             "Pretty Name": entity["Pretty Name"],
             "Entity Type": entity["Type"],
         })
-
 
 results_df = pd.DataFrame(results)
 results_df = results_df.drop_duplicates()
