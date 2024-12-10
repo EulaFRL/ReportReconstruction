@@ -1,0 +1,73 @@
+General Attribute,Matched Medical Attributes,Accuracy,Label
+Days from randomization date to earliest date visible,The days from randomization until the earliest date this abnormality was visible.  This is completed only for pre-existing abnormalities.,0.5351368188858032,medical
+Reason for limited / non-diagnostic CT: Excessive quantum mottle or graininess,,0.6317532062530518,medical
+Reason for limited / non-diagnostic CT: Other (specify),,0.6786057353019714,medical
+Technical parameters: kVp,Technical parameters: kVp  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN.,0.7641578316688538,medical
+Technical parameters: mA,Technical parameters: mA  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN.,0.8103880286216736,medical
+Reason for limited / non-diagnostic CT: Lungs not completely imaged,,0.8173667192459106,medical
+Technical parameters: Display FOV in cm,Technical parameters: Display FOV in cm  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN.,0.8217585682868958,medical
+CT slice number containing abnormality's greatest diameter,"The CT slice number containing the abnormality's greatest diameter, for non-calcified nodules or masses with >= 4 mm diameter.",0.8903810977935791,medical
+Technical parameters: Effective mAs,Technical parameters: Effective mAs  This variable comes from the data collection forms.  It may disagree with data extracted from the CT images' DICOM headers.  Header data may be obtained from the NLST CT image collection at TCIA or from ACRIN.,0.8942583203315735,medical
+Reason for limited / non-diagnostic CT: Respiratory misregistration,,0.8989840149879456,medical
+Study year of screen,,0.916550874710083,medical
+Cancer in Unknown location,Was the primary tumor located in an unknown location?  A tumor may be located in more than one location.,0.9577544331550598,medical
+Days from randomization to date when participant was last known to be free from lung cancer,"Days until the date the participant was last known to be free of lung cancer.  This date comes from a participant study update form, except for ACRIN participants with cancer, where the cancer diagnosis date is used.  Do not use this variable to calculate follow-up time for lung cancer incidence rates, Cox regressions, etc.  Instead, use fup_days for non-cases and candx_days for cases.",0.9634435176849365,medical
+Overall diagnostic quality of CT examination,,0.9759175777435303,medical
+Cancer in Other Location,Was the primary tumor located in an other specified location?  A tumor may be located in more than one location.,0.9827562570571899,medical
+Cancer in Carina,Was the primary tumor located in the carina?  A tumor may be located in more than one location.,0.9858642220497131,medical
+Pathology lesion size of tumor in millimeters,,0.9863470196723938,medical
+Cancer in Left upper lobe,Was the primary tumor located in the left upper lobe?  A tumor may be located in more than one location.,0.9883263111114502,medical
+Cancer in Lingula,Was the primary tumor located in the lingula?  A tumor may be located in more than one location.,0.9885196685791016,medical
+AJCC 7th edition staging path T component,,0.9891664981842041,medical
+Cancer in Left lower lobe,Was the primary tumor located in the left lower lobe?  A tumor may be located in more than one location.,0.989412248134613,medical
+Cancer in Left main stem bronchus,Was the primary tumor located in the left main stem bronchus?  A tumor may be located in more than one location.,0.990063488483429,medical
+Days from randomization to diagnosis of lung cancer,,0.9908573627471924,medical
+Tumor size (mm) - Pathology,,0.9909873008728027,medical
+Lung cancer type from ICD-O-3 morphology,"Lung cancer type from ICD-O-3 morphology.  For LSS participants, this is recorded separately from the complete ICD code, and represents the best information available on the type of the cancer.",0.9913768172264099,medical
+Pathologic T for staging,Pathologic T code for staging (AJCC 6).,0.9918273687362671,medical
+Cancer in Mediastinum,Was the primary tumor located in the mediastinum?  A tumor may be located in more than one location.,0.9918984770774841,medical
+Cancer in Right upper lobe,Was the primary tumor located in the right upper lobe?  A tumor may be located in more than one location.,0.9919191002845764,medical
+Cancer in Right lower lobe,Was the primary tumor located in the right lower lobe?  A tumor may be located in more than one location.,0.9920419454574585,medical
+Cancer in Left Hilum,Was the primary tumor located in the left hilum?  A tumor may be located in more than one location.,0.9921157956123352,medical
+Cancer in Right middle lobe,Was the primary tumor located in the right middle lobe?  A tumor may be located in more than one location.,0.9927805066108704,medical
+Lung cancer grade,,0.992795467376709,medical
+"Source of ""best"" stage (de_stag)","Describes whether the TNM components used to make the ""best"" stage variable (de_stag) were pathologic, clinical, a combination, or unavailable for some reason.",0.9934832453727722,medical
+Cancer in Right main stem bronchus,Was the primary tumor located in the right main stem bronchus?  A tumor may be located in more than one location.,0.9935685992240906,medical
+Cancer in Right Hilum,Was the primary tumor located in the right hilum?  A tumor may be located in more than one location.,0.9939483404159546,medical
+ICD-O-3 Morphology (from histology),"Lung cancer type from ICD-O-3 morphology.  For LSS participants, this is recorded separately from the complete ICD code, and represents the best information available on the type of the cancer.",0.9941108226776123,medical
+Abnormality code number,The type of the abnormality.  This should be equal to sct_ab_desc for the corresponding abnormality in the Spiral CT Abnormality dataset (linked by sct_ab_num).  Note that the LSS screening forms use a different numbering system than what is used in this variable.,0.9948698878288269,medical
+Order of this lung cancer among all lung cancers for this participant,The order of this lung cancer among all lung cancers for this participant.  Order is from earliest to latest.,0.9948980808258057,medical
+AJCC 7th edition stage,"Stage of first primary lung cancer, based on AJCC 7th edition stage",0.9949439167976379,medical
+Days from randomization to first diagnosis of lung cancer,,0.9952190518379211,medical
+Summary staging,"Summary staging.
+For all ACRIN lung cancers, this question was completed, i.e. not missing.
+For LSS lung cancers, this question was not expected to be completed unless T/N/M components of pathologic stage were unavailable.",0.9953432679176331,medical
+AJCC 7th edition staging clinical N component,,0.995494544506073,medical
+Is this cancer the first lung cancer diagnosed?,Is this cancer the first lung cancer diagnosed?  Participants with multiple primary lung cancers will have a separate record included in this dataset for each cancer.,0.9956129193305969,medical
+AJCC 7th edition staging clinical T component,,0.9958119988441467,medical
+ICD-O-3 Morphology,ICD-O-3 morphology of lung cancer.,0.9959085583686829,medical
+Source of samples for ICD-O-3 code,Indicates the source of information used to determine the ICD-O-3 code.,0.996421754360199,medical
+Lung cancer Stage,"Lung cancer stage (AJCC 6), combining clinical and pathologic staging information.",0.9965121150016785,medical
+Lung Cancer Grade,"Lung cancer grade.  For ACRIN, this is the ICD-O-3 grade.  For LSS, this comes from a separate question on the DE form.",0.99656081199646,medical
+"Stage Only (if separate T, N, & M not available)","Provides stage when separate TNM information is not available.  
+For all ACRIN lung cancers, this question was completed, i.e. not missing.  
+For LSS lung cancers, this question was not expected to be completed unless T/N/M components of pathologic stage were unavailable.",0.9966819882392883,medical
+Clinical T for staging,Clinical T code for staging (AJCC 6).,0.9969016909599304,medical
+Study Year of Diagnosis,,0.996921181678772,medical
+Clinical Stage,Clinical stage of lung cancer (AJCC 6).,0.9973818063735962,medical
+VALCSG Stage (Small cell only),"VALCSG staging for small cell lung cancers.
+For all ACRIN lung cancers, this question was completed, i.e. not missing, (even if they were not small cell cancers).",0.9974325299263,medical
+AJCC 7th edition staging clinical M component,,0.9974931478500366,medical
+Abnormality description,The type of the abnormality.  Note that the LSS screening forms use a different numbering system than what is used in this variable.,0.9977068901062012,medical
+Study year associated with first confirmed lung cancer,Study year associated with the first confirmed lung cancer.  A cancer associated with a  positive screen is assigned the study year of that screen.,0.9979174137115479,medical
+AJCC 7th edition stage,"Stage of first primary lung cancer, based on AJCC 7th edition stage",0.9979299306869507,medical
+ICD-O-3 Topography,ICD-O-3 topography of lung cancer.,0.9980166554450989,medical
+Clinical N for staging,Clinical N code for staging (AJCC 6).,0.998026967048645,medical
+Is the diagnosis of lung cancer associated with a positive screen?,Is the diagnosis of lung cancer associated with a positive screen?  A positive screen and a cancer diagnosis are associated based on a linking algorithm using diagnostic procedures.,0.9981212019920349,medical
+"Stage (""Best"": Path if avail., else Clin)","Lung cancer stage (AJCC 6), combining clinical and pathologic staging information.",0.9981288909912109,medical
+Pathologic M for staging,Pathologic M code for staging (AJCC 6).,0.9982401132583618,medical
+Pathologic Stage,Pathologic stage of lung cancer (AJCC 6).,0.9982572793960571,medical
+Clinical M for staging,Clinical M code for staging (AJCC 6).,0.9982922077178955,medical
+ICD-O-3 Grade,ICD-O-3 grade of lung cancer.,0.9983938336372375,medical
+ICD-O-3 Behavior,ICD-O-3 behavior of lung cancer.,0.9985285997390747,medical
+Result of screen associated with the first confirmed lung cancer diagnosis,"Indicates whether the cancer followed a positive, negative, or missed screen, or whether it occurred after the screening years.",0.999039351940155,medical

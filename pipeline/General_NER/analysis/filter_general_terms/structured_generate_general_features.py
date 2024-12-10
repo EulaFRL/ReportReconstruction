@@ -20,23 +20,23 @@ def classify(text, classifier):
     return (accuracy, label)
 
 def main():
-    df = pd.read_csv('output/ranked_cosine_similarity.csv')
+    df = pd.read_csv('../../data/NLST_concatenated.csv')
     # columns: ['General Attribute', 'General Frequency', 'Matched Medical Attributes',
     # 'Matched Medical Frequencies', 'Mean Cosine Similarity', 'Direction']
     
     # attr for feeding: 'General Attribute', 'Matched Medical Attributes'
     classifier = pipeline("zero-shot-classification", model="MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli")
-    
+    print(df)
     results = []
 
     for _, row in df.iterrows():
-        text_to_classify = f"{row['General Attribute']} {row['Matched Medical Attributes']}"
+        text_to_classify = f"{row['Label']} {row['Description']} {row['Concatenated']}"
         print(f"Classifying: {text_to_classify}")
         accuracy, label = classify(text_to_classify, classifier)
         print(f"Label is {label}, Accuracy is: {accuracy} \n")
         results.append({
-            "General Attribute": row["General Attribute"],
-            "Matched Medical Attributes": row["Matched Medical Attributes"],
+            "General Attribute": row["Label"],
+            "Matched Medical Attributes": row["Description"],
             "Accuracy": accuracy,
             "Label": label
         })
@@ -50,8 +50,8 @@ def main():
     general_df = general_df.sort_values(by="Accuracy", ascending=False)
 
 
-    medical_df.to_csv('output/medical_classification.csv', index=False)
-    general_df.to_csv('output/general_classification.csv', index=False)
+    medical_df.to_csv('output/structured_medical_classification.csv', index=False)
+    general_df.to_csv('output/structured_general_classification.csv', index=False)
 
 
 

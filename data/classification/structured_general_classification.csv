@@ -1,0 +1,26 @@
+General Attribute,Matched Medical Attributes,Accuracy,Label
+Race,,0.9966387748718262,non-medical
+Study Year of Screen,,0.971402108669281,non-medical
+Study Year of Screen,,0.971402108669281,non-medical
+Margins,Description of margins for non-calcified nodules or masses with >= 4 mm diameter.,0.9708409309387207,non-medical
+Location of epicenter,Location of epicenter for non-calcified nodules or masses with >= 4 mm diameter.,0.9668412208557129,non-medical
+Predominant attenuation,Predominant attenuation for non-calcified nodules or masses with >= 4 mm diameter.,0.9663060903549194,non-medical
+Was the abnormality not identified until the comparison with historical images?,Was the abnormality not identified until the comparison with historical images?  Abnormalities are in this dataset regardless of whether they were found on the initial read of the screen or during the comparison with prior images.,0.9527358412742615,non-medical
+Longest diameter (in mm),Longest diameter in millimeters for non-calcified nodules or masses with >= 4 mm diameter.,0.900469183921814,non-medical
+AJCC 7th edition staging path N component,,0.8862537741661072,non-medical
+Reason for limited / non-diagnostic CT: Motion artifact,,0.8807142376899719,non-medical
+Age at randomization (in years; whole number),,0.866336464881897,non-medical
+Gender,,0.8575802445411682,non-medical
+Reason for limited / non-diagnostic CT: Severe beam hardening artifact,,0.7780839800834656,non-medical
+Longest perpendicular diameter (same CT slice in mm),"Longest diameter perpendicular to the longest overall diameter, in millimeters, for non-calcified nodules or masses with >= 4 mm diameter.",0.7711973190307617,non-medical
+Interval suspicious change in attenuation,"Did the abnormality have an interval suspicious change in attenuation, for non-calcified nodules or masses with >= 4 mm diameter?",0.7321157455444336,non-medical
+Abnormality number (unique identifier),"A number assigned to each abnormality.  This starts at 1 for each participant for each study year, and counts up for each additional abnormality that participant has in that study year.  Along with pid and study_yr, this can be used to match records in this dataset to records in the main Spiral CT Abnormality dataset.",0.7165153622627258,non-medical
+Interval change warrants further investigation (for oth. sig. abn. only),"Does interval change in the abnormality warrant further investigation, for significant abnomalities other than non-calcified nodules or masses with >= 4 mm diameter?",0.6993338465690613,non-medical
+Reason for limited / non-diagnostic CT: Submaximal inspiratory breath-hold,,0.6737922430038452,non-medical
+Smoking status at T0,Cigarette smoking status (current vs former) at randomization.  Former smokers must have quit within 15 years of eligibility determination to have been eligible for the trial.,0.6598746180534363,non-medical
+AJCC 7th edition staging path M component,,0.6151373386383057,non-medical
+Interval growth of abnormality (for code 51 only),"Did the abnormality have interval growth, for non-calcified nodules or masses with >= 4 mm diameter?",0.5666536688804626,non-medical
+Abnormality number (unique identifier),"A number assigned to each abnormality.  This starts at 1 for each participant for each study year, and counts up for each additional abnormality that participant has in that study year.  Along with pid and study_yr, this can be used to match abnormality records in this dataset to records in the Spiral CT Comparison Read Abnormalities dataset .",0.5355895161628723,non-medical
+Pathologic N for staging,Pathologic N code for staging (AJCC 6).,0.5306676030158997,non-medical
+Was abnormality pre-existing?,Was the abnormality pre-existing?,0.516438901424408,non-medical
+Reason for limited / non-diagnostic CT: Incorrect technical parameter(s),,0.5130160450935364,non-medical
