@@ -1,0 +1,797 @@
+General Attribute,Matched Medical Attributes,Accuracy,Label
+culture,Anthropological Culture; Culture For Fungus; Anaerobic Blood Culture,0.9977392554283142,non-medical
+distortion,Architectural Distortion,0.9977291226387024,non-medical
+likely,Most Likely; Likely Benign Variant; Very Likely,0.9970989227294922,non-medical
+egg,Egg Whites Dietary,0.9970695376396179,non-medical
+collision,Motor Vehicle Collision,0.996935248374939,non-medical
+whites,Egg Whites Dietary,0.9968624711036682,non-medical
+constriction,Pathological Constriction,0.9967480897903442,non-medical
+study,Nonclinical Study Title; Study Report; Computerized Tomography Limited Or Localized Follow Up Study; Imaging Study With 3 Dimensional Rendering; Study Site Dissolved; Study Completion,0.996669590473175,non-medical
+hide,Animal Hide,0.9962636828422546,non-medical
+architectural,Architectural Distortion,0.9961408972740173,non-medical
+lays,Pet Lays In One Place All Day,0.995902419090271,non-medical
+street,Living On The Street,0.9957411289215088,non-medical
+home,At Home,0.995519757270813,non-medical
+tent,Face Tent Oxygen Delivery Device; Tent Recreation Equipment,0.9954121708869934,non-medical
+pet,Pet Lays In One Place All Day,0.9948383569717407,non-medical
+vehicle,Motor Vehicle Collision,0.9948076605796814,non-medical
+value,Distal Qualifier Value; Surrounding Qualifier Value; Improving Qualifier Value; Asymmetry Qualifier Value; Estimated Potential Vessel Value; Thin Qualifier Value; Not Examined For Contextual Qualifier Qualifier Value; Difficult Qualifier Value; Sudden Qualifier Value; To Be Done Qualifier Value; Return To Contextual Qualifier Qualifier Value; Square Millimeter Qualifier Value; Do Not Know Qualifier Value; Bore Qualifier Value; Probably Present Qualifier Value; Consented Qualifier Value; Definitely Present Qualifier Value; Unknown Origin Qualifier Value; Applies To Hl7 Value Set And Coded Concept Property Codes; Not Provided Qualifier Value; Relieved Qualifier Value; Not Needed Qualifier Value; Not Suspected Qualifier Value; 58 Qualifier Value; 66 Qualifier Value; Stabilized Qualifier Value; Elevation Value,0.9946901798248291,non-medical
+goes,Goes Invertebrate,0.9946678876876831,non-medical
+arcing,Electrical Arcing,0.994629979133606,non-medical
+aspirations,Mechanical Aspirations,0.994391679763794,non-medical
+colla,Colla Invertebrate,0.9943349361419678,non-medical
+testis,History Of Undescended Testis,0.9927064180374146,non-medical
+cleaning,Cleaning Activity,0.9925356507301331,non-medical
+therapist,Slt Speech And Language Therapist,0.9924342632293701,non-medical
+occult,Occult Malignancy,0.9923606514930725,non-medical
+flight,Flight Process,0.9920743703842163,non-medical
+floor,Floor Story Of Building,0.9917261004447937,non-medical
+attack,Ischemic Attack,0.9916757345199585,non-medical
+syncopal,Syncopal Episodes,0.9915182590484619,non-medical
+metal,Metal Artifact,0.9914223551750183,non-medical
+sunrise,View Sunrise,0.9911724328994751,non-medical
+house,House Staff,0.990492045879364,non-medical
+mechanical,Mechanical Difficult; Mechanical Aspirations; Mechanical Obstruction,0.9901537299156189,non-medical
+mural,Mural Nodule,0.9901269674301147,non-medical
+food,Bolus Of Ingested Food,0.9896730184555054,non-medical
+hard,Physical Hard Work,0.9892949461936951,non-medical
+undescended,History Of Undescended Testis,0.9892604947090149,non-medical
+phase,Oral Psychosexual Phase; Equilibrium Phase,0.9889350533485413,non-medical
+view,Single View; View Comparison; View Apical Lordotic; View Waters; Cxr Single View; View Sunrise,0.9889019727706909,non-medical
+couple,Couple Action,0.9888026118278503,non-medical
+play,Does Play,0.9886214137077332,non-medical
+reexploration,Reexploration Procedure,0.9883484244346619,non-medical
+smoking,History Of Smoking,0.9875854849815369,non-medical
+asbestos,History Of Asbestos Exposure,0.986569881439209,non-medical
+tobacco,Tobacco In Any Form; Tobacco Abuse,0.986361563205719,non-medical
+postcentral,Left Postcentral Gyrus; Structure Of Postcentral Gyrus,0.9860898852348328,non-medical
+orders,Orders Hl7Publishingdomain,0.9841806888580322,non-medical
+codes,Applies To Hl7 Value Set And Coded Concept Property Codes; Specimen Source Codes Polyps; Blue Codes; A Codes,0.9841552376747131,non-medical
+accentuation,Murmur Apical Diastolic With Presystolic Accentuation,0.9838558435440063,non-medical
+shooting,Shooting Sensation Quality,0.9837598204612732,non-medical
+snare,Snare Instrument,0.983281135559082,non-medical
+confusion,Cognitive Functions Confusion; History Of Confusion,0.9827343821525574,non-medical
+acquisition,Dynamic Acquisition; Image Acquisition,0.9825062155723572,non-medical
+reason,Change Reason; Primary Reason; Event Reason; Revision Reason; Suboptimal Image Reason,0.9824972748756409,non-medical
+impaction,Faecal Impaction,0.9824633002281189,non-medical
+migration,Stent Migration,0.9817461967468262,non-medical
+disturbance,Gait Disturbance Ctcae,0.9814894199371338,non-medical
+presacral,Presacral Space,0.9814102053642273,non-medical
+display,Display Arrangement,0.9810539484024048,non-medical
+staghorn,Bilateral Staghorn Calculus,0.980968713760376,non-medical
+held,Held Inspiration Physiologic Challenge Procedure,0.9808899760246277,non-medical
+transmission,Send Transmission; Data Transmission; Transmission Process,0.9805567860603333,non-medical
+charge,Charge Electrical,0.9798890948295593,non-medical
+saddle,Saddle Pe,0.9797229170799255,non-medical
+exchange,Degree Of Relationship Exchange; Nonsister Chromatid Exchange,0.9788567423820496,non-medical
+collection,Collection Action; Unusual Gas Collection; No Collection,0.9787673354148865,non-medical
+challenge,Held Inspiration Physiologic Challenge Procedure,0.9787014126777649,non-medical
+coded,Applies To Hl7 Value Set And Coded Concept Property Codes,0.9783799648284912,non-medical
+bruit,Right Femoral Bruit,0.9781803488731384,non-medical
+projections,Projections And Predictions,0.9780566096305847,non-medical
+discussion,Discussion Communication,0.9777716994285583,non-medical
+basically,My Appearance Has Basically Not Changed,0.9771074652671814,non-medical
+paid,Paid Hours,0.9766740798950195,non-medical
+specimens,Biological Specimens,0.9765617251396179,non-medical
+unresectable,Unresectable Mass,0.9764899611473083,non-medical
+sulcal,Sulcal Effacement,0.976118803024292,non-medical
+hardening,Beam Hardening Artifact,0.9760202169418335,non-medical
+fungus,Culture For Fungus,0.975735604763031,non-medical
+geographic,Geographic Pattern,0.9757007360458374,non-medical
+origin,Vessel Common Origin; Vessel Origin; Unknown Origin Qualifier Value,0.9756852388381958,non-medical
+studies,Scientific Studies; Follow Up Studies; Imaging Studies; Other Imaging Studies,0.9749305844306946,non-medical
+flair,Flair Product; Flair Image,0.9747638702392578,non-medical
+branching,Normal Branching,0.9739768505096436,non-medical
+c,C News,0.9739416837692261,non-medical
+wiring,Procedure Sternum Wiring,0.973211944103241,non-medical
+valsalva,Valsalva S Maneuver,0.9727875590324402,non-medical
+turn,Does Turn Finding,0.9725837111473083,non-medical
+dissolved,Study Site Dissolved,0.9721251130104065,non-medical
+arranged,Arranged Transportation,0.9720598459243774,non-medical
+arrival,Arrival Action,0.9719386696815491,non-medical
+hour,One Activity Hour,0.9701759219169617,non-medical
+remains,Body Remains,0.9701251983642578,non-medical
+spike,Spike Physical Object,0.9696005582809448,non-medical
+estimated,Estimated Potential Vessel Value,0.9688112735748291,non-medical
+slowed,Slowed Transit,0.9685306549072266,non-medical
+caval,Vena Caval Structure; Superior Vena Caval; Inferior Vena Caval,0.9683797955513,non-medical
+work,Physical Hard Work; Work Of Breathing; Work Ups,0.9682899117469788,non-medical
+umbrella,Umbrella Filters,0.9673932790756226,non-medical
+waters,View Waters,0.9669162631034851,non-medical
+subjective,Subjective Fever,0.966266930103302,non-medical
+exertion,Borg Category Ratio 10 Perceived Exertion Score 1,0.9662657976150513,non-medical
+ratios,Likelihood Ratios,0.9658452868461609,non-medical
+changed,Not Changed; Changed Status; My Appearance Has Basically Not Changed,0.9658288955688477,non-medical
+flap,Flap Repair,0.9657157063484192,non-medical
+chemical,Chemical Moiety,0.9656044244766235,non-medical
+color,Grayscale Color Map; Color Doppler; Color Doppler Ultrasonography,0.9648580551147461,non-medical
+hearing,Hearing Functions Unspecified,0.9647130966186523,non-medical
+osteophyte,Osteophyte Formation,0.9642894268035889,non-medical
+metallic,Metallic Lead; Metallic Foreign Material; Metallic Object; Metallic Stents,0.9635045528411865,non-medical
+coarse,Coarse Breath Sounds,0.9633614420890808,non-medical
+weaning,Difficulty Weaning; Weaning From Ventilator Finding,0.9628900289535522,non-medical
+foreign,Metallic Foreign Material,0.9625207781791687,non-medical
+agitated,Agitated Behaviour,0.962289035320282,non-medical
+schmorl,Schmorl S Nodes Of Unspecified Region,0.9619967341423035,non-medical
+thought,Thought Functions Unspecified,0.9615354537963867,non-medical
+performance,Performance Outcome,0.9612901210784912,non-medical
+plate,Plate Like Atelectasis,0.9612767100334167,non-medical
+planes,Set Of Coronal Planes; Set Of Sagittal Planes,0.9609023928642273,non-medical
+beam,Beam Hardening Artifact,0.9608670473098755,non-medical
+fresh,Fresh Frozen,0.9606658220291138,non-medical
+processing,Processing Auditory; Processing Technique,0.9603016376495361,non-medical
+harvest,Harvest Procedure,0.9597488045692444,non-medical
+area,Limited Area; Geographical Area; Area 7 Of Brodmann Guenon; Area 18 Of Brodmann Guenon; Local Area,0.959685206413269,non-medical
+auditory,Processing Auditory; External Auditory Canal Structure; Internal Auditory Canal Right,0.9587836265563965,non-medical
+film,Coating Film,0.9587403535842896,non-medical
+pars,Defects Pars,0.95850670337677,non-medical
+fuzzy,Fuzzy Head,0.9578896760940552,non-medical
+simulate,Simulate Composite Resin,0.9575536251068115,non-medical
+needed,Not Needed Qualifier Value,0.956967830657959,non-medical
+bullet,Bullet Shape,0.9559940099716187,non-medical
+omental,Structure Of Region Of Omental Bursa,0.9555476903915405,non-medical
+plateau,Tibial Plateau Structure,0.9554657936096191,non-medical
+lying,Lying Flat,0.955186665058136,non-medical
+subependymal,Subependymal Region,0.9549453258514404,non-medical
+potential,Estimated Potential Vessel Value,0.9548817873001099,non-medical
+maneuver,Valsalva S Maneuver,0.9546331763267517,non-medical
+desiccation,Desiccation Action,0.954153299331665,non-medical
+bony,Bony Destruction; Bony Appendage; Bony Defect; Bony Fusion,0.9539329409599304,non-medical
+breaking,Breaking Down,0.9537736773490906,non-medical
+positions,Abnormal Positions; Seated Positions; Change Positions,0.95279461145401,non-medical
+likelihood,Likelihood Ratios,0.9526165127754211,non-medical
+loops,Dilated Loops; A Loops,0.9522821307182312,non-medical
+support,Ventilatory Support,0.9513934850692749,non-medical
+lordotic,View Apical Lordotic; Apical Lordotic,0.9501067996025085,non-medical
+regions,Hemispheric Regions,0.950039267539978,non-medical
+geographical,Geographical Area,0.9499689340591431,non-medical
+examined,Not Examined For Contextual Qualifier Qualifier Value,0.9499038457870483,non-medical
+pulling,Pulling Action,0.9491801261901855,non-medical
+less,Less Than Or Equal To; Less Than 50 000; Psa Level Less Than Five; Psa Level Less Than Two,0.9486944675445557,non-medical
+indication,Indication Of Contextual Qualifier; No Indication Of,0.9482468962669373,non-medical
+self,Self Extubated,0.9475582838058472,non-medical
+fear,Fear Mental Process,0.947391152381897,non-medical
+slightly,Slightly Worse; 3 Slightly; 2 Slightly; Slightly Above; Slightly Below; Slightly Difficult,0.9472982883453369,non-medical
+familial,Congenital Familial And Genetic Disorder Class,0.9469013214111328,non-medical
+plain,Plain Radiography,0.9458841681480408,non-medical
+degree,Degree Of Relationship Exchange,0.9458644390106201,non-medical
+super,A Little T Super Little A; D Little O Super Little B; D Little O Super Little A; I Little N Super Little B,0.9452232122421265,non-medical
+outer,Outer Greatest Diameter,0.9446435570716858,non-medical
+gross,Normal Gross Anatomical Structure,0.9445067644119263,non-medical
+ingested,Bolus Of Ingested Food,0.9435141086578369,non-medical
+little,A Little T Super Little A; Yes Limited A Little; D Little O Super Little B; D Little O Super Little A; I Little N Super Little B,0.9428070783615112,non-medical
+diffusely,Diffusely Increased,0.9425785541534424,non-medical
+ethanol,Anhydrous Ethanol,0.9423319101333618,non-medical
+lack,Lack Of Memory,0.9423250555992126,non-medical
+recess,Structure Of Lateral Recess Of Fourth Ventricle; Right Piriform Recess,0.9420645833015442,non-medical
+idiopathic,Dish Diffuse Idiopathic Skeletal Hyperostosis; Acute Exacerbation Of Idiopathic Pulmonary Fibrosis; Ipf Idiopathic Pulmonary Fibrosis,0.94193434715271,non-medical
+map,Grayscale Color Map,0.9414878487586975,non-medical
+person,Advocate Person,0.9409248232841492,non-medical
+diverticula,Few Colonic Diverticula,0.9409109950065613,non-medical
+apical,Murmur Apical Diastolic With Presystolic Accentuation; View Apical Lordotic; Apical Pleural Thickening; Apical Lordotic,0.9395163655281067,non-medical
+organization,Company Organization,0.9394296407699585,non-medical
+semi,Semi Erect,0.9393843412399292,non-medical
+could,Could Not Be Determined,0.9388434290885925,non-medical
+localization,Stereotactic Localization,0.9384152293205261,non-medical
+dense,Dense Material; Dense Infiltrates,0.9369071125984192,non-medical
+extubated,Self Extubated,0.9357909560203552,non-medical
+glass,Ground Glass Opacification; Ground Glass; Ground Glass Appearance,0.9352747797966003,non-medical
+coronal,Set Of Coronal Planes,0.9350016713142395,non-medical
+labeled,Labeled Qualifier,0.9342661499977112,non-medical
+ten,Ten Day Report,0.9340181946754456,non-medical
+opacities,Diffuse Opacities,0.9338427782058716,non-medical
+psa,Psa Level Less Than Five; Psa Level Less Than Two,0.933755099773407,non-medical
+erect,Semi Erect,0.9327641129493713,non-medical
+falls,Multiple Falls,0.9323932528495789,non-medical
+exposure,History Of Asbestos Exposure,0.932357132434845,non-medical
+trochanteric,Trochanteric Femoral Fracture; Entire Trochanteric Section Of Femur,0.9321154356002808,non-medical
+pass,Pass Indicator,0.9316765666007996,non-medical
+infratemporal,Structure Of Infratemporal Fossa,0.9310199022293091,non-medical
+gyri,Medial Part Of Gyri Orbitales,0.9304143190383911,non-medical
+convex,Convex To Left; Convex To Right,0.929962158203125,non-medical
+schedule,Prn Schedule Frequency,0.9299157857894897,non-medical
+hemispheric,Hemispheric Regions,0.9295697212219238,non-medical
+unable,Unable To Assess; Unable To See At All,0.9286803603172302,non-medical
+circumferential,Multiple Benign Circumferential Skin Creases On Limbs,0.9283103346824646,non-medical
+labeling,Labeling Spin,0.9274762272834778,non-medical
+improving,Improving Qualifier Value,0.9270190596580505,non-medical
+skew,Skew Deviation,0.9269214272499084,non-medical
+flow,Flow Rate; Doppler Colour Flow,0.9265538454055786,non-medical
+able,Not At All Able; Able To See Finding,0.9264175891876221,non-medical
+clavian,Sub Clavian,0.9262630343437195,non-medical
+stand,Ability To Stand Upright,0.9257863163948059,non-medical
+cast,Fiberglass Cast Device Physical Object,0.9257546663284302,non-medical
+incidental,Incidental Findings,0.9253476858139038,non-medical
+holding,Breath Holding With Temper,0.9250906109809875,non-medical
+displaced,Non Displaced; Non Displaced Fracture,0.9250246286392212,non-medical
+shear,Shear Injury,0.9242187142372131,non-medical
+make,Make Instruction Imperative,0.9239016771316528,non-medical
+spectrum,Electromagnetic Spectrum,0.9236526489257812,non-medical
+week,In The Last Week; One Week; More Than A Week,0.9236493706703186,non-medical
+morning,In The Morning,0.9233070015907288,non-medical
+command,Remote Control Command Transport To,0.9229885339736938,non-medical
+impression,Impression Attitude,0.9223368763923645,non-medical
+sub,Sub Clavian,0.9221722483634949,non-medical
+production,Increased Sputum Production; Production Sputum,0.9218575954437256,non-medical
+landmarks,Anatomic Landmarks,0.9217342734336853,non-medical
+extremely,Extremely Limited; Extremely Poor; Extremely Difficult,0.9217272400856018,non-medical
+periosteal,Hand X Ray Periosteal New Bone Formation,0.921721339225769,non-medical
+greatest,Outer Greatest Diameter,0.921373724937439,non-medical
+fused,Not Fused,0.9212537407875061,non-medical
+fiberglass,Fiberglass Cast Device Physical Object,0.9208473563194275,non-medical
+degradation,Material Degradation; Elevated Fibrin Degradation Fragment Concentration,0.9205427765846252,non-medical
+sit,Does Sit Up,0.9203315377235413,non-medical
+immediate,Immediate Radiation Injury,0.9198280572891235,non-medical
+tentorium,Structure Of Tentorium Cerebelli,0.9190464019775391,non-medical
+suboptimal,Suboptimal Image Reason,0.9188803434371948,non-medical
+frozen,Fresh Frozen,0.9179177284240723,non-medical
+compressing,Compressing Action,0.9171631336212158,non-medical
+ratio,Increased Mass To Volume Ratio; Borg Category Ratio 10 Perceived Exertion Score 1; Decreased Mass To Volume Ratio; Abnormal Mass To Volume Ratio,0.9163994193077087,non-medical
+perilesional,Perilesional Route Of Administration,0.9160683751106262,non-medical
+steri,Steri Strip,0.9153701663017273,non-medical
+texture,With Texture,0.9152306318283081,non-medical
+outflow,Structure Of Outflow Tract Of Right Ventricle,0.9147966504096985,non-medical
+dehiscence,Sternal Dehiscence,0.9147817492485046,non-medical
+shifting,Fluid Shifting,0.9144591689109802,non-medical
+instrument,Snare Instrument,0.914400041103363,non-medical
+fifteen,Fifteen Minutes,0.9138608574867249,non-medical
+enhance,Enhance Action,0.9127634167671204,non-medical
+averaging,Partial Volume Averaging,0.9123308658599854,non-medical
+convergence,Convergence Action,0.9120298027992249,non-medical
+exaggerated,Exaggerated Lordosis,0.9116768836975098,non-medical
+hooks,Laminar Hooks,0.9115784764289856,non-medical
+rendering,Volume Rendering; Imaging Study With 3 Dimensional Rendering,0.9111108183860779,non-medical
+moiety,Chemical Moiety,0.9109427332878113,non-medical
+gauge,20 Gauge; 18 Gauge; 22 Gauge,0.910450279712677,non-medical
+dynamic,Dynamic Acquisition,0.9102339744567871,non-medical
+upright,Sitting Upright; Pa Upright; Ability To Stand Upright,0.9097188115119934,non-medical
+pack,Battery Pack,0.9091609716415405,non-medical
+stools,Maroon Stools,0.9089816212654114,non-medical
+indeterminate,Indeterminate Nodule Type,0.9085476994514465,non-medical
+ruq,Ruq Right Upper Quadrant,0.9081311821937561,non-medical
+processes,Spinous Processes; Neoplastic Processes; Processes Pathological,0.9079322218894958,non-medical
+aspirate,Aspirate Substance,0.9076558351516724,non-medical
+patchy,Patchy Distribution,0.9075962901115417,non-medical
+five,Forty Five Minutes; Five Per Second; Greater Than Seventy Five Percent; Psa Level Less Than Five; Sixty Five,0.9070470929145813,non-medical
+intertrochanteric,Intertrochanteric Fracture Of Femur,0.9069984555244446,non-medical
+pupil,Anisocoria Unequal Pupil Diameter,0.9065080285072327,non-medical
+experienced,Have You Experienced Tenderness,0.9062542915344238,non-medical
+bloc,En Bloc,0.9058261513710022,non-medical
+spinous,Spinous Processes,0.9053232669830322,non-medical
+opercular,Opercular Region,0.905303955078125,non-medical
+values,Techniques Values,0.9052438139915466,non-medical
+tingling,Tingling Sensation,0.9045798778533936,non-medical
+light,Light Intensity,0.9045730829238892,non-medical
+breathing,Work Of Breathing; Breathing Distress Question,0.9045171737670898,non-medical
+substance,Liquid Substance; Peritoneal Fluid Body Substance; Mucous Body Substance; Aspirate Substance; Trabecular Substance Of Bone; Of Substance Abuse,0.9031899571418762,non-medical
+phone,Phone Call,0.9023123383522034,non-medical
+hepatitis,Ih Infectious Hepatitis,0.9021697640419006,non-medical
+honeycombed,Honeycombed Pattern,0.9020689129829407,non-medical
+sense,Sense Of Identity Observable Entity,0.9020679593086243,non-medical
+digit,Digit Structure,0.9018871784210205,non-medical
+battery,Battery Pack,0.9017229676246643,non-medical
+fair,A Fair Amount,0.9003860354423523,non-medical
+coils,Coils Formation,0.900196373462677,non-medical
+sternal,Sternal Dehiscence,0.8990787267684937,non-medical
+containing,Gipc Pdz Domain Containing Family Member 1; Polymethyl Methacrylate Containing Product,0.8990036845207214,non-medical
+max,Max 4,0.8986959457397461,non-medical
+asymmetry,Asymmetry Qualifier Value,0.8983899354934692,non-medical
+subcarinal,Subcarinal Mass,0.8978517651557922,non-medical
+call,Phone Call,0.8978449702262878,non-medical
+subtraction,Techniques Subtraction,0.8973257541656494,non-medical
+stretched,Material Stretched,0.897067666053772,non-medical
+screws,Facet Screws,0.8967491388320923,non-medical
+material,Radiographic Contrast Material; Metallic Foreign Material; Material Degradation; Infusion Reaction Extravasation Of Contrast Material; Dense Material; Material Stretched,0.8965582847595215,non-medical
+brought,Brought On By,0.896318793296814,non-medical
+sob,Sob Shortness Of Breath,0.89525306224823,non-medical
+echo,Magnetization Prepared Rapid Gradient Echo Mri; Spin Echo Imagings; Three Dimensional Magnetization Prepared Rapid Gradient Echo Imaging,0.895056426525116,non-medical
+coating,Coating Film,0.894450843334198,non-medical
+hours,Few Hours; 18 Hours; 6 Hours; 4 Hours; 8 Hours; 5 Hours; 7 Hours; Within 24 Hours; Paid Hours; Within Last 24 Hours,0.8941406011581421,non-medical
+phenomenon,Pulse Phenomenon,0.894008219242096,non-medical
+direction,West Direction; Anterograde Direction,0.8938853740692139,non-medical
+providing,Providing Action,0.8934374451637268,non-medical
+get,Cannot Get About Finding,0.8930131793022156,non-medical
+sound,Sound Of Respiration; Peristaltic Sound Absence,0.8930007815361023,non-medical
+passive,Passive Congestion,0.8924530744552612,non-medical
+distribution,Patchy Distribution,0.8921951055526733,non-medical
+content,Content Of Mediastinum,0.8917719125747681,non-medical
+west,West Direction,0.8914021849632263,non-medical
+except,Except For,0.8911729454994202,non-medical
+patents,Patents Rights,0.8909705281257629,non-medical
+search,Search Action,0.8907706141471863,non-medical
+relate,Relate Vinyl Resin,0.8907428979873657,non-medical
+ostiomeatal,Ostiomeatal Complex,0.8903766870498657,non-medical
+luq,Luq Left Upper Quadrant,0.889769971370697,non-medical
+data,Entry Data; Data Transmission; Data Sets,0.8897124528884888,non-medical
+fiber,White Fiber,0.8894479870796204,non-medical
+return,Return To Contextual Qualifier Qualifier Value,0.8894424438476562,non-medical
+loading,Loading Technique; Faecal Loading,0.8891487121582031,non-medical
+several,Several Days,0.888827383518219,non-medical
+satiety,Early Satiety,0.8885709643363953,non-medical
+numbering,Numbering System,0.888236403465271,non-medical
+pathological,Pathological Dilatations; Pathological Constriction; Pathological Diagnosis; Processes Pathological,0.8877556920051575,non-medical
+perpendicular,Longest Perpendicular,0.8874800205230713,non-medical
+patency,Views For Patency,0.8873922228813171,non-medical
+expanded,Not Present Expanded Yes No Indicator; Not Expanded,0.8867695927619934,non-medical
+slow,Slow Growth Rate; Slow To Focus,0.886340856552124,non-medical
+open,Open Reduction Internal Fixation Orif; Open Communication,0.8855354189872742,non-medical
+focus,Slow To Focus,0.8847271800041199,non-medical
+gain,Copy Number Gain,0.8846145272254944,non-medical
+sensation,Shooting Sensation Quality; Impaired Sensation; Tingling Sensation; Constricting Sensation Quality,0.8843234181404114,non-medical
+sized,Sized Small,0.8840814232826233,non-medical
+relationship,Degree Of Relationship Exchange,0.8840799927711487,non-medical
+improvement,Possible Improvement; No Improvement,0.8833106160163879,non-medical
+incident,Reportings Incident,0.8832874894142151,non-medical
+thank,Thank You,0.8826080560684204,non-medical
+headset,Headphone Headset,0.882405161857605,non-medical
+cyberknife,Radiation Cyberknife; Cyberknife Radiosurgeries,0.8813788890838623,non-medical
+term,Term Lexical,0.881188154220581,non-medical
+showing,Behaviour Showing Increased Motor Activity,0.8808808326721191,non-medical
+mildly,Mildly Enlarged; Mildly Decreased; Mildly Thick,0.8806185126304626,non-medical
+precentral,Precentral Motor Cortices,0.8803130984306335,non-medical
+recesses,Set Of Recesses,0.8801606297492981,non-medical
+tex,Gore Tex,0.8799452185630798,non-medical
+understanding,Understanding Function,0.8794953227043152,non-medical
+sitting,Sitting Upright,0.8785428404808044,non-medical
+laminar,Laminar Hooks,0.8782232999801636,non-medical
+thick,Thick Walled; Mildly Thick,0.8778339624404907,non-medical
+water,With Water; Cubic Centimeter Of Water,0.8769415616989136,non-medical
+terms,Short Terms,0.8767357468605042,non-medical
+antrum,Pyloric Antrum Structure,0.8765435814857483,non-medical
+shape,Circular Shape; Complex Nodule Shape; Bullet Shape; Ellipse Shape; Unequal Skull Shape,0.8763012886047363,non-medical
+silent,Silent Aspiration,0.8762543797492981,non-medical
+patent,Legal Patent,0.8761758804321289,non-medical
+en,En Bloc,0.8761444687843323,non-medical
+remote,Remote Control Command Transport To,0.8758149147033691,non-medical
+fewer,Fewer Than Expected,0.8754851222038269,non-medical
+walled,Thick Walled,0.8753069043159485,non-medical
+solids,No Solids,0.8751943111419678,non-medical
+techniques,Techniques Values; Techniques Subtraction,0.874498724937439,non-medical
+drop,Drop Unit Of Volume,0.8731439113616943,non-medical
+radius,Distal Fractures Radius,0.8725903630256653,non-medical
+revision,Revision Procedure; Revision Reason,0.8725610375404358,non-medical
+metachronous,Second Primary Neoplasms Metachronous,0.8724923133850098,non-medical
+company,Company Organization,0.872374415397644,non-medical
+sectional,Cross Sectional Imaging; Cross Sectional Analyses,0.8720144629478455,non-medical
+demineralization,Diffuse Osseous Demineralization,0.871076226234436,non-medical
+conform,Does Not Conform,0.8708682060241699,non-medical
+check,Placement Check,0.8708376884460449,non-medical
+language,Slt Speech And Language Therapist; Language Pathology,0.8707132339477539,non-medical
+expansion,Incomplete Expansion,0.8705070614814758,non-medical
+six,Six Months,0.8700948357582092,non-medical
+linear,Linear Atelectasis,0.8696303963661194,non-medical
+equilibrium,Equilibrium Phase,0.8694378137588501,non-medical
+sequence,Dna Sequence Cloning Site,0.8693787455558777,non-medical
+assistance,Supportive Assistance,0.8692300915718079,non-medical
+send,Send Transmission,0.868962287902832,non-medical
+hardly,Hardly At All,0.8687297105789185,non-medical
+curved,Curved Tube,0.8681941628456116,non-medical
+torsion,Multisection For Torsion,0.867420494556427,non-medical
+piriform,Right Piriform Recess,0.8671149611473083,non-medical
+movement,No Movement,0.8670266270637512,non-medical
+determined,Could Not Be Determined,0.8659090399742126,non-medical
+csf,Ventricular Csf,0.8658188581466675,non-medical
+cxr,Cxr Single View,0.8656454086303711,non-medical
+honeycombing,Subpleural Honeycombing,0.8653742074966431,non-medical
+prone,Prone Positioning,0.8652306795120239,non-medical
+poor,Extremely Poor,0.8642107248306274,non-medical
+flat,Lying Flat,0.8637097477912903,non-medical
+month,Month Day Year; One Month; In The Last Month; Month Year; Month Follow Up,0.8632350564002991,non-medical
+oat,Cells Oat,0.8627657890319824,non-medical
+protocol,Pe Protocol; Per Protocol; Ct Protocol,0.8622811436653137,non-medical
+percussion,Tympanic Abdoman To Percussion,0.8621419072151184,non-medical
+osseous,Diffuse Osseous Demineralization,0.8618753552436829,non-medical
+ground,Ground Glass Opacification; Ground Glass; Ground Glass Appearance,0.8618119359016418,non-medical
+piece,Piece Unit,0.8613016605377197,non-medical
+centimeter,Centimeter Per Second; Cubic Centimeter Of Water,0.8610121011734009,non-medical
+relaxation,Transverse Relaxation Time Fluid Attenuated Inversion Recovery Mri,0.8609449863433838,non-medical
+cage,Cage Device,0.860884964466095,non-medical
+desired,As Much As Desired,0.8592492341995239,non-medical
+based,Pleural Based Plaque,0.8588371276855469,non-medical
+know,Do Not Know Qualifier Value,0.8585113286972046,non-medical
+muscular,Muscular Stiffness,0.8583195805549622,non-medical
+correction,Attenuation Correction Type,0.8570704460144043,non-medical
+word,Word Finding Difficulty Disorder,0.8554908633232117,non-medical
+sensory,Sensory Perception Function,0.8549434542655945,non-medical
+mortise,Talar Mortise,0.8535581231117249,non-medical
+pounds,20 Pounds,0.8526983261108398,non-medical
+widened,Widened Structure,0.8526957035064697,non-medical
+interlobar,Interlobar Fissures,0.8512728214263916,non-medical
+minimal,Minimal To Mild; Minimal Activity,0.850624144077301,non-medical
+covered,Not Covered; Covered By,0.8503284454345703,non-medical
+duplication,Duplication Finding,0.8502330183982849,non-medical
+suggestive,Suggestive Of,0.8501138091087341,non-medical
+ascitic,Fluids Ascitic,0.8493025898933411,non-medical
+surrounding,Surrounding Qualifier Value,0.849247932434082,non-medical
+fold,Skin Fold Abnormality,0.8490846753120422,non-medical
+stabilized,Stabilized Qualifier Value,0.8489543199539185,non-medical
+visualization,Direct Visualization,0.8480979800224304,non-medical
+supportive,Supportive Assistance,0.8480737805366516,non-medical
+smaller,Is Smaller Than,0.8477891087532043,non-medical
+opaque,Radio Opaque Acrylic Resin,0.8473490476608276,non-medical
+diminution,Diminution Of Size,0.8472715020179749,non-medical
+procedural,Distinct Procedural Service; Current Procedural Terminology Code,0.846612274646759,non-medical
+signal,Signal Intensity,0.8461650013923645,non-medical
+copy,Copy Number Gain,0.845764696598053,non-medical
+sure,Not Sure,0.8457534313201904,non-medical
+eating,Pain With Eating,0.845711350440979,non-medical
+two,Last Two Weeks; Two Weeks; Sixty Two; Last Two Days; One Or Two Days; Psa Level Less Than Two,0.8445872664451599,non-medical
+limits,Within Normal Limits,0.8445703387260437,non-medical
+course,Relapsing Course,0.8424487113952637,non-medical
+chloride,Thallous Chloride,0.8422979116439819,non-medical
+issues,With Issues,0.8417782783508301,non-medical
+outlines,Outlines Document,0.8415372967720032,non-medical
+declined,Response Declined,0.8414439558982849,non-medical
+years,75 Years Old; 40 Years,0.8409085869789124,non-medical
+fissures,Interlobar Fissures,0.840729296207428,non-medical
+ago,2 Days Ago; 7 Days Ago; 5 Days Ago; 4 Days Ago; 3 Days Ago,0.840630054473877,non-medical
+communicate,Does Communicate,0.8398675918579102,non-medical
+thickness,Maximum Thickness; Increased Thickness,0.8395428657531738,non-medical
+intensity,Intensity And Distress 1; Intensity And Distress 5; With Intensity; Signal Intensity; Light Intensity; Moderate Intensity; High Intensity,0.8393322229385376,non-medical
+sudden,Sudden Qualifier Value,0.8384549021720886,non-medical
+achieved,Not Achieved,0.8383857607841492,non-medical
+tattoos,Multiple Tattoos,0.8377996683120728,non-medical
+inlet,Region Of Thoracic Inlet,0.8368196487426758,non-medical
+every,Every Day,0.8366445899009705,non-medical
+prev,Htmllinktype Prev,0.8364569544792175,non-medical
+supracondylar,Supracondylar Fracture,0.8360758423805237,non-medical
+choked,Choked On,0.835426390171051,non-medical
+cavitation,Cavitation Process,0.8351787328720093,non-medical
+lordosis,Exaggerated Lordosis,0.8350167274475098,non-medical
+musculoskeletal,Unspecified Musculoskeletal Problem,0.8335515260696411,non-medical
+none,None Of These,0.8335344195365906,non-medical
+demonstrated,Not Demonstrated,0.8329707384109497,non-medical
+prepared,Magnetization Prepared Rapid Gradient Echo Mri; Three Dimensional Magnetization Prepared Rapid Gradient Echo Imaging,0.8329035639762878,non-medical
+found,Found Down,0.8327745199203491,non-medical
+elicited,Elicited By,0.8319171667098999,non-medical
+times,A Few Times,0.8316279053688049,non-medical
+last,In The Last Week; Last Two Weeks; Last Two Days; In The Last Month; Within Last 24 Hours,0.831306517124176,non-medical
+equal,Less Than Or Equal To,0.831149697303772,non-medical
+gradient,Magnetization Prepared Rapid Gradient Echo Mri; Three Dimensional Magnetization Prepared Rapid Gradient Echo Imaging,0.8311046957969666,non-medical
+given,Not Given,0.8309252858161926,non-medical
+contour,Contour Form; Irregular Contour,0.8298935890197754,non-medical
+speech,Slt Speech And Language Therapist; Pathology Speech,0.8295820355415344,non-medical
+completion,Study Completion,0.8284587264060974,non-medical
+target,Sequencing Target Region,0.828417956829071,non-medical
+relieved,Relieved Qualifier Value,0.8284086585044861,non-medical
+leptomeninges,Neoplasm Of The Leptomeninges,0.82830411195755,non-medical
+plural,Plural Effusion,0.827141523361206,non-medical
+cap,Cap Combination; Cap Formation Cell Function,0.8269807696342468,non-medical
+year,Month Day Year; One Year; Month Year,0.8267034292221069,non-medical
+see,Unable To See At All; Able To See Finding,0.8258443474769592,non-medical
+kneeling,Body Position Kneeling,0.8252928853034973,non-medical
+days,10 Days; 2 Days; 2 Days Ago; 3 Days; Several Days; 5 Days; 4 Days; 7 Days Ago; 5 Days Ago; Last Two Days; 4 Days Ago; One Or Two Days; 3 Days Ago; More Than 7 Days,0.8252124786376953,non-medical
+summary,Summary Report,0.8244766592979431,non-medical
+possible,As Soon As Possible; Possible Improvement,0.8244209885597229,non-medical
+expected,It Was About What I Expected; Fewer Than Expected,0.8235885500907898,non-medical
+discontinuous,Discontinuous Anatomic Feature,0.823407769203186,non-medical
+progress,Status In Progress,0.8230889439582825,non-medical
+pink,Pink Tinged,0.8227314352989197,non-medical
+insula,Gray Matter Of Right Insula; Right Insula,0.822632908821106,non-medical
+polypoid,Exophytic Polypoid Lesion,0.8222385048866272,non-medical
+unequal,Anisocoria Unequal Pupil Diameter; Unequal Skull Shape,0.8216457962989807,non-medical
+unstable,Unstable Condition,0.821506917476654,non-medical
+four,Sixty Four,0.8195330500602722,non-medical
+ended,Ended Status,0.8193655014038086,non-medical
+moderately,Moderately Enlarged; Moderately Severe Hallucination; Moderately Better; Moderately Decreased,0.8191649317741394,non-medical
+document,Outlines Document; Note Document,0.8188729286193848,non-medical
+better,Much Better; Moderately Better,0.8182792663574219,non-medical
+nine,Sixty Nine,0.8181994557380676,non-medical
+svc,Left Svc,0.8179854154586792,non-medical
+pubis,Symphysis Pubis Structure; Unspecified Fracture Of Pubis,0.8174194097518921,non-medical
+seated,Seated Positions,0.8169151544570923,non-medical
+slight,Slight Change,0.8163105845451355,non-medical
+conray,Conray 30,0.8155056238174438,non-medical
+toe,Great Toe Structure,0.8151708245277405,non-medical
+spherical,Spherical Shaped,0.8147785663604736,non-medical
+spiking,Spiking Temperature,0.8140564560890198,non-medical
+stopped,To Be Stopped,0.8137203454971313,non-medical
+vol,Speciman Volume : Vol : Pt : Plr Fld : Qn; Speciman Volume : Vol : Pt : Bld : Qn; Specimen Volume : Vol : Pt : Pericard Fld : Qn,0.8135185241699219,non-medical
+effort,A Small Amount Of Effort,0.8134301900863647,non-medical
+falx,Structure Of Falx Cerebri,0.8130635619163513,non-medical
+additional,Additional Level,0.812646210193634,non-medical
+sequences,Other Sequences,0.812566339969635,non-medical
+barrier,Barrier Device,0.8120852708816528,non-medical
+cerebelli,Structure Of Tentorium Cerebelli,0.8116557598114014,non-medical
+intramural,Intramural Plaque,0.8102931976318359,non-medical
+anisocoria,Anisocoria Unequal Pupil Diameter,0.809964120388031,non-medical
+suboptimally,Suboptimally Visualized,0.8081406354904175,non-medical
+widening,Mediastinum Widening; Widening Of The Ventricles,0.80751633644104,non-medical
+intraparenchymal,Intraparenchymal Route Of Administration,0.8071524500846863,non-medical
+seven,Fifty Seven,0.8068398833274841,non-medical
+comparison,View Comparison,0.806542158126831,non-medical
+within,Within Normal Limits; Within 24 Hours; Within Last 24 Hours,0.8051398396492004,non-medical
+liter,Thousand Per Liter,0.8049282431602478,non-medical
+interrupted,Interrupted Respiration,0.8047094345092773,non-medical
+thin,Thin Sectionings; Thin Qualifier Value,0.804161012172699,non-medical
+somewhat,Somewhat Difficult,0.8036327958106995,non-medical
+move,Does Move Head,0.8033418655395508,non-medical
+folded,Folded Structure,0.8032185435295105,non-medical
+since,Decrease In Size Since Previous Mammogram Finding; Increase In Size Since Previous Mammogram; New Finding Since Previous Mammogram; No Significant Change Since Previous Mammogram Finding,0.8026860952377319,non-medical
+probably,Probably Present Qualifier Value,0.8013195991516113,non-medical
+jejunal,Duodeno Jejunal,0.800313413143158,non-medical
+fragment,Elevated Fibrin Degradation Fragment Concentration,0.7994232177734375,non-medical
+identifier,Contrast Agent Administered Identifier,0.7984129786491394,non-medical
+ps,Ps 15,0.7978829741477966,non-medical
+unlikely,Very Unlikely,0.7976657152175903,non-medical
+deposition,Focal Calcium Deposition; Diffuse Calcium Deposition Calcified Structure,0.7968064546585083,non-medical
+unclear,Unclear State Of Matter,0.796142041683197,non-medical
+temperature,Spiking Temperature,0.795581042766571,non-medical
+including,Including Qualifier,0.7954672574996948,non-medical
+blushing,Blushing Function; Abnormal Blushing,0.7951478958129883,non-medical
+images,Three Dimensional Images,0.7946150898933411,non-medical
+dislocation,Dislocation Incomplete,0.7944778203964233,non-medical
+malignancies,Secondary Malignancies,0.794244110584259,non-medical
+deglutition,Piecemeal Deglutition,0.7918541431427002,non-medical
+orientation,Anteroposterior Orientation,0.7918515205383301,non-medical
+impending,Impending Fracture,0.7912554740905762,non-medical
+rapidly,Rapidly Progressive,0.7910608649253845,non-medical
+fragments,Bone Fragments,0.7899061441421509,non-medical
+posterosuperior,Left Posterosuperior,0.7876233458518982,non-medical
+alcohol,History Of Alcohol Abuse; Aa Alcohol Abuse,0.7871801257133484,non-medical
+entities,Count Of Entities,0.7870090007781982,non-medical
+rash,Lower Extremity Rash,0.7865448594093323,non-medical
+consequence,Consequence Of,0.7860656976699829,non-medical
+piecemeal,Piecemeal Deglutition,0.785667896270752,non-medical
+ilium,Bone Structure Of Ilium,0.7837544679641724,non-medical
+definitely,Definitely Present Qualifier Value,0.7821528911590576,non-medical
+occur,Occur Action,0.7800039052963257,non-medical
+palpable,Palpable Mass,0.7799436450004578,non-medical
+medium,Before Contrast Medium,0.7796714901924133,non-medical
+bag,Bag Device,0.7795698046684265,non-medical
+perfectly,Perfectly Clear,0.7791855931282043,non-medical
+physiologic,Physiologic Imaging; Held Inspiration Physiologic Challenge Procedure,0.7791268229484558,non-medical
+anchoring,Anchoring Procedure,0.7747882008552551,non-medical
+worse,Slightly Worse; Much Worse,0.7726272940635681,non-medical
+pertechnetate,Technetium Pertechnetate,0.7719127535820007,non-medical
+contact,Contact With,0.7707539200782776,non-medical
+r,R Lateral,0.7705057263374329,non-medical
+concurrent,Reviews Concurrent,0.7698397636413574,non-medical
+inversion,Transverse Relaxation Time Fluid Attenuated Inversion Recovery Mri,0.7696570158004761,non-medical
+overall,Overall Research Strategy,0.7692268490791321,non-medical
+niddm,Niddm Non Insulin Dependent Diabetes Mellitus,0.7684814929962158,non-medical
+anomaly,Developmental Venous Anomaly,0.768386960029602,non-medical
+done,Assessment Not Done; To Be Done Qualifier Value,0.7674697637557983,non-medical
+j,J Tube Placement; J Wire Device,0.7666422724723816,non-medical
+responsible,Responsible To Attribute,0.7650712728500366,non-medical
+tapering,Tapering Action,0.7638869881629944,non-medical
+months,Three Months; 2 Months; Six Months,0.7634908556938171,non-medical
+hartmann,Hartmann S Pouch,0.7629421353340149,non-medical
+rad,Rad Radiation Absorbed Dose,0.7620270848274231,non-medical
+percent,Greater Than Seventy Five Percent,0.7610167264938354,non-medical
+investigation,Investigation Finding,0.760682225227356,non-medical
+clear,Perfectly Clear,0.7601736187934875,non-medical
+echogenicity,Increased Echogenicity,0.7597278356552124,non-medical
+inch,0 . 018 Inch,0.7589230537414551,non-medical
+volumetric,Volumetric Mass Density,0.7585443258285522,non-medical
+maroon,Maroon Stools,0.7571938037872314,non-medical
+sample,Sample Fixation; Analysis Sample,0.7570945620536804,non-medical
+much,As Much As Desired; Much Better; Much Worse; How Much Bothered By Arm Weakness In Affected Arm; Too Much,0.7569974660873413,non-medical
+pouch,Hartmann S Pouch; Structure Of Rectouterine Pouch,0.7568694949150085,non-medical
+global,Hypokinesis Global,0.7563120722770691,non-medical
+inferolateral,Right Inferolateral,0.7562888860702515,non-medical
+memory,Lack Of Memory,0.7559512257575989,non-medical
+original,Original Report,0.7555630207061768,non-medical
+etc,Etc .,0.7553163170814514,non-medical
+nonrebreather,Nonrebreather Oxygen Mask,0.7551575899124146,non-medical
+one,One Day; One Week; One Activity Hour; One Year; One Month; Posterior One Third Of Tongue; One Or Two Days; Severity One Out Of Three; Pet Lays In One Place All Day,0.7549377083778381,non-medical
+trace,Trace Amount,0.7538732290267944,non-medical
+chin,Chin Down,0.7535321116447449,non-medical
+retraction,Retraction Finding,0.7533372044563293,non-medical
+consented,Consented Qualifier Value,0.7530182003974915,non-medical
+replaced,Replaced By,0.7530151605606079,non-medical
+restricted,Restricted Diffusion,0.7521187663078308,non-medical
+jejunum,Small Intestine Jejunum,0.7509067058563232,non-medical
+coughing,Coughing Up Massive Amount Of Blood; Bothered By Coughing; Recurrent Episodes Of Coughing Up Blood,0.7499424815177917,non-medical
+indicated,Contra Indicated,0.7488688230514526,non-medical
+truncation,Protein Truncation Abnormality,0.7477705478668213,non-medical
+difficult,Mechanical Difficult; Not Difficult At All; Difficult Qualifier Value; Very Difficult; Somewhat Difficult; Difficult Tracheal Intubation Finding; Extremely Difficult; Slightly Difficult,0.7473862767219543,non-medical
+nerves,Unspecified Disorder Of Cranial Nerves,0.7473740577697754,non-medical
+temporalis,Right Temporalis Muscle,0.7468254566192627,non-medical
+contained,Contained In Attribute,0.7457744479179382,non-medical
+polyps,Specimen Source Codes Polyps,0.7456226348876953,non-medical
+flexure,Structure Of Left Colic Flexure,0.7452951669692993,non-medical
+incomplete,Incomplete Expansion; Dislocation Incomplete; Incomplete Resection,0.7449700236320496,non-medical
+weeks,Three Weeks; Last Two Weeks; 2 Weeks; Two Weeks; 3 Weeks; 4 Weeks; 6 Weeks,0.744813859462738,non-medical
+shortness,Increased Shortness Of Breath; Sob Shortness Of Breath; Mild Shortness Of Breath; Shortness Of Breath Question; Intermittent Shortness Of Breath; No Shortness Of Breath; Some Shortness Of Breath,0.7447149753570557,non-medical
+combination,Cap Combination,0.7435051202774048,non-medical
+entry,Entry Data,0.7431972622871399,non-medical
+cessation,Cessation Of Life,0.7427365779876709,non-medical
+constricting,Constricting Sensation Quality,0.7425737380981445,non-medical
+bore,Bore Qualifier Value,0.7425636053085327,non-medical
+provided,Not Provided Qualifier Value,0.7417851090431213,non-medical
+cortices,Precentral Motor Cortices,0.7412124872207642,non-medical
+interpretation,Interpretation Of Laboratory Tests,0.7404304146766663,non-medical
+spin,Spin Echo Imagings; Labeling Spin,0.7383712530136108,non-medical
+reflex,Reflex Finding,0.7382635474205017,non-medical
+laboratory,Interpretation Of Laboratory Tests,0.7369102835655212,non-medical
+brim,Pelvic Brim,0.7364924550056458,non-medical
+destruction,Bony Destruction; Destruction Action; Cortical Destruction; Tumour Destruction,0.7362711429595947,non-medical
+completely,Resolved Completely,0.7356332540512085,non-medical
+posterolateral,Inferior Posterolateral,0.7350344061851501,non-medical
+ms,Ms . Title; Ms S,0.7332751750946045,non-medical
+cleared,Cleared By,0.7317105531692505,non-medical
+moved,Moved To,0.7310515642166138,non-medical
+coefficient,Attenuation Coefficient,0.7302250266075134,non-medical
+fiducial,Targets Fiducial,0.7297669053077698,non-medical
+nonspecific,Nonspecific Pain In The Neck Region; Nonspecific Pain In The Lumbar Region,0.729661762714386,non-medical
+followed,Followed By,0.7291375398635864,non-medical
+soon,As Soon As Possible,0.7275886535644531,non-medical
+emergent,Non Emergent,0.7274512648582458,non-medical
+respiration,Rapid Respiration; Interrupted Respiration; Sound Of Respiration,0.7272117733955383,non-medical
+sets,Data Sets,0.7266735434532166,non-medical
+restriction,State Of Restriction,0.7241376638412476,non-medical
+concentration,Elevated Fibrin Degradation Fragment Concentration,0.7235881090164185,non-medical
+liquid,Liquid Substance,0.722587525844574,non-medical
+appendage,Bony Appendage; Structure Of Auricular Appendage,0.7203847765922546,non-medical
+ability,Swallowing Ability; Ability To Stand Upright,0.7196927666664124,non-medical
+suspected,Suspected Qualifier; Not Suspected Qualifier Value,0.7192217707633972,non-medical
+hounsfield,Hounsfield Unit,0.7122642397880554,non-medical
+presence,Of Presence,0.7089012265205383,non-medical
+near,Near Complete; Near To,0.7074291110038757,non-medical
+heads,Multiple Heads,0.7060911655426025,non-medical
+weakness,Generalised Muscle Weakness; Proximal Muscle Weakness; How Much Bothered By Arm Weakness In Affected Arm,0.7052062153816223,non-medical
+referred,Information Recipient Referred To,0.7040370106697083,non-medical
+uncus,Right Uncus,0.7037211060523987,non-medical
+equivalent,Equivalent Unit,0.7030428051948547,non-medical
+spiculations,Micro Spiculations,0.7029423117637634,non-medical
+tympanic,Tympanic Abdoman To Percussion,0.7028470039367676,non-medical
+ataxia,Ataxia Of Gait,0.7025168538093567,non-medical
+membrane,Pleural Membrane Structure,0.7007164359092712,non-medical
+crosstable,Lateral Crosstable,0.7002966403961182,non-medical
+stiffener,Stiffener Device,0.6990538239479065,non-medical
+neural,Neural Canals,0.697539746761322,non-medical
+allergic,Reactions Allergic; Extrinsic Allergic Bronchiolo Alveolitis,0.6967450976371765,non-medical
+diminutive,Minute Diminutive,0.6963992118835449,non-medical
+minutes,20 Minutes; 40 Minutes; Fifteen Minutes; Forty Five Minutes; Thirty Minutes; 5 Minutes Office Visit; Sixty Minutes; Few Minutes; 90 Minutes; Time Between Waking And First Smoke After 60 Minutes; 2 Minutes; 100 Minutes; 31 Minutes,0.695325493812561,non-medical
+streptococcus,Bacterial Infection Due To Unspecified Streptococcus,0.6952308416366577,non-medical
+flexed,Head Flexed Physical Finding,0.694413423538208,non-medical
+filters,Inferior Vena Cava Filters; Umbrella Filters,0.6909047961235046,non-medical
+gram,Billion Per Gram; Gram Stain Of Sputum,0.6898418664932251,non-medical
+hypersensitivity,Hypersensitivity Reaction,0.6891456842422485,non-medical
+oral,Oral Psychosexual Phase; Decreased Oral Intake; Oral Residue Following Swallowing; Oral Function,0.688481867313385,non-medical
+loss,Progressive Volume Loss; No Loss; Partial Loss; Recent Weight Loss,0.6868665814399719,non-medical
+symphysis,Symphysis Pubis Structure,0.6851614713668823,non-medical
+diameter,Diameter . Transverse; Anisocoria Unequal Pupil Diameter; Diameter . Sagittal; Outer Greatest Diameter,0.6844930648803711,non-medical
+tinged,Blood Tinged; Pink Tinged,0.6833975315093994,non-medical
+hrs,24 Hrs,0.6812209486961365,non-medical
+odontoid,Fracture Of Odontoid Process,0.6809836626052856,non-medical
+already,Already Performed,0.6772390007972717,non-medical
+orbit,Compartment Space Of Orbit; Structure Of Inferior Wall Of Orbit; Head Sinuses Orbit; Structure Of Soft Tissues Of Orbit,0.6770352721214294,non-medical
+sensitivity,Sensitivity And Specificity,0.6759649515151978,non-medical
+attenuated,Transverse Relaxation Time Fluid Attenuated Inversion Recovery Mri,0.6737838387489319,non-medical
+anaerobic,Anaerobic Blood Culture,0.6729682087898254,non-medical
+hippocampus,Hippocampus Proprius,0.672065794467926,non-medical
+fr,4 Fr; 5 Fr; 7 Fr; 6 Fr; 8 Fr,0.6701577305793762,non-medical
+calcaneal,Plantar Calcaneal Spur,0.6692579984664917,non-medical
+focally,Focally Increased,0.6679450869560242,non-medical
+aa,Aa Alcohol Abuse,0.6675679683685303,non-medical
+excreted,Percentage Excreted,0.6668499112129211,non-medical
+breath,Increased Shortness Of Breath; Sob Shortness Of Breath; Severely Short Of Breath Answer; Mild Shortness Of Breath; Diminished Breath Sounds; Shortness Of Breath Question; Coarse Breath Sounds; Intermittent Shortness Of Breath; No Shortness Of Breath; Breath Holding With Temper; Auscultation Bronchial Breath Sounds; Bronchial Breath Sounds At Left Base; Some Shortness Of Breath,0.6660659909248352,non-medical
+numbness,Numbness Of Left Leg,0.6640852093696594,non-medical
+marked,Moderate To Marked,0.663647472858429,non-medical
+thallous,Thallous Chloride,0.6626325845718384,non-medical
+method,Method :,0.6609933376312256,non-medical
+effectiveness,Effectiveness Assessment,0.6600337624549866,non-medical
+prepontine,Prepontine Cistern,0.6583004593849182,non-medical
+skull,Base Of Skull Structure; Calvarial Skull Defect; Unequal Skull Shape; Deformity Of The Skull,0.6575565338134766,non-medical
+contain,Contain Action,0.6570988893508911,non-medical
+blue,Blue Codes,0.655051052570343,non-medical
+ml,100 Ml,0.6543866991996765,non-medical
+lobulated,Lobulated Nodule,0.6522521376609802,non-medical
+subpleural,Subpleural Honeycombing; Subpleural Interstitial Thickening,0.6504557132720947,non-medical
+separation,Separation Of Joint,0.6499690413475037,non-medical
+ul,Entire Ul Upper Limb,0.6495519280433655,non-medical
+stop,Stop Brand Of Fluoride,0.645264744758606,non-medical
+fibrous,Fibrous Tissue Formation,0.6445669531822205,non-medical
+radiata,Left Corona Radiata; Right Corona Radiata,0.6445211172103882,non-medical
+urgency,Hypertensive Urgency,0.6440035700798035,non-medical
+anteroposterior,Anteroposterior Orientation; Ap Anteroposterior Projection,0.6436588168144226,non-medical
+warm,Warm Compresses,0.6427494883537292,non-medical
+performed,Already Performed,0.6394452452659607,non-medical
+close,Very Close,0.6394085884094238,non-medical
+stone,Biliary System Stone,0.6392297148704529,non-medical
+gdc,Gdc Prior Malignancy Terminology,0.6369423866271973,non-medical
+cisterna,Cisterna Basalis,0.6354181170463562,non-medical
+chain,Short Chain Dehydrogenase Reductase Family 18C Member 1,0.6343736052513123,non-medical
+projection,Anterior Projection; Ap Anteroposterior Projection,0.6331285834312439,non-medical
+l,L Lateral,0.6306108832359314,non-medical
+adequacy,Adequacy Of Specimen,0.6299234628677368,non-medical
+valleculae,Residue On Valleculae Following Swallowing,0.6282132863998413,non-medical
+verifying,Verifying Speciman,0.6279172897338867,non-medical
+nausea,Observation Of Nausea; Persistent Nausea,0.6278036832809448,non-medical
+association,Homologous Association,0.6262500882148743,non-medical
+intermediate,Intermediate Segment Of Free Lower Limb; Intermediate Segment Of Free Upper Limb,0.6256318688392639,non-medical
+weight,Recent Weight Loss,0.6243300437927246,non-medical
+tongue,Observation Of Motor Function Of Tongue; Posterior One Third Of Tongue,0.6238477826118469,non-medical
+virus,Iiia Virus,0.6236236095428467,non-medical
+limbic,Paraneoplastic Limbic Encephalopathy,0.6235975027084351,non-medical
+specimen,Specimen Appearance Assessment; Specimen Type Abscess; Adequacy Of Specimen; Specimen Type Sputum Coughed; Specimen Source Codes Polyps; Specimen Volume : Vol : Pt : Pericard Fld : Qn,0.6213463544845581,non-medical
+absent,Abdominal Tenderness Absent,0.6209903359413147,non-medical
+splenomegaly,Splenomegaly Massive,0.6208056807518005,non-medical
+thecal,Thecal Sac Effacement,0.6207070350646973,non-medical
+metaphysis,Metaphysis Of Right Femur,0.6203439235687256,non-medical
+intrinsic,Intrinsic Muscles Of The Back,0.619706392288208,non-medical
+tc,Technetium Tc 99M 2 Methoxy 2 Methylpropylisonitrile,0.6157529354095459,non-medical
+increase,Increase In Size Since Previous Mammogram,0.6070774793624878,non-medical
+pains,Flank Pains Left,0.6070184111595154,non-medical
+dysplastic,Dysplastic Nodule,0.6061705350875854,non-medical
+costal,Costal Somatic Dysfunction,0.6043195128440857,non-medical
+consistent,Consistent With,0.6041959524154663,non-medical
+blunt,Blunt Trauma,0.6038622856140137,non-medical
+cross,Cross Sectional Imaging; Cross Sectional Analyses,0.6015050411224365,non-medical
+endo,Mannosidase Endo Alpha,0.6006214618682861,non-medical
+hips,Painful Hips,0.5994293689727783,non-medical
+recumbent,Body Position Recumbent Lateral Decubitus; Recumbent Body Position,0.596868097782135,non-medical
+abuse,Tobacco Abuse; Of Substance Abuse; History Of Alcohol Abuse; Aa Alcohol Abuse,0.593566358089447,non-medical
+naris,Right Naris; Structure Of Left Anterior Naris,0.5932236909866333,non-medical
+tags,Tags Device,0.5930920243263245,non-medical
+colloid,Colloid Cysts,0.592603325843811,non-medical
+ensure,Ensure Product,0.5924850702285767,non-medical
+secretions,Retained Secretions,0.5900987982749939,non-medical
+anaphylaxis,History Of Anaphylaxis,0.5897175669670105,non-medical
+feature,Discontinuous Anatomic Feature; Imaging Feature,0.589293360710144,non-medical
+tests,Interpretation Of Laboratory Tests,0.5889844298362732,non-medical
+heterotopic,Heterotopic Bone,0.5882264971733093,non-medical
+cirrhosis,No Cirrhosis; Alcoholic Cirrhosis Of Liver; Cl Cirrhosis Of Liver,0.5842594504356384,non-medical
+intake,Decreased Oral Intake,0.5808808207511902,non-medical
+talar,Talar Mortise,0.580807626247406,non-medical
+fistulous,Inflammatory Fistulous Tract,0.5769022107124329,non-medical
+contraction,Contraction Finding,0.5709194540977478,non-medical
+resolved,Resolved Completely,0.5700388550758362,non-medical
+n,Phosphatidyl N Monomethylethanolamine Methyltransferase Activity; I Little N Super Little B; Indicine N Oxide,0.5686532855033875,non-medical
+questions,Examination Questions,0.5674418807029724,non-medical
+corona,Left Corona Radiata; Right Corona Radiata,0.5672722458839417,non-medical
+lipase,Amylase Lipase,0.5630863308906555,non-medical
+musculature,Musculature Of Abdominal Wall,0.5629580616950989,non-medical
+hemispheres,Neoplasm Of The Cerebral Hemispheres,0.5627983212471008,non-medical
+extubation,Extubation Attempt,0.5619660019874573,non-medical
+anticoagulation,Anticoagulation Drug Level Below Therapeutic,0.561878502368927,non-medical
+plaque,Intramural Plaque; Pleural Based Plaque,0.5612388253211975,non-medical
+extrarenal,Bilateral Extrarenal Pelvis,0.5597427487373352,non-medical
+recovering,Recovering From,0.5568318367004395,non-medical
+administered,Contrast Agent Administered Identifier; Not Administered; Total Dose Administered,0.5557882785797119,non-medical
+precautions,Rnrx Universal Precautions,0.5503492951393127,non-medical
+solid,Part Solid Nodule,0.5486240983009338,non-medical
+canals,Neural Canals,0.5484616160392761,non-medical
+flexion,Flexion Function,0.5468445420265198,non-medical
+incorrect,Incorrect Patient,0.5457611680030823,non-medical
+started,Procedure Started Context Dependent Category,0.5430214405059814,non-medical
+affected,How Much Bothered By Arm Weakness In Affected Arm,0.5418055653572083,non-medical
+brachial,Right Brachial Region,0.541367769241333,non-medical
+ventriculomegaly,Ventriculomegaly Mild,0.5395320653915405,non-medical
+free,Free Fluid; Intermediate Segment Of Free Lower Limb; Proximal Segment Of Free Upper Limb; Free Pelvic Fluid; Free Wall Of Right Atrium; Free Air In Peritoneal Cavity; Pain Free; Proximal Segment Of Free Lower Limb; Fat Free Diets; Free Wall Of Left Atrium; Intermediate Segment Of Free Upper Limb,0.5390332341194153,non-medical
+source,Services Source Consult Services Treatment; Unknown Source; Other Source; Specimen Source Codes Polyps,0.5388882160186768,non-medical
+inspiration,Respiratory Inspiration; Held Inspiration Physiologic Challenge Procedure,0.5362219214439392,non-medical
+viscus,Perforated Viscus,0.5359094142913818,non-medical
+mucinous,Mucinous Neoplasm,0.5347127914428711,non-medical
+ns,Ns Neck Stiffness,0.5345125198364258,non-medical
+unusual,Unusual Gas Collection; Unusual Infection,0.532200038433075,non-medical
+homologous,Homologous Association,0.5314313173294067,non-medical
+appearance,Specimen Appearance Assessment; Abnormal Appearance; Ground Glass Appearance; Appearance Of Liver; My Appearance Has Basically Not Changed; Appearance : Aper : Pt : Pericard Fld : Nom,0.5285066962242126,non-medical
+recovery,Transverse Relaxation Time Fluid Attenuated Inversion Recovery Mri,0.5278284549713135,non-medical
+penis,Structure Of The Penis,0.527814507484436,non-medical
+adrenals,Normal Adrenals,0.5275576710700989,non-medical
+enhancement,Leptomeningeal Enhancement,0.5270010828971863,non-medical
+flank,Flank Pains Left,0.5247845649719238,non-medical
+bursa,Structure Of Region Of Omental Bursa,0.524539589881897,non-medical
+chills,Pyrexia With Chills,0.5243512988090515,non-medical
+valvular,Valvular Calcifications,0.5241020321846008,non-medical
+fissure,Major Fissure; Right Major Fissure; Left Major Fissure,0.5233123898506165,non-medical
+cerebri,Structure Of Falx Cerebri,0.5168426632881165,non-medical
+allergies,History Of Allergies,0.5154822468757629,non-medical
+range,Date Range; Oxygen Saturation Below Reference Range; Out Of Range,0.5153118371963501,non-medical
+capsule,Left External Capsule; Right Internal Capsule; Left Internal Capsule; Structure Of Genu Of Internal Capsule,0.5146717429161072,non-medical
+organism,Antimicrobial Resistant Organism Organism,0.5136032700538635,non-medical
+aplasia,Aplasia Of The Epiglottis,0.5134602189064026,non-medical
+micro,Micro Spiculations,0.5125501751899719,non-medical
+decubitus,Body Position Recumbent Lateral Decubitus,0.5114515423774719,non-medical
+schizoaffective,Schizoaffective Disorder,0.5086318850517273,non-medical
+adnexa,Left Adnexa,0.5079840421676636,non-medical
+phrenic,Phrenic Nerve Dysfunction Adverse Event,0.5078490972518921,non-medical
+crystalloid,Crystalloid Solutions,0.5066185593605042,non-medical
+dental,Dental Assistants; Dental Filling Materials; Dental Cement Dosage Form; Dental Fillings,0.5065819025039673,non-medical
+irregular,Irregular Contour; Irregular Lesions; Breast Irregular Nodularity,0.5060808062553406,non-medical
+millimeter,Square Millimeter Qualifier Value; Millimeter Of Mercury,0.5052937269210815,non-medical
+abutment,Mandibular Right First Molar Abutment Mesial Hemisection,0.5052682161331177,non-medical
+mucus,Mucus Plugging,0.5028371810913086,non-medical
