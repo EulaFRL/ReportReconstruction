@@ -4,7 +4,8 @@ from sklearn.cluster import DBSCAN
 from sklearn.neighbors import LocalOutlierFactor
 import numpy as np
 
-input_csv = 'data/med_embeddings_freq.csv'
+
+input_csv = 'General_NER/analysis/input/report_keywords/report_both_embeddings.csv'
 grouped_output_csv = 'data/med_embeddings_grouped.csv'  # Output file with clustering results
 outliers_output_csv = 'data/med_embeddings_outliers.csv'  # Output file with outlier detection results
 
