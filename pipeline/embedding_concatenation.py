@@ -20,3 +20,4 @@ report_embeddings = load_and_concatenate(report_files)
 structured_embeddings = load_and_concatenate(structured_files)
 
 report_embeddings.to_csv("General_NER/analysis/input/report_keywords/report_both_embeddings.csv")
+structured_embeddings.to_csv("General_NER/analysis/input/report_keywords/structured_both_embeddings.csv")
