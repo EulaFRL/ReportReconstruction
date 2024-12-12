@@ -2,6 +2,7 @@
 from transformers import pipeline
 import pandas as pd
 import numpy as np  
+from tqdm import tqdm
     
 # dummy
 # def classification():
@@ -20,7 +21,7 @@ def classify(text, classifier):
     return (accuracy, label)
 
 def main():
-    df = pd.read_csv('output/ranked_cosine_similarity.csv')
+    df = pd.read_csv('output/report_ranked_cosine_similarity.csv')
     # columns: ['General Attribute', 'General Frequency', 'Matched Medical Attributes',
     # 'Matched Medical Frequencies', 'Mean Cosine Similarity', 'Direction']
     
@@ -28,8 +29,10 @@ def main():
     classifier = pipeline("zero-shot-classification", model="MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli")
     
     results = []
+    
+    print(len(df))
 
-    for _, row in df.iterrows():
+    for _, row in tqdm(df.iterrows(), desc="processing rows"):
         text_to_classify = f"{row['General Attribute']} {row['Matched Medical Attributes']}"
         print(f"Classifying: {text_to_classify}")
         accuracy, label = classify(text_to_classify, classifier)
