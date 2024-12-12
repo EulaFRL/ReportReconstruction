@@ -2,8 +2,8 @@ import re
 import pandas as pd
 from sklearn.cluster import DBSCAN
 from sklearn.neighbors import LocalOutlierFactor
+from sklearn.cluster import AgglomerativeClustering
 import numpy as np
-
 
 input_csv = 'data/report_keywords/report_both_embeddings.csv'
 grouped_output_csv = 'data/report_keywords/report_embeddings_grouped.csv'  # Output file with clustering results
@@ -18,7 +18,30 @@ def parse_embedding(embedding_str):
     embedding_list = list(map(float, embedding_str.split()))  # Split by spaces and convert to float
     return np.array(embedding_list)
 
-def group_keywords_by_semantics(input_csv, output_csv, eps=0.5, min_samples=1, output_txt="clustered_pretty_names.txt"):
+def enforce_cluster_size_limit(data, cluster_labels, max_size=5):
+    """
+    Enforces an upper limit on cluster size by splitting oversized clusters.
+    """
+    new_cluster_labels = cluster_labels.copy()
+    oversized_clusters = {label for label in set(cluster_labels) if label != -1 and list(cluster_labels).count(label) > max_size}
+
+    current_max_label = max(cluster_labels) + 1
+    for label in oversized_clusters:
+        cluster_indices = np.where(cluster_labels == label)[0]
+        oversized_embeddings = data.iloc[cluster_indices]['UMLS_Embeddings'].apply(parse_embedding).tolist()
+        
+        # Use AgglomerativeClustering with distance_threshold to split oversized clusters
+        subclusterer = AgglomerativeClustering(distance_threshold=0.5, n_clusters=None, linkage='ward')
+        subcluster_labels = subclusterer.fit_predict(oversized_embeddings)
+
+        for idx, sub_label in zip(cluster_indices, subcluster_labels):
+            new_cluster_labels[idx] = current_max_label + sub_label
+
+        current_max_label += len(set(subcluster_labels))
+
+    return np.array(new_cluster_labels)
+
+def group_keywords_by_semantics(input_csv, output_csv, eps=0.5, min_samples=1, output_txt="clustered_pretty_names.txt", max_size=5):
     import pandas as pd
     import numpy as np
     from sklearn.cluster import DBSCAN
@@ -35,23 +58,24 @@ def group_keywords_by_semantics(input_csv, output_csv, eps=0.5, min_samples=1, o
     dbscan = DBSCAN(eps=eps, min_samples=min_samples, metric='euclidean')
     cluster_labels = dbscan.fit_predict(embeddings)
 
+    # Enforce cluster size limit
+    cluster_labels = enforce_cluster_size_limit(data, cluster_labels, max_size)
+
     # Assign cluster labels to data
     data['cluster_id'] = cluster_labels
     data.to_csv(output_csv, index=False)
     print(f"Grouping complete. Results saved to {output_csv}")
     
-    # # Write 'pretty_name' column for clusters with more than one row to a text file
-    # with open(output_txt, 'w') as file:
-    #     grouped = data.groupby('cluster_id')
-    #     for cluster_id, group in grouped:
-    #         if len(group) > 1:  # Check if the cluster has more than one row
-    #             file.write(f"Cluster ID {cluster_id}:\n")
-    #             file.write(group['pretty_name'].to_string(index=False))
-    #             file.write("\n" + "-" * 40 + "\n")  # Separator for better readability
-    # print(f"Cluster details with multiple rows saved to {output_txt}")
+    # Write 'pretty_name' column for clusters with more than one row to a text file
+    with open(output_txt, 'w') as file:
+        grouped = data.groupby('cluster_id')
+        for cluster_id, group in grouped:
+            if len(group) > 1:  # Check if the cluster has more than one row
+                file.write(f"Cluster ID {cluster_id}:\n")
+                file.write(group['pretty_name'].to_string(index=False))
+                file.write("\n" + "-" * 40 + "\n")  # Separator for better readability
+    print(f"Cluster details with multiple rows saved to {output_txt}")
 
-
-# Semantic Outlier Detection
 def detect_semantic_outliers(input_csv, output_csv, outlier_csv, n_neighbors=20):
     data = pd.read_csv(input_csv)
     embeddings = np.array([parse_embedding(e) for e in data['UMLS_Embeddings']]) 
@@ -66,11 +90,10 @@ def detect_semantic_outliers(input_csv, output_csv, outlier_csv, n_neighbors=20)
 
     # Extract the top 20 rows with the lowest frequencies
     top_20_lowest = sorted_data.head(20)
-    data.to_csv(outlier_csv, index=False)
+    top_20_lowest.to_csv(outlier_csv, index=False)
 
     data.to_csv(output_csv, index=False)
     print(f"Outlier detection complete. Results saved to {output_csv}")
-
 
 if __name__ == "__main__":
     group_keywords_by_semantics(input_csv, grouped_output_csv)
